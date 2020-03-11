@@ -1,0 +1,1044 @@
+0,商品ID,书籍名称,书籍链接,价格,好评度,评论数,出版社,店家链接
+1,10005697,《systemverilog验证》(（美）克里斯·斯皮尔)【摘要 书评 试读】- 京东图书,//item.jd.com/10005697.html,55,96,700,科学出版社,//mall.jd.com/index-1000005740.html
+2,10057441,《数据结构与算法分析：C语言描述（原书第2版） 》([美]MarkAllenWeiss)【摘要 书评 试读】- 京东图书,//item.jd.com/10057441.html,27.6,98,13000,机械工业出版社,//cmpbook.jd.com
+3,10057453,《计算机科学丛书：C程序设计语言习题解答（第2版·新版 原书第2版）》([美]汤朵，[美]吉米拜尔)【摘要 书评 试读】- 京东图书,//item.jd.com/10057453.html,12,97,21000,机械工业出版社,//cmpbook.jd.com
+4,10057835,《数据结构（C语言版）》([美]霍罗威茨，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10057835.html,37.3,97,1100,机械工业出版社,//cmpbook.jd.com
+5,10057868,《ABAQUS有限元分析实例详解（附光盘）》(石亦平，周玉蓉)【摘要 书评 试读】- 京东图书,//item.jd.com/10057868.html,37.8,97,3700,机械工业出版社,//cmpbook.jd.com
+6,10057929,《C程序设计语言（英文版）（第2版）》(Brian W.Kernighan，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10057929.html,27.5,95,800,机械工业出版社,//cmpbook.jd.com
+7,10058149,《Java编程思想（英文版）（第4版）》(（美）埃克尔)【摘要 书评 试读】- 京东图书,//item.jd.com/10058149.html,61.3,95,1100,机械工业出版社,//cmpbook.jd.com
+8,10058164,《Java编程思想（第4版） 》([美]Bruce  Eckel)【摘要 书评 试读】- 京东图书,//item.jd.com/10058164.html,86.4,98,87000,机械工业出版社,//cmpbook.jd.com
+9,10058902,《Effective Java中文版（第2版） 》([美]布洛克（Joshua Bloch）)【摘要 书评 试读】- 京东图书,//item.jd.com/10058902.html,38.8,98,14000,机械工业出版社,//cmpbook.jd.com
+10,10059373,《算法：C语言实现（第1-4部分）基础知识、数据结构、排序及搜索（原书第3版）》([美]塞奇威克)【摘要 书评 试读】- 京东图书,//item.jd.com/10059373.html,57.9,96,1000,机械工业出版社,//cmpbook.jd.com
+11,10062260,《C Primer Plus（第5版 中文版）》([美]普拉塔 （Prata S.）)【摘要 书评 试读】- 京东图书,//item.jd.com/10062260.html,47.4,97,50000,人民邮电出版社,//ptpressjd.jd.com
+12,10062654,《C和C++经典著作：C陷阱与缺陷》([美]Andrew Koenig)【摘要 书评 试读】- 京东图书,//item.jd.com/10062654.html,23.7,97,50000,人民邮电出版社,//ptpressjd.jd.com
+13,10062655,"《C和C++经典著作：C专家编程Expert C Programming Deep C Secrets》([美]林登（LinDen,P.V.D）)【摘要 书评 试读】- 京东图书",//item.jd.com/10062655.html,35.4,97,50000,人民邮电出版社,//ptpressjd.jd.com
+14,10062667,《C和C++经典著作：C和指针 POINTERS ON C》([美]里科（Kenneth·Reek）)【摘要 书评 试读】- 京东图书,//item.jd.com/10062667.html,51.3,97,50000,人民邮电出版社,//ptpressjd.jd.com
+15,10062788,"《Python核心编程（第2版）》([美]丘恩（Chun,W.J.）)【摘要 书评 试读】- 京东图书",//item.jd.com/10062788.html,70.3,95,7800,人民邮电出版社,//ptpressjd.jd.com
+16,10064006,《代码整洁之道 》([美]马丁)【摘要 书评 试读】- 京东图书,//item.jd.com/10064006.html,46.6,98,39000,人民邮电出版社,//ptpressjd.jd.com
+17,10064146,《C语言程序设计：现代方法（第2版）》([美]金)【摘要 书评 试读】- 京东图书,//item.jd.com/10064146.html,67.2,98,2600,人民邮电出版社,//ptpressjd.jd.com
+18,10066736,《编程之美：微软技术面试心得》【摘要 书评 试读】- 京东图书,//item.jd.com/10066736.html,30.9,98,26000,电子工业出版社,//phei1982.jd.com
+19,10066936,《Tomcat与Java Web开发技术详解（第2版）（附光盘）》(孙卫琴)【摘要 书评 试读】- 京东图书,//item.jd.com/10066936.html,60.4,97,2000,电子工业-艺术摄影,//mall.jd.com/index-1000077369.html
+20,10067435,《JAVA开发专家·精通Hibernate：Java对象持久化技术详解（第2版）（附光盘1张）》(孙卫琴)【摘要 书评 试读】- 京东图书,//item.jd.com/10067435.html,61.3,96,800,电子工业-艺术摄影,//mall.jd.com/index-1000077369.html
+21,10078851,《DirectX 9.0 3D游戏开发编程基础》([美]Frank D.Luna)【摘要 书评 试读】- 京东图书,//item.jd.com/10078851.html,40.9,97,600,清华大学出版社,//mall.jd.com/index-1000004111.html
+22,10079137,《LabVIEW 8.20程序设计从入门到精通（附光盘）》(陈锡辉，张银鸿)【摘要 书评 试读】- 京东图书,//item.jd.com/10079137.html,43.6,95,700,清华大学出版社,//mall.jd.com/index-1000004111.html
+23,10079621,《机器视觉算法与应用（双语版）》([德]斯蒂格（Steger C），等)【摘要 书评 试读】- 京东图书,//item.jd.com/10079621.html,50.8,98,700,清华大学出版社,//mall.jd.com/index-1000004111.html
+24,10079668,《微软技术丛书：Windows核心编程（第5版）》(杰夫瑞（Jeffrey Richter），等)【摘要 书评 试读】- 京东图书,//item.jd.com/10079668.html,88,97,3000,清华大学出版社,//mall.jd.com/index-1000004111.html
+25,10079739,《世界著名计算机教材精选：数据结构基础（C语言版）（第2版）》([美]霍罗维兹，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10079739.html,45,97,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+26,10080294,《Java Web整合开发王者归来（JSP+Servlet+Struts+Hibernate+Spring）（附光盘）》(刘京华，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10080294.html,88.7,94,6900,清华大学出版社,//mall.jd.com/index-1000004111.html
+27,10100055,《Fortran95程序设计（附光盘）》(彭国伦)【摘要 书评 试读】- 京东图书,//item.jd.com/10100055.html,47.9,98,2000,中国电力出版社,//mall.jd.com/index-1000005549.html
+28,10100530,"《Fortran95/2003程序设计（第3版）》([美]查普曼（Chapman,S.J）)【摘要 书评 试读】- 京东图书",//item.jd.com/10100530.html,71.5,97,1300,中国电力出版社,//mall.jd.com/index-1000005549.html
+29,10100538,《Tomcat权威指南（第2版）》(布里泰恩（Jason Brittain），达尔文（Ian F.Darwin），吴豪，刘运成，杨前凤，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10100538.html,47.1,97,2400,中国电力出版社,//mall.jd.com/index-1000005549.html
+30,10131799,《Delphi7基础教程》(宋兵，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10131799.html,24.3,94,500,机械工业出版社,//cmpbook.jd.com
+31,10255221,《操作系统：精髓与设计原理（原书第6版）》(斯托林斯（William Stallings）)【摘要 书评 试读】- 京东图书,//item.jd.com/10255221.html,53.6,97,1100,机械工业出版社,//cmpbook.jd.com
+32,10286243,《深入浅出西门子S7 300PLC（附光盘）》(刘锴，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10286243.html,23.5,96,900,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+33,10311441,《经典Java EE企业应用实战：基于WebLogic/JBoss的JSF+EJB 3+JPA整合开发（附CD光盘1张）》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/10311441.html,62.3,97,18000,电子工业出版社,//phei1982.jd.com
+34,10393278,《程序员修炼之道：从小工到专家》([美]亨特（Andrew Hunt），[美]托马斯（Daid Thomas）)【摘要 书评 试读】- 京东图书,//item.jd.com/10393278.html,43.4,98,12000,电子工业出版社,//phei1982.jd.com
+35,10393318,《Effective C++：改善程序与设计的55个具体做法（第3版 中文版） 》([美]梅耶（Scott Meyers）)【摘要 书评 试读】- 京东图书,//item.jd.com/10393318.html,49.7,98,11000,电子工业出版社,//phei1982.jd.com
+36,10399982,《Struts 2+Hibernate+Spring整合开发技术详解（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/10399982.html,59.1,91,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+37,10400653,《Visual C#2010从入门到精通》([英]夏普)【摘要 书评 试读】- 京东图书,//item.jd.com/10400653.html,62.4,96,800,清华大学出版社,//mall.jd.com/index-1000004111.html
+38,10401048,《Visual Basic开发实战1200例（第Ⅰ卷）》(孙秀梅，巩建华，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10401048.html,76.8,97,4400,清华大学出版社,//mall.jd.com/index-1000004111.html
+39,10401082,《Visual C++开发实战1200例（第Ⅰ卷）》(刘锐宁，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10401082.html,76.8,96,4800,清华大学出版社,//mall.jd.com/index-1000004111.html
+40,10401559,《Java开发实战1200例（第1卷）》(李钟尉，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10401559.html,76.8,96,900,清华大学出版社,//mall.jd.com/index-1000004111.html
+41,10401561,《软件开发实战1200例：Java Web开发实战1200例（第Ⅰ卷）》(卢瀚，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10401561.html,67.8,96,8100,清华大学出版社,//mall.jd.com/index-1000004111.html
+42,10401592,《软件开发实战1200例：C#开发实战1200例（第I卷）》(王小科，王军，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10401592.html,85.3,96,10000,清华大学出版社,//mall.jd.com/index-1000004111.html
+43,10484020,《More Effective C++：35个改善编程与设计的有效方法（中文版）》([美]Scott Meyers)【摘要 书评 试读】- 京东图书,//item.jd.com/10484020.html,46.4,99,7700,电子工业出版社,//phei1982.jd.com
+44,10490900,《编译原理（英文版·第2版）》(（美）阿霍，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10490900.html,61.3,96,400,机械工业出版社,//cmpbook.jd.com
+45,10540566,《Visual Basic串口通信及编程实例（附光盘1张）》(张辉，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10540566.html,31.5,96,500,化学工业出版社,//cip1953.jd.com
+46,10603153,《JavaScript DOM编程艺术（第2版） 》([英]Jeremy Keith，[加]Jeffrey Sambells)【摘要 书评 试读】- 京东图书,//item.jd.com/10603153.html,41.7,98,58000,人民邮电出版社,//ptpressjd.jd.com
+47,10649573,《数据结构习题解析（第2版）》(殷人昆)【摘要 书评 试读】- 京东图书,//item.jd.com/10649573.html,46.1,98,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+48,10661841,"《Lucene实战（第2版）》([美]麦肯德利斯（McCandless,M.），等)【摘要 书评 试读】- 京东图书",//item.jd.com/10661841.html,54.4,94,1100,人民邮电出版社,//ptpressjd.jd.com
+49,10663703,《大话数据结构》(程杰)【摘要 书评 试读】- 京东图书,//item.jd.com/10663703.html,53.1,98,13000,清华大学出版社,//mall.jd.com/index-1000004111.html
+50,10690653,《用户体验要素：以用户为中心的产品设计（原书第2版） 》([美]Jesse James Garrett)【摘要 书评 试读】- 京东图书,//item.jd.com/10690653.html,30.8,98,17000,机械工业出版社,//cmpbook.jd.com
+51,10695602,《Java语言程序设计：进阶篇（原书第8版）》([美]Y.Daniel Liang)【摘要 书评 试读】- 京东图书,//item.jd.com/10695602.html,65.2,96,600,机械工业出版社,//cmpbook.jd.com
+52,10701892,《PHP与MySQL程序设计（第4版）》([美]吉尔犘（W.Jason Gilmore）)【摘要 书评 试读】- 京东图书,//item.jd.com/10701892.html,75.7,96,800,人民邮电出版社,//ptpressjd.jd.com
+53,10790734,《C++编程思想（两卷合订本）》([美]Bruce Eckel，Chuck Allison)【摘要 书评 试读】- 京东图书,//item.jd.com/10790734.html,91.1,97,2500,机械工业出版社,//cmpbook.jd.com
+54,10794350,《深入PHP：面向对象、模式与实践（第3版）》([美]Matt Zandstra)【摘要 书评 试读】- 京东图书,//item.jd.com/10794350.html,58.7,97,2100,人民邮电出版社,//ptpressjd.jd.com
+55,10805219,《Python语言在Abaqus中的应用（附CD-ROM光盘1张）》(曹金凤，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10805219.html,45.2,97,3700,机械工业出版社,//cmpbook.jd.com
+56,10899957,《深入理解C#（第2版）》([英]Jon Skeet)【摘要 书评 试读】- 京东图书,//item.jd.com/10899957.html,67.2,95,200,人民邮电出版社,//ptpressjd.jd.com
+57,10903399,《精通QTP：自动化测试技术领航》(余杰，赵旭斌)【摘要 书评 试读】- 京东图书,//item.jd.com/10903399.html,54.4,94,1500,人民邮电出版社,//ptpressjd.jd.com
+58,10909788,《深度探索C++对象模型》([美]Stanley B.Lippman（斯坦利·B.李普曼）)【摘要 书评 试读】- 京东图书,//item.jd.com/10909788.html,54.5,98,3400,电子工业出版社,//phei1982.jd.com
+59,10922250,《华章专业开发者丛书·Java并发编程实战 》([美]Brian Goetz，等)【摘要 书评 试读】- 京东图书,//item.jd.com/10922250.html,64.9,98,9300,机械工业出版社,//cmpbook.jd.com
+60,10922251,《Spring技术内幕：深入解析Spring架构与设计原理（第2版）》(计文柯)【摘要 书评 试读】- 京东图书,//item.jd.com/10922251.html,64.9,97,10000,机械工业出版社,//cmpbook.jd.com
+61,10925862,《C语言学习路线图：C语言经典编程282例》【摘要 书评 试读】- 京东图书,//item.jd.com/10925862.html,42.3,97,600,清华大学出版社,//mall.jd.com/index-1000004111.html
+62,10927964,《IDA Pro权威指南（第2版）》([美]Chris Eagle)【摘要 书评 试读】- 京东图书,//item.jd.com/10927964.html,75.7,98,700,人民邮电出版社,//ptpressjd.jd.com
+63,10944453,《计算机算法设计与分析（第4版）/“十二五”普通高等教育本科国家级规划教材·高等学校规划教材》(王晓东)【摘要 书评 试读】- 京东图书,//item.jd.com/10944453.html,30,97,1000,电子工业出版社,//phei1982.jd.com
+64,10945355,《编程语言实现模式》([美]Terence Parr)【摘要 书评 试读】- 京东图书,//item.jd.com/10945355.html,61.2,98,800,华中科技大学出版社,//hustp.jd.com
+65,10951037,《JavaScript高级程序设计（第3版） 》([美]Nicholas C.Zakas)【摘要 书评 试读】- 京东图书,//item.jd.com/10951037.html,84.2,98,58000,人民邮电出版社,//ptpressjd.jd.com
+66,10960689,"《图灵程序设计丛书：jQuery实战（第2版）》([美]比伯奥特（Bibeault,B.），[美]卡茨（Katz,Y.）)【摘要 书评 试读】- 京东图书",//item.jd.com/10960689.html,58.7,96,1000,人民邮电出版社,//ptpressjd.jd.com
+67,10960694,《JUnit实战（第2版）》([美]塔凯文（Petar Tahchiev Felipe Leme），[美]Vincent Massol Gary Gregory)【摘要 书评 试读】- 京东图书,//item.jd.com/10960694.html,62.4,96,800,人民邮电出版社,//ptpressjd.jd.com
+68,10971142,《大象：Thinking in UML（第2版）》(谭云杰)【摘要 书评 试读】- 京东图书,//item.jd.com/10971142.html,54.4,98,2600,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+69,10974436,《OReilly精品图书系列：JavaScript权威指南（第6版）》([美]David Flanagan)【摘要 书评 试读】- 京东图书,//item.jd.com/10974436.html,111.2,97,15000,机械工业出版社,//cmpbook.jd.com
+70,10988860,《清华大学计算机系列教材：数据结构题集（C语言版）》(严蔚敏，吴伟民，米宁)【摘要 书评 试读】- 京东图书,//item.jd.com/10988860.html,21.4,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+71,10988863,《清华大学计算机系列教材：数据结构（C语言版）（附光盘）》(严蔚敏，吴伟民)【摘要 书评 试读】- 京东图书,//item.jd.com/10988863.html,25.8,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+72,10996007,《JSP & Servlet学习笔记（第2版）（附DVD-ROM光盘1张）》(林信良)【摘要 书评 试读】- 京东图书,//item.jd.com/10996007.html,46.4,95,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+73,11003160,《MATLAB从入门到精通（第2版）》(周建兴，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11003160.html,54.6,98,1000,人民邮电出版社,//ptpressjd.jd.com
+74,11009078,《TIA博途软件：STEP7 V11 编程指南（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11009078.html,62.4,97,2400,机械工业出版社,//cmpbook.jd.com
+75,11016776,《Unity 3D游戏开发》(宣雨松)【摘要 书评 试读】- 京东图书,//item.jd.com/11016776.html,50.2,93,1600,人民邮电出版社,//ptpressjd.jd.com
+76,11017238,《C++ Primer Plus（第6版 中文版） 》([美]Stephen Prata)【摘要 书评 试读】- 京东图书,//item.jd.com/11017238.html,78.2,97,20000,人民邮电出版社,//ptpressjd.jd.com
+77,11019625,《锋利的jQuery（第2版）》(单东林，张晓菲，魏然，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11019625.html,38.7,98,58000,人民邮电出版社,//ptpressjd.jd.com
+78,11033370,《PHP+MySQL+Dreamweaver动态网站建设从入门到精通》【摘要 书评 试读】- 京东图书,//item.jd.com/11033370.html,65.7,93,400,机械工业出版社,//cmpbook.jd.com
+79,11044070,《JavaScript模式》([美]斯托扬·斯特凡洛夫)【摘要 书评 试读】- 京东图书,//item.jd.com/11044070.html,30.9,97,1600,中国电力出版社,//mall.jd.com/index-1000005549.html
+80,11045519,"《分布式计算：原理，算法与系统》([美]克谢姆卡雅尼（Kshemkalyani,A.D.），[美]辛哈（Singhal,M.）)【摘要 书评 试读】- 京东图书",//item.jd.com/11045519.html,62.4,98,200,高等教育出版社,//mall.jd.com/index-1000007002.html
+81,11047263,《3D游戏编程大师技巧（套装上下册）（附CD光盘1张）》([美]André LaMothe)【摘要 书评 试读】- 京东图书,//item.jd.com/11047263.html,116.9,97,500,人民邮电出版社,//ptpressjd.jd.com
+82,11055500,《VC++深入详解（修订版）(含DVD光盘1张)》(孙鑫)【摘要 书评 试读】- 京东图书,//item.jd.com/11055500.html,78.2,97,1700,电子工业出版社,//phei1982.jd.com
+83,11067810,《Go语言编程》(许式伟，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11067810.html,41.7,97,10000,人民邮电出版社,//ptpressjd.jd.com
+84,11070361,《精通正则表达式（第3版）》(Jeffrey E.F.Friedl)【摘要 书评 试读】- 京东图书,//item.jd.com/11070361.html,68.9,98,2500,电子工业出版社,//phei1982.jd.com
+85,11078093,《软件开发视频大讲堂：Visual Basic从入门到精通（第3版）（附光盘1张）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078093.html,55.8,97,4400,清华大学出版社,//mall.jd.com/index-1000004111.html
+86,11078100,《软件开发视频大讲堂：Java从入门到精通（实例版）（附光盘1张）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078100.html,55.8,96,8000,清华大学出版社,//mall.jd.com/index-1000004111.html
+87,11078102,《软件开发视频大讲堂：Java从入门到精通（第3版 附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078102.html,53.2,97,41000,清华大学出版社,//mall.jd.com/index-1000004111.html
+88,11078104,《软件开发视频大讲堂：C语言从入门到精通（实例版）（附光盘1张）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078104.html,55.8,97,14000,清华大学出版社,//mall.jd.com/index-1000004111.html
+89,11078105,《软件开发视频大讲堂：ASP.NET从入门到精通（第3版 附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078105.html,79.8,95,4100,清华大学出版社,//mall.jd.com/index-1000004111.html
+90,11078109,《软件开发视频大讲堂：JavaScript从入门到精通（附光盘1张）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078109.html,55.8,96,2500,清华大学出版社,//mall.jd.com/index-1000004111.html
+91,11078111,《软件开发视频大讲堂：Java Web从入门到精通（附光盘1张）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078111.html,55.8,96,8000,清华大学出版社,//mall.jd.com/index-1000004111.html
+92,11078113,《软件开发视频大讲堂：Visual C++从入门到精通（第3版）（附光盘1张）》【摘要 书评 试读】- 京东图书,//item.jd.com/11078113.html,55.8,96,4800,清华大学出版社,//mall.jd.com/index-1000004111.html
+93,11090963,《JavaScript语言精粹（修订版）》(Douglas Crockford（道格拉斯·克罗克福德）)【摘要 书评 试读】- 京东图书,//item.jd.com/11090963.html,23.9,97,7800,电子工业出版社,//phei1982.jd.com
+94,11091496,《交互设计沉思录：顶尖设计专家Jon Kolko的经验与心得（原书第2版）》([美]Jon Kolko)【摘要 书评 试读】- 京东图书,//item.jd.com/11091496.html,38.7,97,1200,机械工业出版社,//cmpbook.jd.com
+95,11096047,《清华大学计算机系列教材：数据结构（用面向对象方法与C++语言描述）（第2版）》【摘要 书评 试读】- 京东图书,//item.jd.com/11096047.html,41.5,98,600,清华大学出版社,//mall.jd.com/index-1000004111.html
+96,11098788,《鲜活的数据：数据可视化指南》([美]Nathan Yau)【摘要 书评 试读】- 京东图书,//item.jd.com/11098788.html,58.7,97,1000,人民邮电出版社,//ptpressjd.jd.com
+97,11098789,《算法 第4版 Algorithms Fourth Edition 》([美] Robert Sedgewick，[美]Kevin Wayne)【摘要 书评 试读】- 京东图书,//item.jd.com/11098789.html,84.2,98,28000,人民邮电出版社,//ptpressjd.jd.com
+98,11099999,《Java程序性能优化：让你的Java程序更快、更稳定》(葛一鸣，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11099999.html,52.4,96,3300,清华大学出版社,//mall.jd.com/index-1000004111.html
+99,11100249,《x86/x64体系探索及编程》(邓志)【摘要 书评 试读】- 京东图书,//item.jd.com/11100249.html,59.5,96,500,电子工业出版社,//phei1982.jd.com
+100,11103120,《IDL程序设计：数据可视化与ENVI二次开发（附光盘1张）》(董彦卿)【摘要 书评 试读】- 京东图书,//item.jd.com/11103120.html,67,98,500,高等教育出版社,//mall.jd.com/index-1000007002.html
+101,11105100,《Struts 2.x权威指南（第3版）(含DVD光盘1张)》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11105100.html,70.3,96,200,电子工业出版社,//phei1982.jd.com
+102,11111050,《算法竞赛入门经典：训练指南》(刘汝佳，陈锋)【摘要 书评 试读】- 京东图书,//item.jd.com/11111050.html,40.8,98,11000,清华大学出版社,//mall.jd.com/index-1000004111.html
+103,11113845,《快学Scala》([美]Cay S. Horstmann)【摘要 书评 试读】- 京东图书,//item.jd.com/11113845.html,38.5,98,4800,电子工业出版社,//phei1982.jd.com
+104,11121213,《Windows游戏编程大师技巧（第2版）（附CD光盘1张）》([美]André LaMothe)【摘要 书评 试读】- 京东图书,//item.jd.com/11121213.html,85.3,98,300,人民邮电出版社,//ptpressjd.jd.com
+105,11123177,《PHP核心技术与最佳实践》(列旭松，陈文)【摘要 书评 试读】- 京东图书,//item.jd.com/11123177.html,70.3,97,1900,机械工业出版社,//cmpbook.jd.com
+106,11129425,《并行程序设计导论》([美]帕切克)【摘要 书评 试读】- 京东图书,//item.jd.com/11129425.html,38.7,97,600,机械工业出版社,//cmpbook.jd.com
+107,11147263,《编译器设计（第2版）》([美]Keith D. Cooper，[美]Linda Torczon)【摘要 书评 试读】- 京东图书,//item.jd.com/11147263.html,83.2,97,100,人民邮电出版社,//ptpressjd.jd.com
+108,11151617,《中国高等院校计算机基础教育课程体系规划教材：C程序设计（第4版）学习辅导》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/11151617.html,23.1,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+109,11151621,《计算机视觉：算法与应用（套装共2册）》([美]塞利斯基（Richard Szeliski）)【摘要 书评 试读】- 京东图书,//item.jd.com/11151621.html,82.7,98,8800,清华大学出版社,//mall.jd.com/index-1000004111.html
+110,11163782,《Linux多线程服务端编程 使用muduo C++网络库》(陈硕)【摘要 书评 试读】- 京东图书,//item.jd.com/11163782.html,70.3,97,2200,电子工业出版社,//phei1982.jd.com
+111,11168917,《软件开发方法学精选系列：UML用户指南（第2版·修订版）》([美]Grady Booch，James Rumbaugh，Ivar Jacobson)【摘要 书评 试读】- 京东图书,//item.jd.com/11168917.html,46.6,97,200,人民邮电出版社,//ptpressjd.jd.com
+112,11182828,《PHP、MySQL和Apache入门经典（第5版）（附CD光盘1张）》([美]Julie C.Meloni)【摘要 书评 试读】- 京东图书,//item.jd.com/11182828.html,54.5,95,400,人民邮电出版社,//ptpressjd.jd.com
+113,11185742,《图灵程序设计丛书：征服C指针》([日]前桥和弥)【摘要 书评 试读】- 京东图书,//item.jd.com/11185742.html,41.7,97,700,人民邮电出版社,//ptpressjd.jd.com
+114,11186176,《疯狂Ajax讲义：jQuery/Ext JS/Prototype/DWR企业应用前端开发实战（第3版）（附CD光盘1张）》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11186176.html,62.3,97,18000,电子工业出版社,//phei1982.jd.com
+115,11187103,《Head First jQuery（中文版）》(Ryan Benedetti，Ronan Cranley)【摘要 书评 试读】- 京东图书,//item.jd.com/11187103.html,63.4,99,7700,中国电力出版社,//mall.jd.com/index-1000005549.html
+116,11193885,《编写可维护的JavaScript》([美]Nicholas C. Zakas)【摘要 书评 试读】- 京东图书,//item.jd.com/11193885.html,43.5,97,2400,人民邮电出版社,//ptpressjd.jd.com
+117,11213761,《HTML 5与CSS 3权威指南（上册 第2版）》(陆凌牛)【摘要 书评 试读】- 京东图书,//item.jd.com/11213761.html,65.2,93,400,机械工业出版社,//cmpbook.jd.com
+118,11216941,《C和C++实务精选：C++ Templates中文版》([美]David Vandevoorde，[德]Nicolai M. Josuttis)【摘要 书评 试读】- 京东图书,//item.jd.com/11216941.html,70.3,98,800,人民邮电出版社,//ptpressjd.jd.com
+119,11223115,《新编计算机专业重点课程辅导丛书：新编C语言习题与解析》(李春葆，喻丹丹，曾平，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11223115.html,33.8,99,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+120,11224757,《机器学习：实用案例解析》(Drew Conway，John Myles White)【摘要 书评 试读】- 京东图书,//item.jd.com/11224757.html,54.5,98,1000,机械工业出版社,//cmpbook.jd.com
+121,11225766,《新编计算机专业重点课程辅导丛书：新编数据结构习题与解析》(李春葆，喻丹丹，曾平，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11225766.html,53.2,98,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+122,11231129,《R语言经典实例》(Paul Teetor)【摘要 书评 试读】- 京东图书,//item.jd.com/11231129.html,61.9,98,600,机械工业出版社,//cmpbook.jd.com
+123,11231175,《HTML5 Canvas核心技术：图形、动画与游戏开发》([美]David Geary)【摘要 书评 试读】- 京东图书,//item.jd.com/11231175.html,93.2,98,1200,机械工业出版社,//cmpbook.jd.com
+124,11232703,《Objective-C基础教程 第2版》([美]Scott Knaster，[美]Waqar Malik，[美]Mark Dalrymple)【摘要 书评 试读】- 京东图书,//item.jd.com/11232703.html,50.2,95,3500,人民邮电出版社,//ptpressjd.jd.com
+125,11241613,《AutoCAD VBA&VB.NET开发基础与实例教程（第2版）（附CD光盘1张）》(曾洪飞，卢择临，张帆)【摘要 书评 试读】- 京东图书,//item.jd.com/11241613.html,71.5,98,300,中国电力出版社,//mall.jd.com/index-1000005549.html
+126,11241687,《jQuery开发从入门到精通（附光盘）》(袁江)【摘要 书评 试读】- 京东图书,//item.jd.com/11241687.html,63.8,96,16000,清华大学出版社,//mall.jd.com/index-1000004111.html
+127,11243704,《华章科技：R语言编程艺术》([美]Norman Matloff)【摘要 书评 试读】- 京东图书,//item.jd.com/11243704.html,64.9,98,1200,机械工业出版社,//cmpbook.jd.com
+128,11252778,《深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）》(周志明)【摘要 书评 试读】- 京东图书,//item.jd.com/11252778.html,58.8,98,87000,机械工业出版社,//cmpbook.jd.com
+129,11253331,《国家级教学成果奖配套教材：数据结构学习与实验指导（附光盘1张）》(陈越，何钦铭，徐镜春，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11253331.html,26.5,99,200,高等教育出版社,//mall.jd.com/index-1000007002.html
+130,11253887,《JavaScript设计模式》([美]Addy Osmani)【摘要 书评 试读】- 京东图书,//item.jd.com/11253887.html,38.7,97,1700,人民邮电出版社,//ptpressjd.jd.com
+131,11255420,《C++ GUI Qt 4编程（第2版）》([加拿大]Jasmin Blanchette，[英]Mark Summerfield)【摘要 书评 试读】- 京东图书,//item.jd.com/11255420.html,51.4,96,2400,电子工业出版社,//phei1982.jd.com
+132,11256776,《Java Web整合开发实战：基于Struts 2+Hibernate+Spring（附光盘）》(贾蓓，镇明敏，杜磊，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11256776.html,70.9,94,6900,清华大学出版社,//mall.jd.com/index-1000004111.html
+133,11257264,《WebGL入门指南》([美]Tony Parisi)【摘要 书评 试读】- 京东图书,//item.jd.com/11257264.html,38.6,97,300,人民邮电出版社,//ptpressjd.jd.com
+134,11266252,《图灵程序设计丛书：C#图解教程（第4版）》([美]Daniel M.Solis)【摘要 书评 试读】- 京东图书,//item.jd.com/11266252.html,75.7,98,1700,人民邮电出版社,//ptpressjd.jd.com
+135,11266648,《挑战程序设计竞赛（第2版）》(秋叶拓哉，岩田阳一，北川宜稔)【摘要 书评 试读】- 京东图书,//item.jd.com/11266648.html,67.2,98,2600,人民邮电出版社,//ptpressjd.jd.com
+136,11267855,《OpenCV2计算机视觉编程手册》([加]Robert Laganiere)【摘要 书评 试读】- 京东图书,//item.jd.com/11267855.html,35.6,96,900,科学出版社,//mall.jd.com/index-1000005740.html
+137,11269625,《Java程序员修炼之道》([英]Benjamin J. Evans，[荷兰]Martijn Verburg)【摘要 书评 试读】- 京东图书,//item.jd.com/11269625.html,75.7,95,500,人民邮电出版社,//ptpressjd.jd.com
+138,11273682,《PHP MVC 开发实战》(李开涌)【摘要 书评 试读】- 京东图书,//item.jd.com/11273682.html,81.5,91,200,机械工业出版社,//cmpbook.jd.com
+139,11277406,《图灵程序设计丛书：精通C#（第6版）》([美]Andrew Troelsen)【摘要 书评 试读】- 京东图书,//item.jd.com/11277406.html,135.2,96,800,人民邮电出版社,//ptpressjd.jd.com
+140,11281696,《Go语言程序设计》([英]Mark Summerfield)【摘要 书评 试读】- 京东图书,//item.jd.com/11281696.html,53.7,97,10000,人民邮电出版社,//ptpressjd.jd.com
+141,11291949,《Visual C++网络编程案例实战（附光盘）》(梁伟，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11291949.html,47.2,97,700,清华大学出版社,//mall.jd.com/index-1000004111.html
+142,11294334,《Essential C++中文版》([美]Stanley B.Lippman)【摘要 书评 试读】- 京东图书,//item.jd.com/11294334.html,51.1,99,6600,电子工业出版社,//phei1982.jd.com
+143,11297778,《MATLAB神经网络43个案例分析》(王小川，史峰，郁磊，李洋)【摘要 书评 试读】- 京东图书,//item.jd.com/11297778.html,37.1,98,8900,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+144,11299575,《HBase实战》([美]Nick Dimiduk，[美]Amandeep Khurana)【摘要 书评 试读】- 京东图书,//item.jd.com/11299575.html,54.4,98,1000,人民邮电出版社,//ptpressjd.jd.com
+145,11306138,《C++ Primer（中文版 第5版） 》(Stanley B. Lippman，Josée Lajoie，Barbara E. Moo)【摘要 书评 试读】- 京东图书,//item.jd.com/11306138.html,97.3,97,25000,电子工业出版社,//phei1982.jd.com
+146,11306684,《XSS跨站脚本攻击剖析与防御》(邱永华)【摘要 书评 试读】- 京东图书,//item.jd.com/11306684.html,38.6,96,700,人民邮电出版社,//ptpressjd.jd.com
+147,11309608,《WPF编程宝典：使用C# 2012和.NET 4.5（第4版）》([美]麦克唐纳（Matthew Macdonald）)【摘要 书评 试读】- 京东图书,//item.jd.com/11309608.html,113.8,98,2800,清华大学出版社,//mall.jd.com/index-1000004111.html
+148,11310979,《图灵程序设计丛书：嗨翻C语言》([美]David Griffiths，[美]Dawn Griffiths)【摘要 书评 试读】- 京东图书,//item.jd.com/11310979.html,84.2,97,700,人民邮电出版社,//ptpressjd.jd.com
+149,11311645,《JAVA编程思想+算法导论（京东套装共2册）》([美]埃克尔，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11311645.html,188.8,100,0,机械工业出版社,//cmpbook.jd.com
+150,11311737,《Spring源码深度解析》(郝佳)【摘要 书评 试读】- 京东图书,//item.jd.com/11311737.html,54.5,98,25000,人民邮电出版社,//ptpressjd.jd.com
+151,11314362,《中文信息处理丛书：统计自然语言处理（第2版）》(宗成庆)【摘要 书评 试读】- 京东图书,//item.jd.com/11314362.html,75.6,98,2100,清华大学出版社,//mall.jd.com/index-1000004111.html
+152,11320556,《软件开发实战：PHP+MySQL开发实战（附DVD-ROM光盘1张）》【摘要 书评 试读】- 京东图书,//item.jd.com/11320556.html,60.8,94,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+153,11324152,《Java应用架构设计：模块化模式与OSGi》([美]Kirk Knoernschild)【摘要 书评 试读】- 京东图书,//item.jd.com/11324152.html,64.9,98,40000,机械工业出版社,//cmpbook.jd.com
+154,11331215,《逐梦旅程：Windows游戏编程之从零开始》(毛星云)【摘要 书评 试读】- 京东图书,//item.jd.com/11331215.html,87.1,98,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+155,11332506,《Head First HTML与CSS（第2版）》(Elisabeth Robson，Eric Freeman)【摘要 书评 试读】- 京东图书,//item.jd.com/11332506.html,79.6,98,7000,中国电力出版社,//mall.jd.com/index-1000005549.html
+156,11334994,《图灵交互设计丛书·微交互：细节设计成就卓越产品》([美]Dan Saffer，Don Norman)【摘要 书评 试读】- 京东图书,//item.jd.com/11334994.html,29.8,97,500,人民邮电出版社,//ptpressjd.jd.com
+157,11336695,《图灵程序设计丛书：jQuery基础教程（第4版）》([美]Jonathan Chaffer，[美]Karl Swedberg)【摘要 书评 试读】- 京东图书,//item.jd.com/11336695.html,50.2,96,600,人民邮电出版社,//ptpressjd.jd.com
+158,11342818,《用AngularJS开发下一代Web应用》(Brad Green，Sbyam Sesbadri)【摘要 书评 试读】- 京东图书,//item.jd.com/11342818.html,43.4,95,2300,电子工业出版社,//phei1982.jd.com
+159,11343643,《软件项目开发全程实录：PHP典型模块开发全程实录（附DVD-ROM光盘1张）》(于国槐，王雨竹)【摘要 书评 试读】- 京东图书,//item.jd.com/11343643.html,47.8,96,9900,清华大学出版社,//mall.jd.com/index-1000004111.html
+160,11343645,《软件项目开发全程实录：C#项目开发全程实录（第3版）（附DVD-ROM光盘1张）》(冯庆东，杨丽)【摘要 书评 试读】- 京东图书,//item.jd.com/11343645.html,62,96,10000,清华大学出版社,//mall.jd.com/index-1000004111.html
+161,11343650,《软件项目开发全程实录：Java项目开发全程实录（第3版）（附DVD-ROM光盘1张）》(王国辉，宋禹蒙)【摘要 书评 试读】- 京东图书,//item.jd.com/11343650.html,55.8,94,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+162,11345717,《程序员面试金典 第5版》(Gayle Laakmann McDowell)【摘要 书评 试读】- 京东图书,//item.jd.com/11345717.html,50.2,98,1300,人民邮电出版社,//ptpressjd.jd.com
+163,11346522,《软件项目开发全程实录：C语言项目开发全程实录（附光盘）》(李根福，贾丽君)【摘要 书评 试读】- 京东图书,//item.jd.com/11346522.html,39.8,97,14000,清华大学出版社,//mall.jd.com/index-1000004111.html
+164,11349023,《Python编程入门（第3版）》([加]Toby Donaldson)【摘要 书评 试读】- 京东图书,//item.jd.com/11349023.html,33.2,96,700,人民邮电出版社,//ptpressjd.jd.com
+165,11352441,《利用Python进行数据分析》(Wes McKinney)【摘要 书评 试读】- 京东图书,//item.jd.com/11352441.html,70.3,99,18000,机械工业出版社,//cmpbook.jd.com
+166,11352448,《图灵程序设计丛书：自制编程语言》([日]前桥和弥)【摘要 书评 试读】- 京东图书,//item.jd.com/11352448.html,67.2,97,3200,人民邮电出版社,//ptpressjd.jd.com
+167,11354343,《软件项目开发全程实录：PHP项目开发全程实录（第3版）（附光盘）》(辛洪郁，张鑫)【摘要 书评 试读】- 京东图书,//item.jd.com/11354343.html,55.8,95,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+168,11354665,《Effective JavaScript：编写高质量JavaScript代码的68个有效方法》([美]David Herman )【摘要 书评 试读】- 京东图书,//item.jd.com/11354665.html,46.1,98,800,机械工业出版社,//cmpbook.jd.com
+169,11355978,《深入浅出Node.js 》(朴灵)【摘要 书评 试读】- 京东图书,//item.jd.com/11355978.html,58.7,98,58000,人民邮电出版社,//ptpressjd.jd.com
+170,11358579,《了不起的Node.js 将JavaScript进行到底》(Guillermo Rauch)【摘要 书评 试读】- 京东图书,//item.jd.com/11358579.html,61.8,96,5700,电子工业出版社,//phei1982.jd.com
+171,11362600,《计算机科学丛书·应用密码学：协议、算法与C源程序（原书第2版）》([美]Bruce Schneier)【摘要 书评 试读】- 京东图书,//item.jd.com/11362600.html,61.8,98,600,机械工业出版社,//cmpbook.jd.com
+172,11362614,《C语言入门经典（第5版）》([美]霍尔顿（Ivor Horton）)【摘要 书评 试读】- 京东图书,//item.jd.com/11362614.html,62,97,6500,清华大学出版社,//mall.jd.com/index-1000004111.html
+173,11369978,《软件开发方法学精选系列：掌握需求过程（第3版）》([英]Suzanne Robertson，James Robertson)【摘要 书评 试读】- 京东图书,//item.jd.com/11369978.html,62.3,98,300,人民邮电出版社,//ptpressjd.jd.com
+174,11380971,《华章程序员书库：C和C++安全编码（原书第2版）》([美]Robert C. Seacord)【摘要 书评 试读】- 京东图书,//item.jd.com/11380971.html,65.2,99,200,机械工业出版社,//cmpbook.jd.com
+175,11382929,《Verilog编程艺术》(魏家明)【摘要 书评 试读】- 京东图书,//item.jd.com/11382929.html,64.5,97,300,电子工业出版社,//phei1982.jd.com
+176,11383765,《图灵程序设计丛书·Python数据分析基础教程：NumPy学习指南（第2版）》([印尼]Ivan Idris)【摘要 书评 试读】- 京东图书,//item.jd.com/11383765.html,41.7,98,700,人民邮电出版社,//ptpressjd.jd.com
+177,11389858,《高性能计算系列丛书·CUDA并行程序设计：GPU编程指南》([美]库克（Shane Cook）)【摘要 书评 试读】- 京东图书,//item.jd.com/11389858.html,93.2,98,1600,机械工业出版社,//cmpbook.jd.com
+178,11392231,《设计之下：搜狐新闻客户端的用户体验设计》【摘要 书评 试读】- 京东图书,//item.jd.com/11392231.html,54.4,96,3200,电子工业出版社,//phei1982.jd.com
+179,11394252,《游戏物理引擎开发》([美]Ian Millington)【摘要 书评 试读】- 京东图书,//item.jd.com/11394252.html,67.2,95,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+180,11397771,《Linux环境C程序设计（第2版 附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11397771.html,70.9,98,2000,清华大学出版社,//mall.jd.com/index-1000004111.html
+181,11397772,《Linux网络编程（第2版）》(宋敬彬，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11397772.html,79.1,97,1900,清华大学出版社,//mall.jd.com/index-1000004111.html
+182,11397775,《Shell从入门到精通（附光盘）》(张春晓，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11397775.html,51.6,98,1600,清华大学出版社,//mall.jd.com/index-1000004111.html
+183,11397776,《Linux从入门到精通（第2版 附光盘）》(刘忆智，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11397776.html,53.2,97,5500,清华大学出版社,//mall.jd.com/index-1000004111.html
+184,11403361,《精通C# 5.0与.NET 4.5高级编程：LINQ、WCF、WPF和WF》(张敬普，丁士锋，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11403361.html,88.7,95,700,清华大学出版社,//mall.jd.com/index-1000004111.html
+185,11406721,《Visual C++游戏开发案例实战（附光盘）》(王浩，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11406721.html,55.8,97,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+186,11407830,《Java性能优化权威指南》([美]Charlie Hunt，Binu John)【摘要 书评 试读】- 京东图书,//item.jd.com/11407830.html,92.7,97,2400,人民邮电出版社,//ptpressjd.jd.com
+187,11409707,《Java核心技术（卷2）：高级特性（原书第9版）》([美]Cay S. Horstmann，[美]Gary Cornell)【摘要 书评 试读】- 京东图书,//item.jd.com/11409707.html,130.8,98,40000,机械工业出版社,//cmpbook.jd.com
+188,11410467,《趣学Python编程》([美]Jason Briggs)【摘要 书评 试读】- 京东图书,//item.jd.com/11410467.html,37.8,98,900,人民邮电出版社,//ptpressjd.jd.com
+189,11412901,《算法谜题》([美]Anany Levitin，Maria Levitin)【摘要 书评 试读】- 京东图书,//item.jd.com/11412901.html,38.5,98,28000,人民邮电出版社,//ptpressjd.jd.com
+190,11414422,《HotSpot实战》(陈涛)【摘要 书评 试读】- 京东图书,//item.jd.com/11414422.html,58,97,500,人民邮电出版社,//ptpressjd.jd.com
+191,11417658,"《算法心得：高效算法的奥秘（原书第2版）》([美]Henry S. Warren,Jr.)【摘要 书评 试读】- 京东图书",//item.jd.com/11417658.html,70.2,98,1700,机械工业出版社,//cmpbook.jd.com
+192,11418577,《C和C++程序员面试秘笈》(董山海)【摘要 书评 试读】- 京东图书,//item.jd.com/11418577.html,46.6,97,600,人民邮电出版社,//ptpressjd.jd.com
+193,11420338,《GDAL源码剖析与开发指南》(李民录)【摘要 书评 试读】- 京东图书,//item.jd.com/11420338.html,70.3,97,200,人民邮电出版社,//ptpressjd.jd.com
+194,11421261,《Learning PHP设计模式》([美]William Sanders（威廉·桑德）)【摘要 书评 试读】- 京东图书,//item.jd.com/11421261.html,47.1,99,2600,中国电力出版社,//mall.jd.com/index-1000005549.html
+195,11432560,《深入理解C#（第3版）》([英]Jon Skeet)【摘要 书评 试读】- 京东图书,//item.jd.com/11432560.html,84.2,97,1100,人民邮电出版社,//ptpressjd.jd.com
+196,11444582,《Web性能权威指南》([加]Ilya Grigorik)【摘要 书评 试读】- 京东图书,//item.jd.com/11444582.html,58.7,98,1100,人民邮电出版社,//ptpressjd.jd.com
+197,11448495,《R数据可视化手册》([美]Winston Chang)【摘要 书评 试读】- 京东图书,//item.jd.com/11448495.html,70.2,99,9600,人民邮电出版社,//ptpressjd.jd.com
+198,11448626,《Linux系统编程（第2版）》([美]Robert Love)【摘要 书评 试读】- 京东图书,//item.jd.com/11448626.html,62.3,98,500,人民邮电出版社,//ptpressjd.jd.com
+199,11449803,《大型网站系统与Java中间件实践》(曾宪杰)【摘要 书评 试读】- 京东图书,//item.jd.com/11449803.html,51.3,96,42000,电子工业出版社,//phei1982.jd.com
+200,11457487,"《Node.js实战》([美]Mike,Cantelon，Marc,Harter，T.J.,Holowaychuk，Nathan,Rajlich)【摘要 书评 试读】- 京东图书",//item.jd.com/11457487.html,58.7,98,1700,人民邮电出版社,//ptpressjd.jd.com
+201,11457854,"《HTML5与CSS3基础教程（第8版）》([美]Elizabeth,Castro，Bruce,Hyslop)【摘要 书评 试读】- 京东图书",//item.jd.com/11457854.html,58.7,96,9700,人民邮电出版社,//ptpressjd.jd.com
+202,11457856,《数字图像处理与机器视觉——Visual C++与Matlab实现(第2版)》(张铮，徐超，任淑霞，韩海玲)【摘要 书评 试读】- 京东图书,//item.jd.com/11457856.html,66.4,98,1400,人民邮电出版社,//ptpressjd.jd.com
+203,11461227,"《图灵程序设计丛书：学习R》([美]Richard,Cotton)【摘要 书评 试读】- 京东图书",//item.jd.com/11461227.html,58.7,99,500,人民邮电出版社,//ptpressjd.jd.com
+204,11462962,《Web开发技术丛书：深入理解Bootstrap》(徐涛)【摘要 书评 试读】- 京东图书,//item.jd.com/11462962.html,64.9,96,2100,机械工业出版社,//cmpbook.jd.com
+205,11464703,"《R语言统计入门(第2版)》([丹麦]Peter,Dalgaard)【摘要 书评 试读】- 京东图书",//item.jd.com/11464703.html,41.2,99,9600,人民邮电出版社,//ptpressjd.jd.com
+206,11465534,《算法帝国》([美]克里斯托弗·斯坦纳)【摘要 书评 试读】- 京东图书,//item.jd.com/11465534.html,41.7,98,28000,人民邮电出版社,//ptpressjd.jd.com
+207,11469701,《算法竞赛入门经典（第2版）》(刘汝佳)【摘要 书评 试读】- 京东图书,//item.jd.com/11469701.html,39.3,98,11000,清华大学出版社,//mall.jd.com/index-1000004111.html
+208,11474570,《用户体验草图设计工具手册》([美]巴克斯顿（Bill Buxton），[美]Saul Greenberg，[美]Sheelagh Carpendale，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11474570.html,62,98,900,电子工业出版社,//phei1982.jd.com
+209,11477302,《啊哈 算法》(啊哈磊)【摘要 书评 试读】- 京东图书,//item.jd.com/11477302.html,38.3,98,28000,人民邮电出版社,//ptpressjd.jd.com
+210,11477306,"《Erlang程序设计（第2版）》([瑞典]Joe,Armstrong)【摘要 书评 试读】- 京东图书",//item.jd.com/11477306.html,75.7,98,500,人民邮电出版社,//ptpressjd.jd.com
+211,11479113,《两周自制脚本语言》([日]千叶滋)【摘要 书评 试读】- 京东图书,//item.jd.com/11479113.html,50.2,97,3200,人民邮电出版社,//ptpressjd.jd.com
+212,11482379,《WebGL编程指南》([美]Kouichi Matsuda，[美]Rodger Lea)【摘要 书评 试读】- 京东图书,//item.jd.com/11482379.html,77.2,98,1400,电子工业出版社,//phei1982.jd.com
+213,11485222,"《Python计算机视觉编程》([美]Jan,Erik,Solem)【摘要 书评 试读】- 京东图书",//item.jd.com/11485222.html,58.7,99,1600,人民邮电出版社,//ptpressjd.jd.com
+214,11487324,"《Python自然语言处理》([美]Steven,Bird　Ewan,Klein　Edward,Loper)【摘要 书评 试读】- 京东图书",//item.jd.com/11487324.html,70.3,99,110000,人民邮电出版社,//ptpressjd.jd.com
+215,11494721,《图解CSS3：核心技术与案例实战》(廖伟华)【摘要 书评 试读】- 京东图书,//item.jd.com/11494721.html,74.4,96,1400,机械工业出版社,//cmpbook.jd.com
+216,11498779,《计算机科学丛书：高性能科学与工程计算》([德]Georg Hager，[德]Gerhard Wellein)【摘要 书评 试读】- 京东图书,//item.jd.com/11498779.html,54.4,98,100,机械工业出版社,//cmpbook.jd.com
+217,11500488,《C++面向对象程序设计（第2版）/中国高等院校计算机基础教育课程体系规划教材》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/11500488.html,29.3,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+218,11508561,《Objective-C程序设计（第6版）》([美]Stephen G. Kochan)【摘要 书评 试读】- 京东图书,//item.jd.com/11508561.html,70.2,92,3500,电子工业出版社,//phei1982.jd.com
+219,11514816,《疯狂Java讲义（第3版 附光盘）》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11514816.html,86.1,97,23000,电子工业出版社,//phei1982.jd.com
+220,11516346,《Swift开发指南》(关东升，赵志荣)【摘要 书评 试读】- 京东图书,//item.jd.com/11516346.html,57.8,91,200,人民邮电出版社,//ptpressjd.jd.com
+221,11518115,《华章程序员书库·Python编程实战：运用设计模式、并发和程序库创建高质量程序》([美]Mark Summerfield              )【摘要 书评 试读】- 京东图书,//item.jd.com/11518115.html,64.9,98,700,机械工业出版社,//cmpbook.jd.com
+222,11520666,《R语言核心技术手册（第2版）》([美]Joseph Adler（约瑟夫·阿德勒）)【摘要 书评 试读】- 京东图书,//item.jd.com/11520666.html,78.1,98,1200,电子工业出版社,//phei1982.jd.com
+223,11520670,《深入分析Java Web技术内幕（修订版）》(许令波)【摘要 书评 试读】- 京东图书,//item.jd.com/11520670.html,62.4,96,42000,电子工业出版社,//phei1982.jd.com
+224,11520714,《MATLAB GUI设计学习手册（第3版）》(罗华飞)【摘要 书评 试读】- 京东图书,//item.jd.com/11520714.html,54.7,98,8900,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+225,11521673,《图灵程序设计丛书：Web渗透测试 使用Kali Linux》([美]Joseph Muniz，[美]Aamir Lakhani)【摘要 书评 试读】- 京东图书,//item.jd.com/11521673.html,50.2,95,300,人民邮电出版社,//ptpressjd.jd.com
+226,11523857,《图灵程序设计丛书：数据结构与算法JavaScript描述》([美]麦克米伦（Michael McMillan）)【摘要 书评 试读】- 京东图书,//item.jd.com/11523857.html,41.7,98,1000,人民邮电出版社,//ptpressjd.jd.com
+227,11524040,《Ruby基础教程第4版》([日]高桥征义，[日]后藤裕藏)【摘要 书评 试读】- 京东图书,//item.jd.com/11524040.html,67.2,98,5600,人民邮电出版社,//ptpressjd.jd.com
+228,11531628,《Java Web编程实战宝典：JSP+Servlet+Struts 2+Hibernate+Spring+Ajax（附光盘）》(李宁，刘岩，张国平   等)【摘要 书评 试读】- 京东图书,//item.jd.com/11531628.html,88.7,94,6900,清华大学出版社,//mall.jd.com/index-1000004111.html
+229,11531641,《开发宝典丛书：Visual C++编程实战宝典（附光盘）》(李琳娜，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11531641.html,79.8,96,600,清华大学出版社,//mall.jd.com/index-1000004111.html
+230,11531642,《Java编程实战宝典（附光盘）》(刘新，管磊，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11531642.html,79.8,99,1200,清华大学出版社,//mall.jd.com/index-1000004111.html
+231,11534050,《图灵程序设计丛书：精通jQuery（第2版）》([美]Adam Freeman)【摘要 书评 试读】- 京东图书,//item.jd.com/11534050.html,126.7,96,600,人民邮电出版社,//ptpressjd.jd.com
+232,11535661,《Excel VBA程序开发自学宝典（第3版 附光盘）》(罗刚君)【摘要 书评 试读】- 京东图书,//item.jd.com/11535661.html,59.2,98,1500,电子工业出版社,//phei1982.jd.com
+233,11538422,《LabVIEW实用工具详解》(陈树学)【摘要 书评 试读】- 京东图书,//item.jd.com/11538422.html,56.4,96,400,电子工业出版社,//phei1982.jd.com
+234,11543299,《蔡康永的说话之道（套装共2册）》(蔡康永)【摘要 书评 试读】- 京东图书,//item.jd.com/11543299.html,48.8,98,89000,博集天卷,//znbojitj.jd.com
+235,11544527,《Arduino开发从零开始学：学电子的都玩这个》(宋楠，韩广义)【摘要 书评 试读】- 京东图书,//item.jd.com/11544527.html,34.7,98,1800,清华大学出版社,//mall.jd.com/index-1000004111.html
+236,11544991,"《Java网络编程（第四版）》([美]Elliotte Rusty Harold（哈诺德,R.E.）)【摘要 书评 试读】- 京东图书",//item.jd.com/11544991.html,68.3,99,8600,中国电力出版社,//mall.jd.com/index-1000005549.html
+237,11544992,《Perl语言编程（第四版）》([美]汤姆·克里斯蒂安森（Tom Christiansen），等)【摘要 书评 试读】- 京东图书,//item.jd.com/11544992.html,129.5,98,17000,中国电力出版社,//mall.jd.com/index-1000005549.html
+238,11545360,《入门很简单丛书：Java Web开发入门很简单》(贺振增，张海芳，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11545360.html,58.7,94,6900,清华大学出版社,//mall.jd.com/index-1000004111.html
+239,11545544,《单页Web应用 JavaScript从前端到后端》([美]MichaelS.Mikowski，JoshC.Powell)【摘要 书评 试读】- 京东图书,//item.jd.com/11545544.html,54.5,98,700,人民邮电出版社,//ptpressjd.jd.com
+240,11551720,《Java程序员面试笔试宝典》(何昊，薛鹏，叶向阳)【摘要 书评 试读】- 京东图书,//item.jd.com/11551720.html,37.7,97,5600,机械工业出版社,//cmpbook.jd.com
+241,11553015,《清华开发者书库·深入浅出：Windows Phone 8.1应用开发》(林政)【摘要 书评 试读】- 京东图书,//item.jd.com/11553015.html,67.2,93,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+242,11554276,《疯狂Java讲义精粹（第2版 附CD-ROM光盘1张）》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11554276.html,47.3,97,18000,电子工业出版社,//phei1982.jd.com
+243,11556827,《高效程序员的45个习惯：敏捷开发修炼之道(修订版)》([美]Venkat Subramaniam，[美]Andy Hunt)【摘要 书评 试读】- 京东图书,//item.jd.com/11556827.html,38.3,99,700,人民邮电出版社,//ptpressjd.jd.com
+244,11556878,《Cocos2D-X权威指南（第2版）》(满硕泉)【摘要 书评 试读】- 京东图书,//item.jd.com/11556878.html,65.2,91,200,机械工业出版社,//cmpbook.jd.com
+245,11559101,《轻量级Java EE企业应用实战：Struts2+Spring4+Hibernate整合开发（第4版 附CD光盘）》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11559101.html,83.8,97,18000,电子工业出版社,//phei1982.jd.com
+246,11566222,《Scratch少儿趣味编程》([日]阿部和广)【摘要 书评 试读】- 京东图书,//item.jd.com/11566222.html,50.2,99,12000,人民邮电出版社,//ptpressjd.jd.com
+247,11566269,《Groovy程序设计》([美]Venkat Subramaniam)【摘要 书评 试读】- 京东图书,//item.jd.com/11566269.html,58.7,98,500,人民邮电出版社,//ptpressjd.jd.com
+248,11569334,《面向ArcGIS的Python脚本编程》([美]赞德伯根（Paul A.Zandbergen）)【摘要 书评 试读】- 京东图书,//item.jd.com/11569334.html,38.7,97,500,人民邮电出版社,//ptpressjd.jd.com
+249,11569933,《人脸识别原理及算法：动态人脸识别系统研究》(沈理，刘翼光，熊志勇)【摘要 书评 试读】- 京东图书,//item.jd.com/11569933.html,70.2,97,200,人民邮电出版社,//ptpressjd.jd.com
+250,11570185,《Swift开发指南（修订版）》(关东升，赵志荣)【摘要 书评 试读】- 京东图书,//item.jd.com/11570185.html,57.8,93,200,人民邮电出版社,//ptpressjd.jd.com
+251,11571391,《C++数据结构与算法（第4版）》(Adam Drozdek)【摘要 书评 试读】- 京东图书,//item.jd.com/11571391.html,70.4,99,1800,清华大学出版社,//mall.jd.com/index-1000004111.html
+252,11571426,《Python自动化运维：技术与最佳实践》(刘天斯)【摘要 书评 试读】- 京东图书,//item.jd.com/11571426.html,64.9,97,5500,机械工业出版社,//cmpbook.jd.com
+253,11572056,《“笨办法”学Python（第3版 附光盘1张）》([美]Zed A.Shaw)【摘要 书评 试读】- 京东图书,//item.jd.com/11572056.html,38.7,99,110000,人民邮电出版社,//ptpressjd.jd.com
+254,11576833,《父与子的编程之旅：与小卡特一起学Python》([美]Warren Sande，Carter Sande)【摘要 书评 试读】- 京东图书,//item.jd.com/11576833.html,58.7,99,12000,人民邮电出版社,//ptpressjd.jd.com
+255,11576834,《21天学通C语言(第7版)》([美]布Bradley Jones，Peter Aitken，Dean Miller)【摘要 书评 试读】- 京东图书,//item.jd.com/11576834.html,46.5,97,700,人民邮电出版社,//ptpressjd.jd.com
+256,11578907,《CLR via C#（第4版）》([美]Jeffrey Richter)【摘要 书评 试读】- 京东图书,//item.jd.com/11578907.html,96.9,98,2500,清华大学出版社,//mall.jd.com/index-1000004111.html
+257,11585328,《如何变得有思想：阮一峰博客文集》(阮一峰)【摘要 书评 试读】- 京东图书,//item.jd.com/11585328.html,41.7,97,500,人民邮电出版社,//ptpressjd.jd.com
+258,11587473,《图灵程序设计丛书·代码本色：用编程模拟自然系统》([美]Daniel Shiffman)【摘要 书评 试读】- 京东图书,//item.jd.com/11587473.html,84.2,97,200,人民邮电出版社,//ptpressjd.jd.com
+259,11587810,《微软技术丛书：Visual C# 2013从入门到精通》(John Sharp)【摘要 书评 试读】- 京东图书,//item.jd.com/11587810.html,79.2,97,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+260,11590052,《决策分析：以Excel为分析工具》([美]Conrad Carlberg)【摘要 书评 试读】- 京东图书,//item.jd.com/11590052.html,38.5,98,200,机械工业出版社,//cmpbook.jd.com
+261,11591285,《老码说编程之玩转Swift江湖》(老码团队)【摘要 书评 试读】- 京东图书,//item.jd.com/11591285.html,64.5,93,200,电子工业出版社,//phei1982.jd.com
+262,11593982,《Python袖珍指南（第5版）》([美]Mark Lutz（马克·卢茨）)【摘要 书评 试读】- 京东图书,//item.jd.com/11593982.html,30.9,98,17000,中国电力出版社,//mall.jd.com/index-1000005549.html
+263,11594079,《程序员思维修炼(修订版)》([美]Andy Hunt)【摘要 书评 试读】- 京东图书,//item.jd.com/11594079.html,41.7,98,700,人民邮电出版社,//ptpressjd.jd.com
+264,11594082,《图灵程序设计丛书·Flask Web开发：基于Python的Web应用开发实战》([美]格林布戈（Miguel Grinberg）)【摘要 书评 试读】- 京东图书,//item.jd.com/11594082.html,50.2,98,2300,人民邮电出版社,//ptpressjd.jd.com
+265,11595811,《图灵程序设计丛书：C#并发编程经典实例》([美]克利里（Stephen Cleary）)【摘要 书评 试读】- 京东图书,//item.jd.com/11595811.html,41.7,98,700,人民邮电出版社,//ptpressjd.jd.com
+266,11597867,《软件开发自学视频教程：C语言自学视频教程地（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11597867.html,55.8,97,14000,清华大学出版社,//mall.jd.com/index-1000004111.html
+267,11598704,《Python编程（第4版 套装上下册）》([美]Mark Lutz（马克·卢茨）)【摘要 书评 试读】- 京东图书,//item.jd.com/11598704.html,156.4,98,17000,中国电力出版社,//mall.jd.com/index-1000005549.html
+268,11599588,《Activiti实战》(闫洪磊)【摘要 书评 试读】- 京东图书,//item.jd.com/11599588.html,83.8,96,1100,机械工业出版社,//cmpbook.jd.com
+269,11609574,《Linux Shell命令行及脚本编程实例详解》(刘艳涛)【摘要 书评 试读】- 京东图书,//item.jd.com/11609574.html,53.2,98,1600,清华大学出版社,//mall.jd.com/index-1000004111.html
+270,11611045,《图灵程序设计丛书·日本Objective-C圣经级教材：Objective-C编程全解（第3版）》([日]荻原刚志)【摘要 书评 试读】- 京东图书,//item.jd.com/11611045.html,67.2,95,300,人民邮电出版社,//ptpressjd.jd.com
+271,11611059,《ASP.NET Web API设计》([美]布洛克（Glenn Block），西布拉奥（Pablo Cibraro），等)【摘要 书评 试读】- 京东图书,//item.jd.com/11611059.html,84.2,97,400,人民邮电出版社,//ptpressjd.jd.com
+272,11611761,《Visual C++ 2013入门经典（第7版）》([美]霍尔顿（Horton I.）)【摘要 书评 试读】- 京东图书,//item.jd.com/11611761.html,88.7,99,2100,清华大学出版社,//mall.jd.com/index-1000004111.html
+273,11611762,《C#高级编程（第9版） C# 5.0 & .NET 4.5.1》([美]Christian Nagel，Jay Glynn，Morgan Skinner)【摘要 书评 试读】- 京东图书,//item.jd.com/11611762.html,131.6,97,4100,清华大学出版社,//mall.jd.com/index-1000004111.html
+274,11612266,《Python游戏编程入门》([美]Jonathan S.Harbour)【摘要 书评 试读】- 京东图书,//item.jd.com/11612266.html,41.2,98,1900,人民邮电出版社,//ptpressjd.jd.com
+275,11615002,《深入理解Scala》([美]苏瑞茨（Joshua D.Suereth）)【摘要 书评 试读】- 京东图书,//item.jd.com/11615002.html,46.5,96,700,人民邮电出版社,//ptpressjd.jd.com
+276,11615429,《Java从入门到精通（第2版）》【摘要 书评 试读】- 京东图书,//item.jd.com/11615429.html,48.2,98,1500,人民邮电出版社,//ptpressjd.jd.com
+277,11615442,《Visual Basic从入门到精通（第2版）》【摘要 书评 试读】- 京东图书,//item.jd.com/11615442.html,58.5,97,200,人民邮电出版社,//ptpressjd.jd.com
+278,11615451,《算法问题实战策略》([韩]具宗万)【摘要 书评 试读】- 京东图书,//item.jd.com/11615451.html,101.2,97,100,人民邮电出版社,//ptpressjd.jd.com
+279,11619195,《Java 8编程参考官方教程（第9版）》([美]Herbert Schildt)【摘要 书评 试读】- 京东图书,//item.jd.com/11619195.html,123.6,97,1000,清华大学出版社,//mall.jd.com/index-1000004111.html
+280,11619201,《算法设计与分析基础（第3版）》([美]Anany Levitin)【摘要 书评 试读】- 京东图书,//item.jd.com/11619201.html,54.5,98,11000,清华大学出版社,//mall.jd.com/index-1000004111.html
+281,11623556,《Struts2+Spring3+Hibernate框架技术精讲与整合案例（附光盘）》(缪勇，施俊，李新锋)【摘要 书评 试读】- 京东图书,//item.jd.com/11623556.html,89.1,96,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+282,11631886,《Java虚拟机精讲》(高翔龙)【摘要 书评 试读】- 京东图书,//item.jd.com/11631886.html,54.4,95,1900,电子工业出版社,//phei1982.jd.com
+283,11641501,《Swift语言实战晋级》(老镇)【摘要 书评 试读】- 京东图书,//item.jd.com/11641501.html,66.2,93,300,人民邮电出版社,//ptpressjd.jd.com
+284,11642508,《.NET框架设计 模式、配置、工具》(王清培)【摘要 书评 试读】- 京东图书,//item.jd.com/11642508.html,41.7,95,500,人民邮电出版社,//ptpressjd.jd.com
+285,11642529,"《编程珠玑（第2版 修订版）》([美]乔恩·本特利（Jon,Bentley）)【摘要 书评 试读】- 京东图书",//item.jd.com/11642529.html,30.8,98,39000,人民邮电出版社,//ptpressjd.jd.com
+286,11642532,《JavaScript面向对象编程指南（第2版）》([加拿大]Stoyan Stefanov，[印]Kumar Chetan Sharma)【摘要 书评 试读】- 京东图书,//item.jd.com/11642532.html,54.5,98,800,人民邮电出版社,//ptpressjd.jd.com
+287,11644104,《图灵程序设计丛书：Node与Express开发》([美]Ethan Brown)【摘要 书评 试读】- 京东图书,//item.jd.com/11644104.html,58.7,97,700,人民邮电出版社,//ptpressjd.jd.com
+288,11645599,《趣学Python：教孩子学编程》([美]Jason R.Briggs)【摘要 书评 试读】- 京东图书,//item.jd.com/11645599.html,49.6,99,12000,人民邮电出版社,//ptpressjd.jd.com
+289,11649619,《Qt 5编程入门》(霍亚飞，程梁)【摘要 书评 试读】- 京东图书,//item.jd.com/11649619.html,42.3,95,500,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+290,11652636,《Boost程序库完全开发指南：深入C++“准”标准库（第3版）》(罗剑锋)【摘要 书评 试读】- 京东图书,//item.jd.com/11652636.html,78.2,97,700,电子工业出版社,//phei1982.jd.com
+291,11654921,《Web GIS从基础到开发实践 基于ArcGIS API for JavaScript》(刘光，曾敬文，曾庆丰)【摘要 书评 试读】- 京东图书,//item.jd.com/11654921.html,70.2,97,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+292,11655699,《华章 OpenGL ES 3.0编程指南（原书第2版）》(Dan Ginsburg，Budi Purnomo，Dave Shreine)【摘要 书评 试读】- 京东图书,//item.jd.com/11655699.html,74.4,97,2900,机械工业出版社,//cmpbook.jd.com
+293,11657095,《图灵原创：Learning hard C#学习笔记》(李志)【摘要 书评 试读】- 京东图书,//item.jd.com/11657095.html,41.7,97,600,人民邮电出版社,//ptpressjd.jd.com
+294,11657099,《Python 3程序开发指南（第2版 修订版）》([美]萨默菲尔德（Mark Summerfield）)【摘要 书评 试读】- 京东图书,//item.jd.com/11657099.html,58,98,2000,人民邮电出版社,//ptpressjd.jd.com
+295,11658911,《OpenCV3编程入门》(毛星云，冷雪飞，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11658911.html,62.4,98,3100,电子工业出版社,//phei1982.jd.com
+296,11661917,《Arduino程序设计基础（第2版）》(陈吕洲)【摘要 书评 试读】- 京东图书,//item.jd.com/11661917.html,35.8,98,1200,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+297,11662266,《零基础学Python》(张志强，赵越，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11662266.html,62.2,96,800,机械工业出版社,//cmpbook.jd.com
+298,11665188,《计算机科学丛书·多语自然语言处理：从原理到实践》【摘要 书评 试读】- 京东图书,//item.jd.com/11665188.html,78.2,98,500,机械工业出版社,//cmpbook.jd.com
+299,11666310,《JavaScript基础教程（第9版）》([美]Dori Smith，Tom Negrino)【摘要 书评 试读】- 京东图书,//item.jd.com/11666310.html,58.7,97,300,人民邮电出版社,//ptpressjd.jd.com
+300,11666319,《贝叶斯思维 统计建模的Python学习法》([美]Allen B.Downey)【摘要 书评 试读】- 京东图书,//item.jd.com/11666319.html,38.7,99,3100,人民邮电出版社,//ptpressjd.jd.com
+301,11667512,《集体智慧编程》([美]Toby Segaran（托比·西格兰）)【摘要 书评 试读】- 京东图书,//item.jd.com/11667512.html,62.4,98,4000,电子工业出版社,//phei1982.jd.com
+302,11668348,《LabVIEW 2013完全自学手册》(李静)【摘要 书评 试读】- 京东图书,//item.jd.com/11668348.html,59.5,94,200,化学工业出版社,//cip1953.jd.com
+303,11670027,《算法的乐趣》(王晓华)【摘要 书评 试读】- 京东图书,//item.jd.com/11670027.html,67.2,98,28000,人民邮电出版社,//ptpressjd.jd.com
+304,11670385,《51CTO学院系列丛书·实战Java虚拟机：JVM故障诊断与性能优化》(葛一鸣)【摘要 书评 试读】- 京东图书,//item.jd.com/11670385.html,62.3,95,1900,电子工业出版社,//phei1982.jd.com
+305,11671874,《Java 学习笔记（第8版）》(林信良)【摘要 书评 试读】- 京东图书,//item.jd.com/11671874.html,54.4,97,1000,清华大学出版社,//mall.jd.com/index-1000004111.html
+306,11673259,《Java 8函数式编程》([英]Richard Warburton)【摘要 书评 试读】- 京东图书,//item.jd.com/11673259.html,33.2,98,1900,人民邮电出版社,//ptpressjd.jd.com
+307,11673283,《HTML5秘籍（第2版）》([美]Matthew MacDonald)【摘要 书评 试读】- 京东图书,//item.jd.com/11673283.html,75.7,97,200,人民邮电出版社,//ptpressjd.jd.com
+308,11673931,《机器学习与R语言》([美]Brett Lantz)【摘要 书评 试读】- 京东图书,//item.jd.com/11673931.html,54.4,97,500,机械工业出版社,//cmpbook.jd.com
+309,11675424,《Java Web整合开发王者归来+Java Web整合开发实战（套装共2册 附光盘）》(刘京华，贾蓓，镇明敏，杜磊，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11675424.html,159.6,94,6900,清华大学出版社,//mall.jd.com/index-1000004111.html
+310,11676671,《图灵程序设计丛书：你不知道的JavaScript（上卷）》([美]辛普森（Kyle Simpson）)【摘要 书评 试读】- 京东图书,//item.jd.com/11676671.html,41.7,98,58000,人民邮电出版社,//ptpressjd.jd.com
+311,11676683,《图灵程序设计丛书：程序是怎样跑起来的》([日]矢泽久雄)【摘要 书评 试读】- 京东图书,//item.jd.com/11676683.html,33.2,98,2200,人民邮电出版社,//ptpressjd.jd.com
+312,11676691,《Python数据可视化编程实战》([爱尔兰]Igor Milovanovic)【摘要 书评 试读】- 京东图书,//item.jd.com/11676691.html,38.7,98,1100,人民邮电出版社,//ptpressjd.jd.com
+313,11676692,《C++ Primer Plus（第6版）英文版（上下册）》([美]史蒂芬·普拉达（Stephen Prata）)【摘要 书评 试读】- 京东图书,//item.jd.com/11676692.html,100.9,98,400,人民邮电出版社,//ptpressjd.jd.com
+314,11678536,《计算机科学丛书·数据结构、算法与应用：C++语言描述（原书第2版）》([美]萨特吉·萨尼（Sartaj Sahni）)【摘要 书评 试读】- 京东图书,//item.jd.com/11678536.html,59.9,98,2300,机械工业出版社,//cmpbook.jd.com
+315,11679452,《Windows 程序设计（第3版）》(张铮，孙宝山，周天立)【摘要 书评 试读】- 京东图书,//item.jd.com/11679452.html,58.7,98,200,人民邮电出版社,//ptpressjd.jd.com
+316,11680928,《计算机科学丛书：Python语言程序设计》([美]梁勇（Y.Daniel Liang）)【摘要 书评 试读】- 京东图书,//item.jd.com/11680928.html,62.3,98,400,机械工业出版社,//cmpbook.jd.com
+317,11681561,"《Python Cookbook（第3版）中文版》([美]大卫·比斯利（David Beazley）,布莱恩·K.琼斯（Brian K.Jones）)【摘要 书评 试读】- 京东图书",//item.jd.com/11681561.html,85.3,98,3600,人民邮电出版社,//ptpressjd.jd.com
+318,11684053,《微信公众平台搭建与开发揭秘（第2版）》(易伟)【摘要 书评 试读】- 京东图书,//item.jd.com/11684053.html,46.1,96,1100,机械工业出版社,//cmpbook.jd.com
+319,11685549,《PADS 9.5电路设计与仿真从入门到精通》(耿立明，闫聪聪)【摘要 书评 试读】- 京东图书,//item.jd.com/11685549.html,49.6,95,200,人民邮电出版社,//ptpressjd.jd.com
+320,11686346,"《精通Windows Server 2012 R2（第5版）》([美]Mark Minasi，[美]Kevin,Greene，[美]Christian Booth)【摘要 书评 试读】- 京东图书",//item.jd.com/11686346.html,140.4,98,1000,清华大学出版社,//mall.jd.com/index-1000004111.html
+321,11686375,《JavaScript设计模式与开发实践》(曾探)【摘要 书评 试读】- 京东图书,//item.jd.com/11686375.html,50.2,98,58000,人民邮电出版社,//ptpressjd.jd.com
+322,11687609,《Java入门123：一个老鸟的Java学习心得（二维码版）》(臧萌，鲍凯)【摘要 书评 试读】- 京东图书,//item.jd.com/11687609.html,63.8,99,1400,清华大学出版社,//mall.jd.com/index-1000004111.html
+323,11688195,《高性能网站建设指南：前端工程师技能精髓》([美]Steve Souders（史蒂夫.桑德斯）)【摘要 书评 试读】- 京东图书,//item.jd.com/11688195.html,43.2,98,1600,电子工业出版社,//phei1982.jd.com
+324,11689740,《Java EE 7权威指南：卷1（原书第5版）》([美]埃里克·珍兆科（Eric Jendrock），里卡多·塞维拉-纳瓦罗，伊恩·埃文斯，金姆·哈泽，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11689740.html,76.9,98,40000,机械工业出版社,//cmpbook.jd.com
+325,11689962,《Final Cut Pro X 10.1非线性编辑高级教程（全彩）》([美]布兰登 博伊金（Brendan Boykin）)【摘要 书评 试读】- 京东图书,//item.jd.com/11689962.html,77.3,97,1000,电子工业-艺术摄影,//mall.jd.com/index-1000077369.html
+326,11691853,《C++并发编程实战》([美]Anthony Williams（威廉姆斯）)【摘要 书评 试读】- 京东图书,//item.jd.com/11691853.html,74.8,96,1100,人民邮电出版社,//ptpressjd.jd.com
+327,11693895,《C/C++技术丛书：高级C/C++编译技术》([美]米兰·斯特瓦诺维奇（Milan Stevanovic）)【摘要 书评 试读】- 京东图书,//item.jd.com/11693895.html,54.5,97,400,机械工业出版社,//cmpbook.jd.com
+328,11695859,《微信公众平台开发最佳实践（第2版）》(方倍工作室)【摘要 书评 试读】- 京东图书,//item.jd.com/11695859.html,64.9,96,2800,机械工业出版社,//cmpbook.jd.com
+329,11697726,《MATLAB统计分析与应用：40个案例分析（第2版）》(谢中华)【摘要 书评 试读】- 京东图书,//item.jd.com/11697726.html,52.1,98,8900,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+330,11699746,《统计学习导论 基于R应用》([美]加雷斯·詹姆斯，丹妮拉·威滕，特雷弗·哈斯帖，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11699746.html,61.6,99,3800,机械工业出版社,//cmpbook.jd.com
+331,11701869,《Java核心技术系列：Java多线程编程核心技术》(高洪岩)【摘要 书评 试读】- 京东图书,//item.jd.com/11701869.html,64.9,98,40000,机械工业出版社,//cmpbook.jd.com
+332,11701870,《华章原创精品·深入应用C++11：代码优化与工程级应用》(祁宇)【摘要 书评 试读】- 京东图书,//item.jd.com/11701870.html,74.4,98,13000,机械工业出版社,//cmpbook.jd.com
+333,11706272,《Java核心技术系列：Java编程指南》([美]布迪·克尼亚万（Budi Kurniawan）)【摘要 书评 试读】- 京东图书,//item.jd.com/11706272.html,81.7,97,100,机械工业出版社,//cmpbook.jd.com
+334,11709999,《Node.js+MongoDB+AngularJS Web开发》(Brad Dayley（布拉德·德雷）)【摘要 书评 试读】- 京东图书,//item.jd.com/11709999.html,85.1,97,1300,电子工业出版社,//phei1982.jd.com
+335,11712406,《树莓派 Raspberry Pi 实战指南：手把手教你掌握100个精彩案例》(柯博文)【摘要 书评 试读】- 京东图书,//item.jd.com/11712406.html,70.2,96,800,清华大学出版社,//mall.jd.com/index-1000004111.html
+336,11714602,《ZeroC Ice权威指南》(Leader-us)【摘要 书评 试读】- 京东图书,//item.jd.com/11714602.html,48.2,96,300,电子工业出版社,//phei1982.jd.com
+337,11721256,《Windows程序设计 第6版 /微软技术丛书》([美]Charles Petzold)【摘要 书评 试读】- 京东图书,//item.jd.com/11721256.html,113.8,98,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+338,11723139,《零基础学Python（图文版）》([英]Craig　Richardson)【摘要 书评 试读】- 京东图书,//item.jd.com/11723139.html,57.8,99,300,人民邮电出版社,//ptpressjd.jd.com
+339,11723338,《Java Web高级编程：涵盖WebSockets、Spring Framework、JPA》([美]Nicholas S.Williams)【摘要 书评 试读】- 京东图书,//item.jd.com/11723338.html,88.7,97,900,清华大学出版社,//mall.jd.com/index-1000004111.html
+340,11723352,"《Web设计与前端开发秘籍：JavaScript & jQuery 交互式Web前端开发》([美]达科特（Duckett,J）)【摘要 书评 试读】- 京东图书",//item.jd.com/11723352.html,70.9,99,2400,清华大学出版社,//mall.jd.com/index-1000004111.html
+341,11728304,《产品设计与开发（原书第5版）》([美]卡尔 T.乌利齐（Karl T. Ulrich），[美]史蒂文 D.埃平格（Steven D. Eppinger）)【摘要 书评 试读】- 京东图书,//item.jd.com/11728304.html,80,98,1300,机械工业出版社,//cmpbook.jd.com
+342,11728617,《推荐系统：技术、评估及高效算法》【摘要 书评 试读】- 京东图书,//item.jd.com/11728617.html,130.8,98,1100,机械工业出版社,//cmpbook.jd.com
+343,11728740,《重构 改善既有代码的设计 》([美]马丁·福勒（Martin Fowler）)【摘要 书评 试读】- 京东图书,//item.jd.com/11728740.html,54.5,98,39000,人民邮电出版社,//ptpressjd.jd.com
+344,11736483,《JavaScript函数式编程》([美]Michael Fogus)【摘要 书评 试读】- 京东图书,//item.jd.com/11736483.html,41.2,98,1200,人民邮电出版社,//ptpressjd.jd.com
+345,11737504,《图解数据结构：使用Java》(胡昭民)【摘要 书评 试读】- 京东图书,//item.jd.com/11737504.html,43.6,96,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+346,11740734,《Java并发编程的艺术 》(方腾飞，魏鹏，程晓明)【摘要 书评 试读】- 京东图书,//item.jd.com/11740734.html,55.5,97,30000,机械工业出版社,//cmpbook.jd.com
+347,11740744,《软件架构师的12项修炼：技术技能篇》([美]戴维·亨德里克森（Dave Hendricksen）)【摘要 书评 试读】- 京东图书,//item.jd.com/11740744.html,55.5,97,400,机械工业出版社,//cmpbook.jd.com
+348,11740749,《SAP ABAP开发详解与高端应用》(孙东文，郭欢，张岩，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11740749.html,54.5,96,2200,机械工业出版社,//cmpbook.jd.com
+349,11741166,《Java语言程序设计（基础篇 原书第10版）》([美]梁勇（Y.Daniel Liang）)【摘要 书评 试读】- 京东图书,//item.jd.com/11741166.html,67.1,98,3700,机械工业出版社,//cmpbook.jd.com
+350,11742255,《Ruby元编程（第2版）》(Paolo Perrotta)【摘要 书评 试读】- 京东图书,//item.jd.com/11742255.html,54.3,98,5600,华中科技大学出版社,//hustp.jd.com
+351,11742624,《ARM体系结构与编程（第2版）》(杜春雷)【摘要 书评 试读】- 京东图书,//item.jd.com/11742624.html,44.3,97,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+352,11744199,《最优化计算方法及其MATLAB程序实现》(马昌凤，柯艺芬，谢亚君)【摘要 书评 试读】- 京东图书,//item.jd.com/11744199.html,30.8,98,400,国防工业出版社,//mall.jd.com/index-1000014109.html
+353,11744230,《复杂网络算法与应用》(孙玺菁，司守奎)【摘要 书评 试读】- 京东图书,//item.jd.com/11744230.html,31.4,98,500,国防工业出版社,//mall.jd.com/index-1000014109.html
+354,11745024,《AngularJS高级程序设计》([美]Adam Freeman（弗里曼）)【摘要 书评 试读】- 京东图书,//item.jd.com/11745024.html,78.2,96,2400,人民邮电出版社,//ptpressjd.jd.com
+355,11746756,《PHP经典实例（第3版）》([美]David Sklar，[美]Adam Trachtenberg)【摘要 书评 试读】- 京东图书,//item.jd.com/11746756.html,104,99,2400,中国电力出版社,//mall.jd.com/index-1000005549.html
+356,11747684,《JavaScript设计模式》(张容铭)【摘要 书评 试读】- 京东图书,//item.jd.com/11747684.html,46.6,98,58000,人民邮电出版社,//ptpressjd.jd.com
+357,11748488,《C++游戏编程入门（第4版）》([美]道森（Michael Dawson）)【摘要 书评 试读】- 京东图书,//item.jd.com/11748488.html,46.5,97,600,人民邮电出版社,//ptpressjd.jd.com
+358,11748995,《Python 黑帽子：黑客与渗透测试编程之道》([美]Justin Seitz（贾斯汀·塞茨）)【摘要 书评 试读】- 京东图书,//item.jd.com/11748995.html,42.3,98,9900,电子工业出版社,//phei1982.jd.com
+359,11751765,《C++程序设计题解与上机指导（第3版）》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/11751765.html,29.3,98,800,清华大学出版社,//mall.jd.com/index-1000004111.html
+360,11753239,《Verilog HDL数字设计与综合（第二版 本科教学版）》([美]Samir Palnitkar（S·帕尔尼卡）)【摘要 书评 试读】- 京东图书,//item.jd.com/11753239.html,41,98,200,电子工业出版社,//phei1982.jd.com
+361,11753276,《架构探险：从零开始写Java Web框架》(黄勇)【摘要 书评 试读】- 京东图书,//item.jd.com/11753276.html,61.3,97,7300,电子工业出版社,//phei1982.jd.com
+362,11754085,《Web全栈工程师的自我修养》(余果)【摘要 书评 试读】- 京东图书,//item.jd.com/11754085.html,38.6,97,1000,人民邮电出版社,//ptpressjd.jd.com
+363,11755539,《C++程序设计（第3版）》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/11755539.html,42.1,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+364,11755693,《高性能JavaScript》(Nicholas C. Zakas（尼古拉斯·泽卡斯）)【摘要 书评 试读】- 京东图书,//item.jd.com/11755693.html,50.9,98,2900,电子工业出版社,//phei1982.jd.com
+365,11757023,《U一点 料：阿里巴巴1688UED体验设计践行之路》(阿里巴巴1688用户体验部)【摘要 书评 试读】- 京东图书,//item.jd.com/11757023.html,74.4,98,17000,机械工业出版社,//cmpbook.jd.com
+366,11757791,《软件测试技术大全 测试基础 流行工具 项目实战(第3版)》(陈能技，黄志国)【摘要 书评 试读】- 京东图书,//item.jd.com/11757791.html,54.4,96,400,人民邮电出版社,//ptpressjd.jd.com
+367,11757858,《洞察用户体验：方法与实践（第2版）》([美]Elizabeth Goodman，[美]Mike Kuniavsky，[美]Andrea Moed)【摘要 书评 试读】- 京东图书,//item.jd.com/11757858.html,79.1,99,600,清华大学出版社,//mall.jd.com/index-1000004111.html
+368,11757874,《Java WebSocket编程 开发、部署和保护动态Web应用》([美]Danny Coward)【摘要 书评 试读】- 京东图书,//item.jd.com/11757874.html,31.2,96,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+369,11757916,《Objective-C编程（第2版）》(Aaron Hillegass，Mikey Ward)【摘要 书评 试读】- 京东图书,//item.jd.com/11757916.html,60.5,98,2700,华中科技大学出版社,//hustp.jd.com
+370,11758543,《C#项目开发实战密码/赢在项目开发（附光盘）》(扶松柏)【摘要 书评 试读】- 京东图书,//item.jd.com/11758543.html,59.3,97,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+371,11761109,《Java入门经典（第7版）》([美]罗格斯·卡登海德（Rogers Cadenhead）)【摘要 书评 试读】- 京东图书,//item.jd.com/11761109.html,38.6,97,300,人民邮电出版社,//ptpressjd.jd.com
+372,11761713,《安全之路：Web渗透技术及实战案例解析（第2版）》(陈小兵)【摘要 书评 试读】- 京东图书,//item.jd.com/11761713.html,77.9,97,11000,电子工业出版社,//phei1982.jd.com
+373,11762844,《深度实践KVM：核心技术、管理运维、性能优化与项目实施》(肖力，汪爱伟，杨俊俊，赵德禄)【摘要 书评 试读】- 京东图书,//item.jd.com/11762844.html,89.4,97,700,机械工业出版社,//cmpbook.jd.com
+374,11763003,《实战Gradle》([美]Benjamin Muschko（本杰明·马斯可）)【摘要 书评 试读】- 京东图书,//item.jd.com/11763003.html,70.2,97,900,电子工业出版社,//phei1982.jd.com
+375,11763016,《Spark机器学习》([南非]彭特里思（Nick Pentreath）)【摘要 书评 试读】- 京东图书,//item.jd.com/11763016.html,50.2,98,7800,人民邮电出版社,//ptpressjd.jd.com
+376,11765456,《SAP 销售与分销模块定价完全实施手册》(金艋)【摘要 书评 试读】- 京东图书,//item.jd.com/11765456.html,101.9,96,2200,机械工业出版社,//cmpbook.jd.com
+377,11765678,《统计思维：程序员数学之概率统计（第2版）》([美]唐尼（Allen B. Downey）)【摘要 书评 试读】- 京东图书,//item.jd.com/11765678.html,41.7,99,5400,人民邮电出版社,//ptpressjd.jd.com
+378,11766850,《C++入门经典（第4版）》([美]霍尔顿（Ivor Horton）)【摘要 书评 试读】- 京东图书,//item.jd.com/11766850.html,62.8,99,1900,清华大学出版社,//mall.jd.com/index-1000004111.html
+379,11770838,《程序员代码面试指南：IT名企算法与数据结构题目最优解》(左程云)【摘要 书评 试读】- 京东图书,//item.jd.com/11770838.html,60.9,98,3600,电子工业出版社,//phei1982.jd.com
+380,11771007,《程序员的数学2 概率统计》([日]平冈和幸，堀玄)【摘要 书评 试读】- 京东图书,//item.jd.com/11771007.html,67.2,99,6200,人民邮电出版社,//ptpressjd.jd.com
+381,11772823,《Java程序员面试宝典（第4版）》(欧立奇，朱梅，段韬)【摘要 书评 试读】- 京东图书,//item.jd.com/11772823.html,42.1,98,26000,电子工业出版社,//phei1982.jd.com
+382,11776108,《HTML 5与CSS 3权威指南（第3版 下册）》(陆凌牛)【摘要 书评 试读】- 京东图书,//item.jd.com/11776108.html,64.9,96,2000,机械工业出版社,//cmpbook.jd.com
+383,11776111,《HTML 5与CSS 3权威指南（第3版 上册）》(陆凌牛)【摘要 书评 试读】- 京东图书,//item.jd.com/11776111.html,83.8,96,2000,机械工业出版社,//cmpbook.jd.com
+384,11778251,《Node.js实战（第2季）》(吴中骅，雷宗民，赵坤，刘亚中)【摘要 书评 试读】- 京东图书,//item.jd.com/11778251.html,46.5,97,700,电子工业出版社,//phei1982.jd.com
+385,11781659,《ASP.NET MVC5网站开发之美》(demo，小朱，陈传兴，王育民，陈仕杰)【摘要 书评 试读】- 京东图书,//item.jd.com/11781659.html,113.8,97,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+386,11782782,《西门子PLC高级应用实例精解（第2版）/电气信息工程丛书》【摘要 书评 试读】- 京东图书,//item.jd.com/11782782.html,46.8,97,800,机械工业出版社,//cmpbook.jd.com
+387,11783868,《SVG精髓（第2版）》([美]艾森伯格（J.David Eisenberg）[加]贝拉米-罗伊斯（Amelia Bellamy-Royds）)【摘要 书评 试读】- 京东图书,//item.jd.com/11783868.html,58.7,98,300,人民邮电出版社,//ptpressjd.jd.com
+388,11783873,《Python Web开发 测试驱动方法》([英]珀西瓦尔（Harry J.W.Percival）)【摘要 书评 试读】- 京东图书,//item.jd.com/11783873.html,84.2,98,600,人民邮电出版社,//ptpressjd.jd.com
+389,11784708,《UG NX 10.0数控编程教程》【摘要 书评 试读】- 京东图书,//item.jd.com/11784708.html,29.2,95,900,机械工业出版社,//cmpbook.jd.com
+390,11785190,《Java多线程编程实战指南（设计模式篇）》(黄文海)【摘要 书评 试读】- 京东图书,//item.jd.com/11785190.html,46.5,98,4800,电子工业出版社,//phei1982.jd.com
+391,11785233,《Simulink仿真及代码生成技术入门到精通》(孙忠潇（Hyowinner）)【摘要 书评 试读】- 京东图书,//item.jd.com/11785233.html,53,98,4000,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+392,11785503,《ARM Cortex-M3与Cortex-M4权威指南（第3版）》(Joseph Yiu)【摘要 书评 试读】- 京东图书,//item.jd.com/11785503.html,79.1,98,900,清华大学出版社,//mall.jd.com/index-1000004111.html
+393,11785512,《微信公众平台应用开发从入门到精通》(闫小坤，周涛)【摘要 书评 试读】- 京东图书,//item.jd.com/11785512.html,61.3,96,600,清华大学出版社,//mall.jd.com/index-1000004111.html
+394,11786541,《Modern PHP（中文版）》([美]Josh Lockhart（乔希·洛克哈特）)【摘要 书评 试读】- 京东图书,//item.jd.com/11786541.html,29.3,99,2800,中国电力出版社,//mall.jd.com/index-1000005549.html
+395,11786791,《编程之法：面试和算法心得》(July)【摘要 书评 试读】- 京东图书,//item.jd.com/11786791.html,41.2,98,39000,人民邮电出版社,//ptpressjd.jd.com
+396,11789488,《Spring入门经典》(Mert Caliskan，Kenan Sevindik)【摘要 书评 试读】- 京东图书,//item.jd.com/11789488.html,47.8,98,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+397,11789669,《有趣的二进制 软件安全与逆向分析》([日]爱甲健二)【摘要 书评 试读】- 京东图书,//item.jd.com/11789669.html,33.2,98,600,人民邮电出版社,//ptpressjd.jd.com
+398,11789753,《Python项目开发实战》([美]Laura Cassell，[美]AlanGauld)【摘要 书评 试读】- 京东图书,//item.jd.com/11789753.html,53.2,99,2600,清华大学出版社,//mall.jd.com/index-1000004111.html
+399,11790199,《R语言数据分析与挖掘实战》(张良均，云伟标，王路，刘晓勇)【摘要 书评 试读】- 京东图书,//item.jd.com/11790199.html,52.7,99,12000,机械工业出版社,//cmpbook.jd.com
+400,11791238,《密码学：C/C++语言实现（原书第2版）》([德]迈克尔·威尔森巴赫)【摘要 书评 试读】- 京东图书,//item.jd.com/11791238.html,56.9,98,200,机械工业出版社,//cmpbook.jd.com
+401,11795034,"《Scala编程思想（原书第2版）》([美]布鲁斯·埃克尔（Bruce Eckel）,戴安娜·马什（Dianne Marsh）)【摘要 书评 试读】- 京东图书",//item.jd.com/11795034.html,54.5,95,500,机械工业出版社,//cmpbook.jd.com
+402,11800589,《实战Java高并发程序设计》(葛一鸣，郭超)【摘要 书评 试读】- 京东图书,//item.jd.com/11800589.html,53.4,98,4400,电子工业出版社,//phei1982.jd.com
+403,11807414,《看透Spring MVC：源代码分析与实践》(韩路彪)【摘要 书评 试读】- 京东图书,//item.jd.com/11807414.html,64.9,97,1500,机械工业出版社,//cmpbook.jd.com
+404,11807430,《JavaScript编程精解（原书第2版）》([美]马尔奇·哈弗贝克)【摘要 书评 试读】- 京东图书,//item.jd.com/11807430.html,74.4,98,300,机械工业出版社,//cmpbook.jd.com
+405,11821338,《明解C语言（第3版 入门篇）》([日]柴田望洋)【摘要 书评 试读】- 京东图书,//item.jd.com/11821338.html,67.2,98,1400,人民邮电出版社,//ptpressjd.jd.com
+406,11821339,《Java技术手册（第6版）》([英]Benjamin J. Evans，[美]David Flanagan)【摘要 书评 试读】- 京东图书,//item.jd.com/11821339.html,67.2,98,200,人民邮电出版社,//ptpressjd.jd.com
+407,11821347,"《趣学JavaScript：教孩子学编程》([美]Nick.Morgan,摩根)【摘要 书评 试读】- 京东图书",//item.jd.com/11821347.html,46.6,99,12000,人民邮电出版社,//ptpressjd.jd.com
+408,11821364,《Python语言及其应用》([美]卢布诺维克（Bill Lubanovic）)【摘要 书评 试读】- 京东图书,//item.jd.com/11821364.html,67.2,99,1200,人民邮电出版社,//ptpressjd.jd.com
+409,11821611,《STL源码剖析》(侯捷)【摘要 书评 试读】- 京东图书,//item.jd.com/11821611.html,61,98,5600,华中科技大学出版社,//hustp.jd.com
+410,11821937,《Python数据分析与挖掘实战》(张良均，王路，谭立云，苏剑林，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11821937.html,54.5,99,12000,机械工业出版社,//cmpbook.jd.com
+411,11822146,《PHP开发实例大全（基础卷 附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11822146.html,113.8,96,9900,清华大学出版社,//mall.jd.com/index-1000004111.html
+412,11825209,《ASP.NET开发实例大全·基础卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11825209.html,113.8,95,4100,清华大学出版社,//mall.jd.com/index-1000004111.html
+413,11825215,《Java开发实例大全·基础卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11825215.html,113.8,97,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+414,11825768,《ASP.NET开发实例大全 提高卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11825768.html,113.8,95,4100,清华大学出版社,//mall.jd.com/index-1000004111.html
+415,11825782,《Java Web开发实例大全·提高卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11825782.html,102.4,95,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+416,11825971,《Java开发实例大全 提高卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11825971.html,102.4,98,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+417,11826182,《Java数字图像处理：编程技巧与应用实践》(贾志刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11826182.html,56.9,99,100,机械工业出版社,//cmpbook.jd.com
+418,11826383,《PHP+MySQL+Dreamweaver动态网站开发从入门到精通（第2版）》(陈益材，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11826383.html,54.5,95,200,机械工业出版社,//cmpbook.jd.com
+419,11826669,《JavaScript经典实例（第二版）》([美]Shelley Powers（谢丽·鲍尔斯）)【摘要 书评 试读】- 京东图书,//item.jd.com/11826669.html,73.5,98,1000,中国电力出版社,//mall.jd.com/index-1000005549.html
+420,11826925,《C# 开发实例大全·基础卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11826925.html,113.8,96,10000,清华大学出版社,//mall.jd.com/index-1000004111.html
+421,11826939,《C#开发实例大全·提高卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11826939.html,113.8,96,10000,清华大学出版社,//mall.jd.com/index-1000004111.html
+422,11827280,《Visual C++编程实战宝典+Visual C++游戏开发案例实战+Visual C++网络编程案例实战（套装共3册 附DVD光盘）》(李琳娜、梁伟、王浩，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11827280.html,161.4,99,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+423,11827583,《Kali Linux渗透测试技术详解+Wireshark数据包分析实战详解（套装共2册）》(杨波、王晓卉，李亚伟 )【摘要 书评 试读】- 京东图书,//item.jd.com/11827583.html,104.1,97,5600,清华大学出版社,//mall.jd.com/index-1000004111.html
+424,11828627,《Visual C++开发实例大全 提高卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11828627.html,102.4,96,4800,清华大学出版社,//mall.jd.com/index-1000004111.html
+425,11829224,《PHP开发实例大全 提高卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11829224.html,115.2,96,9900,清华大学出版社,//mall.jd.com/index-1000004111.html
+426,11829541,《Xilinx ZYNQ-7000 AP SoC开发实战指南 EDA工程技术丛书》(符晓，张国斌，朱洪顺)【摘要 书评 试读】- 京东图书,//item.jd.com/11829541.html,39.2,98,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+427,11831000,《Java Web开发实例大全 基础卷  配光盘  软件工程师开发大系》(软件开发技术联盟)【摘要 书评 试读】- 京东图书,//item.jd.com/11831000.html,113.8,96,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+428,11836156,《Visual C++开发实例大全·基础卷/软件工程师开发大系（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11836156.html,115.2,96,4800,清华大学出版社,//mall.jd.com/index-1000004111.html
+429,11836608,《算法基础：打开算法之门》([美]托马斯H.科尔曼)【摘要 书评 试读】- 京东图书,//item.jd.com/11836608.html,46.6,99,2300,机械工业出版社,//cmpbook.jd.com
+430,11837411,《自制搜索引擎》([日]山田浩之，[日]末永匡)【摘要 书评 试读】- 京东图书,//item.jd.com/11837411.html,33.2,97,3200,人民邮电出版社,//ptpressjd.jd.com
+431,11840859,《Python和Pygame游戏开发指南》([美]斯维加特（Al Sweigart）)【摘要 书评 试读】- 京东图书,//item.jd.com/11840859.html,46.5,99,200,人民邮电出版社,//ptpressjd.jd.com
+432,11841674,《Python算法教程》([挪威]赫特兰（Magnus Lie Hetland）)【摘要 书评 试读】- 京东图书,//item.jd.com/11841674.html,58,98,3300,人民邮电出版社,//ptpressjd.jd.com
+433,11842169,《看板实战》([瑞典]马库斯·哈马伯格（Marcus Hammarberg），[瑞典]乔吉姆·森顿（Joakim Sundén）)【摘要 书评 试读】- 京东图书,//item.jd.com/11842169.html,46.5,99,400,人民邮电出版社,//ptpressjd.jd.com
+434,11843719,《PHP、MySQL与JavaScript学习手册（第四版）》([美]Robin Nixon（罗宾·尼克松）著 侯荣涛，侯硕楠，韩进 译)【摘要 书评 试读】- 京东图书,//item.jd.com/11843719.html,96,99,2900,中国电力出版社,//mall.jd.com/index-1000005549.html
+435,11844102,《React Native入门与实战》(王利华，魏晓军，冯诚祺)【摘要 书评 试读】- 京东图书,//item.jd.com/11844102.html,67.2,96,1100,人民邮电出版社,//ptpressjd.jd.com
+436,11845736,《AngularJS深度剖析与最佳实践》(雪狼，破狼，彭洪伟)【摘要 书评 试读】- 京东图书,//item.jd.com/11845736.html,64.9,97,500,机械工业出版社,//cmpbook.jd.com
+437,11846120,《深入理解Spark：核心思想与源码分析》(耿嘉安)【摘要 书评 试读】- 京东图书,//item.jd.com/11846120.html,93.2,98,1600,机械工业出版社,//cmpbook.jd.com
+438,11846759,《深入理解JavaScript》([美]罗彻麦尔（Axel Rauschmayer）)【摘要 书评 试读】- 京东图书,//item.jd.com/11846759.html,62.4,99,400,人民邮电出版社,//ptpressjd.jd.com
+439,11847292,"《R语言初学指南》([美]布莱恩·丹尼斯（Brian,Dennis）)【摘要 书评 试读】- 京东图书",//item.jd.com/11847292.html,41.2,99,9600,人民邮电出版社,//ptpressjd.jd.com
+440,11848569,《计算机程序设计艺术（卷1）：基本算法（第3版）》([美]高德纳（Donald E. Knuth）)【摘要 书评 试读】- 京东图书,//item.jd.com/11848569.html,168.3,98,3100,人民邮电出版社,//ptpressjd.jd.com
+441,11849235,《ES 6 标准入门（第2版）》(阮一峰)【摘要 书评 试读】- 京东图书,//item.jd.com/11849235.html,54.3,98,2000,电子工业出版社,//phei1982.jd.com
+442,11849765,《数据结构与算法：Python语言描述》(裘宗燕)【摘要 书评 试读】- 京东图书,//item.jd.com/11849765.html,33,98,1500,机械工业出版社,//cmpbook.jd.com
+443,11850962,《跟兄弟连学PHP（附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/11850962.html,93,95,2800,电子工业出版社,//phei1982.jd.com
+444,11851351,《精通 ASP.NET MVC 5》([美]Adam Freeman)【摘要 书评 试读】- 京东图书,//item.jd.com/11851351.html,78,95,700,人民邮电出版社,//ptpressjd.jd.com
+445,11857434,《深入理解ElasticSearch》([美]拉斐尔·酷奇，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11857434.html,64.9,97,900,机械工业出版社,//cmpbook.jd.com
+446,11858013,《Selenium 2自动化测试实战 基于Python语言》(虫师)【摘要 书评 试读】- 京东图书,//item.jd.com/11858013.html,46.6,98,5100,电子工业出版社,//phei1982.jd.com
+447,11858148,《MATLAB GUI设计入门与实战》(余胜威，吴婷，罗建桥)【摘要 书评 试读】- 京东图书,//item.jd.com/11858148.html,71.8,97,6300,清华大学出版社,//mall.jd.com/index-1000004111.html
+448,11858186,《C/C++学习指南（语法篇）》(邵发)【摘要 书评 试读】- 京东图书,//item.jd.com/11858186.html,44.4,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+449,11863994,《Unity 5.X 3D游戏开发技术详解与典型案例》(吴亚峰，索依娜)【摘要 书评 试读】- 京东图书,//item.jd.com/11863994.html,70.3,98,4200,人民邮电出版社,//ptpressjd.jd.com
+450,11864820,《Effective Python：编写高质量Python代码的59个有效方法》([美]布雷特·斯拉特金)【摘要 书评 试读】- 京东图书,//item.jd.com/11864820.html,55.5,99,1600,机械工业出版社,//cmpbook.jd.com
+451,11864836,《Go程序设计语言（英文版）》([美]艾伦A.A.多诺万，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11864836.html,61.7,99,5600,机械工业出版社,//cmpbook.jd.com
+452,11866963,《Xcode实战：Apple平台开发实用技术、技巧及最佳流程》([美]弗里茨·安德森（Fritz Anderson）)【摘要 书评 试读】- 京东图书,//item.jd.com/11866963.html,78.2,96,100,机械工业出版社,//cmpbook.jd.com
+453,11870302,《PowerDesigner 16 从入门到精通》(李波，孙宪丽，关颖)【摘要 书评 试读】- 京东图书,//item.jd.com/11870302.html,61.3,97,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+454,11871839,《产品经理面试攻略》(蓝鲸部落)【摘要 书评 试读】- 京东图书,//item.jd.com/11871839.html,55.5,99,800,机械工业出版社,//cmpbook.jd.com
+455,11872653,《Python数据分析》([印尼]伊德里斯（Ivan Idris）)【摘要 书评 试读】- 京东图书,//item.jd.com/11872653.html,46.6,99,1700,人民邮电出版社,//ptpressjd.jd.com
+456,11877268,《深入理解Nginx：模块开发与架构解析（第2版）》(陶辉)【摘要 书评 试读】- 京东图书,//item.jd.com/11877268.html,93.2,99,2600,机械工业出版社,//cmpbook.jd.com
+457,11879051,《支持向量机：理论、算法与拓展》(邓乃扬，田英杰)【摘要 书评 试读】- 京东图书,//item.jd.com/11879051.html,77,97,100,科学出版社,//mall.jd.com/index-1000005740.html
+458,11880788,《ZooKeeper：分布式过程协同技术详解》([美]Flavio Junqueira，Benjamin Reed)【摘要 书评 试读】- 京东图书,//item.jd.com/11880788.html,64.9,98,2500,机械工业出版社,//cmpbook.jd.com
+459,11882913,《Scala学习手册》([美]Jason Swartz（詹森·斯瓦茨）)【摘要 书评 试读】- 京东图书,//item.jd.com/11882913.html,36,99,7200,中国电力出版社,//mall.jd.com/index-1000005549.html
+460,11885851,《LabVIEW大学实用教程（第三版）》([美]J. 特拉维斯（Jeffrey Travis），[美]J. 克林（Jim Kring）)【摘要 书评 试读】- 京东图书,//item.jd.com/11885851.html,57,95,300,电子工业出版社,//phei1982.jd.com
+461,11886254,《数据结构与算法分析：Java语言描述（原书第3版） 》([美]马克·艾伦·维斯)【摘要 书评 试读】- 京东图书,//item.jd.com/11886254.html,54.5,99,6900,机械工业出版社,//cmpbook.jd.com
+462,11887193,《31天学会CRM项目开发：C#编程入门及项目实战》(代前杰，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11887193.html,83.8,97,500,机械工业出版社,//cmpbook.jd.com
+463,11887586,《垃圾回收算法手册：自动内存管理的艺术》([英]理查德·琼斯)【摘要 书评 试读】- 京东图书,//item.jd.com/11887586.html,109.6,99,800,机械工业出版社,//cmpbook.jd.com
+464,11890417,《Python面向对象编程指南》([美]Steven F. Lott（洛特）)【摘要 书评 试读】- 京东图书,//item.jd.com/11890417.html,62.3,98,400,人民邮电出版社,//ptpressjd.jd.com
+465,11890423,《C语言接口与实现 创建可重用软件的技术》([美]戴维 R.汉森（David R. Hanson）)【摘要 书评 试读】- 京东图书,//item.jd.com/11890423.html,62.3,98,600,人民邮电出版社,//ptpressjd.jd.com
+466,11891058,《程序员的数学3 线性代数》([日]平冈和幸，堀玄)【摘要 书评 试读】- 京东图书,//item.jd.com/11891058.html,67.2,99,6000,人民邮电出版社,//ptpressjd.jd.com
+467,11891856,《算法基础（第5版）》([美]那不勒坦（Richard E.Neapolitan）)【摘要 书评 试读】- 京东图书,//item.jd.com/11891856.html,84.2,98,200,人民邮电出版社,//ptpressjd.jd.com
+468,11892134,《基于R语言的自动数据收集：网络抓取和文本挖掘实用指南》([德]西蒙·蒙策尔特，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11892134.html,81.7,98,300,机械工业出版社,//cmpbook.jd.com
+469,11894632,《JavaEE开发的颠覆者：Spring Boot实战 》(汪云飞)【摘要 书评 试读】- 京东图书,//item.jd.com/11894632.html,70.3,97,6000,电子工业出版社,//phei1982.jd.com
+470,11894701,《解密搜索引擎技术实战 Lucene&Java精华版（第3版）》(罗刚 等)【摘要 书评 试读】- 京东图书,//item.jd.com/11894701.html,62.3,98,300,电子工业出版社,//phei1982.jd.com
+471,11896170,"《C++编程规范：101条规则、准则与最佳实践》([加]赫布·萨特（Herb Sutter），[罗]安德烈亚历克斯安德莱斯库（Andrei,Alexandrescu）)【摘要 书评 试读】- 京东图书",//item.jd.com/11896170.html,30.8,99,500,人民邮电出版社,//ptpressjd.jd.com
+472,11896180,《C Primer Plus（第6版 英文版 套装上下册）》([美]史蒂芬·普拉达（Stephen Prata）)【摘要 书评 试读】- 京东图书,//item.jd.com/11896180.html,93,98,400,人民邮电出版社,//ptpressjd.jd.com
+473,11896385,《Python核心编程 第3版 英文版》([美]卫斯理·春（Wesley Chun）)【摘要 书评 试读】- 京东图书,//item.jd.com/11896385.html,78,98,400,人民邮电出版社,//ptpressjd.jd.com
+474,11896401,《Python网络数据采集》([美]米切尔（Ryan Mitchell）)【摘要 书评 试读】- 京东图书,//item.jd.com/11896401.html,50.2,99,110000,人民邮电出版社,//ptpressjd.jd.com
+475,11896403,《从零开始学Swift》(关东升)【摘要 书评 试读】- 京东图书,//item.jd.com/11896403.html,84.2,95,6100,人民邮电出版社,//ptpressjd.jd.com
+476,11896407,《数据科学入门》([美]格鲁斯（Joel Grus）)【摘要 书评 试读】- 京东图书,//item.jd.com/11896407.html,58.7,98,400,人民邮电出版社,//ptpressjd.jd.com
+477,11896415,《教孩子学编程 Python语言版》([美]Bryson Payne)【摘要 书评 试读】- 京东图书,//item.jd.com/11896415.html,46.6,99,12000,人民邮电出版社,//ptpressjd.jd.com
+478,11896988,《Java性能权威指南》([美]奥克斯（Oaks S.）)【摘要 书评 试读】- 京东图书,//item.jd.com/11896988.html,67.2,99,800,人民邮电出版社,//ptpressjd.jd.com
+479,11899350,《你必须知道的495个C语言问题》([美]史蒂夫·萨米特（Steve Summit）)【摘要 书评 试读】- 京东图书,//item.jd.com/11899350.html,35.6,98,600,人民邮电出版社,//ptpressjd.jd.com
+480,11899354,"《Microsoft.NET企业级应用架构设计 （第2版）》([意]（Dino Esposito）埃斯波西托,（Andrea Saltarello）,索尔塔雷罗)【摘要 书评 试读】- 京东图书",//item.jd.com/11899354.html,52.2,98,400,人民邮电出版社,//ptpressjd.jd.com
+481,11899366,"《算法 英文版 第4版》([美]塞奇威克（Robert Sedgewick）,[美]韦恩（Kevin Wayne）)【摘要 书评 试读】- 京东图书",//item.jd.com/11899366.html,109.7,97,500,人民邮电出版社,//ptpressjd.jd.com
+482,11899370,《Spring实战（第4版） 》([美] Craig Walls 沃尔斯)【摘要 书评 试读】- 京东图书,//item.jd.com/11899370.html,70.3,98,25000,人民邮电出版社,//ptpressjd.jd.com
+483,11900628,《汇编语言：基于x86处理器（原书第7版）》([美]基普·欧文（Kip Irvine）)【摘要 书评 试读】- 京东图书,//item.jd.com/11900628.html,77.6,98,1100,机械工业出版社,//cmpbook.jd.com
+484,11900636,《编译系统透视：图解编译原理》(新设计团队)【摘要 书评 试读】- 京东图书,//item.jd.com/11900636.html,159.1,97,400,机械工业出版社,//cmpbook.jd.com
+485,11901441,《Effective Java（第2版 英文版）》([美]Joshua Bloch（约书亚·布洛赫）)【摘要 书评 试读】- 京东图书,//item.jd.com/11901441.html,51.2,98,1100,电子工业出版社,//phei1982.jd.com
+486,11901635,《PHP程序设计（慕课版）》(程文彬，李树强)【摘要 书评 试读】- 京东图书,//item.jd.com/11901635.html,39.3,96,900,人民邮电出版社,//ptpressjd.jd.com
+487,11901637,《C#程序设计 慕课版》(甘勇，尚展垒，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11901637.html,39.3,96,900,人民邮电出版社,//ptpressjd.jd.com
+488,11901890,"《Scala程序设计 第2版》([美]万普勒（Dean Wampler）,佩恩（Alex Payne）)【摘要 书评 试读】- 京东图书",//item.jd.com/11901890.html,92.7,97,400,人民邮电出版社,//ptpressjd.jd.com
+489,11902946,《Spark MLlib机器学习：算法、源码及实战详解》(黄美灵)【摘要 书评 试读】- 京东图书,//item.jd.com/11902946.html,62.3,98,8400,电子工业出版社,//phei1982.jd.com
+490,11904820,《数值方法：设计、分析和算法实现》([美]安妮·戈林鲍姆，[美]蒂莫西 P.夏蒂埃)【摘要 书评 试读】- 京东图书,//item.jd.com/11904820.html,54.5,99,400,机械工业出版社,//cmpbook.jd.com
+491,11905178,《Scala函数式编程》([美]Paul Chiusano（保罗·基乌萨诺），[美]Rúnar Bjarnason（诺曼·比亚尔纳松）)【摘要 书评 试读】- 京东图书,//item.jd.com/11905178.html,54.4,98,900,电子工业出版社,//phei1982.jd.com
+492,11906276,《零成本实现Web性能测试：基于Apache JMeter和Gatling》(温素剑)【摘要 书评 试读】- 京东图书,//item.jd.com/11906276.html,64.5,97,300,电子工业出版社,//phei1982.jd.com
+493,11908449,《大话Java性能优化》(周明耀)【摘要 书评 试读】- 京东图书,//item.jd.com/11908449.html,70.2,95,1900,电子工业出版社,//phei1982.jd.com
+494,11908566,《新一代SDN VMware NSX 网络原理与实践》(范恂毅，张晓和)【摘要 书评 试读】- 京东图书,//item.jd.com/11908566.html,62.3,98,2600,人民邮电出版社,//ptpressjd.jd.com
+495,11908568,《ABAQUS Python二次开发攻略 CAE分析大系》(苏景鹤，江丙云)【摘要 书评 试读】- 京东图书,//item.jd.com/11908568.html,50.2,98,5200,人民邮电出版社,//ptpressjd.jd.com
+496,11908957,《GPU与MATLAB混合编程》([韩]郑郁旭，[韩]金英民)【摘要 书评 试读】- 京东图书,//item.jd.com/11908957.html,46.6,95,200,机械工业出版社,//cmpbook.jd.com
+497,11909224,《C++覆辙录》([美]史蒂芬·C.杜赫斯特（Stephen C.Dewhurst）)【摘要 书评 试读】- 京东图书,//item.jd.com/11909224.html,57.8,97,100,人民邮电出版社,//ptpressjd.jd.com
+498,11911003,《算法竞赛宝典·第二部：基础算法艺术》(张新华)【摘要 书评 试读】- 京东图书,//item.jd.com/11911003.html,79.1,99,700,清华大学出版社,//mall.jd.com/index-1000004111.html
+499,11911025,《算法竞赛宝典·第一部：语言及算法入门》(张新华)【摘要 书评 试读】- 京东图书,//item.jd.com/11911025.html,43.6,99,700,清华大学出版社,//mall.jd.com/index-1000004111.html
+500,11913468,《精通Linux设备驱动程序开发》([印]斯里克里斯汉·温卡特斯瓦兰（Sreekrishnan Venkateswaran）)【摘要 书评 试读】- 京东图书,//item.jd.com/11913468.html,70.2,98,300,人民邮电出版社,//ptpressjd.jd.com
+501,11915635,《汇编语言程序设计—基于ARM 体系结构(第3版)》【摘要 书评 试读】- 京东图书,//item.jd.com/11915635.html,38.7,98,200,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+502,11917487,"《C Primer Plus 第6版 中文版 》([美]史蒂芬·普拉达（Stephen,Prata）)【摘要 书评 试读】- 京东图书",//item.jd.com/11917487.html,70.3,97,50000,人民邮电出版社,//ptpressjd.jd.com
+503,11917729,《Ansible自动化运维：技术与最佳实践》(陈金窗，沈灿，刘政委)【摘要 书评 试读】- 京东图书,//item.jd.com/11917729.html,64.9,97,700,机械工业出版社,//cmpbook.jd.com
+504,11917790,"《Java 8实战》([英]厄马（Raoul-Gabriel,Urma）[意],弗斯科（Mario,Fusco）[英],米克罗夫特（Alan,Mycroft）)【摘要 书评 试读】- 京东图书",//item.jd.com/11917790.html,67.2,99,1800,人民邮电出版社,//ptpressjd.jd.com
+505,11918059,《Python科学计算(第2版)（附光盘）》(张若愚)【摘要 书评 试读】- 京东图书,//item.jd.com/11918059.html,106.2,99,2600,清华大学出版社,//mall.jd.com/index-1000004111.html
+506,11919981,《C++多线程编程实战》([黑山共和国]米洛斯·留莫维奇（Milos Ljumovic）)【摘要 书评 试读】- 京东图书,//item.jd.com/11919981.html,46.5,99,400,人民邮电出版社,//ptpressjd.jd.com
+507,11920366,《MATLAB数学建模与仿真》【摘要 书评 试读】- 京东图书,//item.jd.com/11920366.html,67.8,99,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+508,11920483,"《乐高机器人EV3程序设计艺术》([美]Terry,Griffin)【摘要 书评 试读】- 京东图书",//item.jd.com/11920483.html,70.3,99,7200,人民邮电出版社,//ptpressjd.jd.com
+509,11921013,《R绘图系统 第2版》([新西兰]Paul Murrell)【摘要 书评 试读】- 京东图书,//item.jd.com/11921013.html,62.3,99,400,人民邮电出版社,//ptpressjd.jd.com
+510,11927051,《Visual Studio 2015高级编程 第6版/NET开发经典名著》([美]Bruce Johnson)【摘要 书评 试读】- 京东图书,//item.jd.com/11927051.html,122.7,98,700,清华大学出版社,//mall.jd.com/index-1000004111.html
+511,11929832,《Java并发编程：核心方法与框架》(高洪岩)【摘要 书评 试读】- 京东图书,//item.jd.com/11929832.html,74.4,97,600,机械工业出版社,//cmpbook.jd.com
+512,11931337,《自制编译器》([日]青木峰郎)【摘要 书评 试读】- 京东图书,//item.jd.com/11931337.html,84.2,97,3200,人民邮电出版社,//ptpressjd.jd.com
+513,11932156,"《Kali Linux高级渗透测试》([加]罗伯特 W.贝格斯（Robert,W.,Beggs）)【摘要 书评 试读】- 京东图书",//item.jd.com/11932156.html,46.4,98,400,机械工业出版社,//cmpbook.jd.com
+514,11932807,《Scratch 2.0动画游戏与创意设计教程》(王丽君)【摘要 书评 试读】- 京东图书,//item.jd.com/11932807.html,61.3,98,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+515,11935272,《自己动手写Java虚拟机》(张秀宏)【摘要 书评 试读】- 京东图书,//item.jd.com/11935272.html,64.9,98,87000,机械工业出版社,//cmpbook.jd.com
+516,11935413,《Visual Basic 2015入门经典（第8版）/NET开发经典名著》([美]Bryan Newsome)【摘要 书评 试读】- 京东图书,//item.jd.com/11935413.html,70.9,98,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+517,11936069,《SEO深度解析：全面挖掘搜索引擎优化的核心秘密（第2版）》(痞子瑞)【摘要 书评 试读】- 京东图书,//item.jd.com/11936069.html,78,96,6800,电子工业出版社,//phei1982.jd.com
+518,11936238,《Python核心编程（第3版） 》([美]Wesley Chun)【摘要 书评 试读】- 京东图书,//item.jd.com/11936238.html,78.2,99,110000,人民邮电出版社,//ptpressjd.jd.com
+519,11936314,"《HTML5与WebGL编程》([美]帕里西（Tony,Parisi）)【摘要 书评 试读】- 京东图书",//item.jd.com/11936314.html,67.2,97,300,人民邮电出版社,//ptpressjd.jd.com
+520,11937100,《深入浅出DPDK》(朱河清，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11937100.html,64.9,98,600,机械工业出版社,//cmpbook.jd.com
+521,11937122,《机器学习与R语言实战》(丘祐玮)【摘要 书评 试读】- 京东图书,//item.jd.com/11937122.html,64.9,99,200,机械工业出版社,//cmpbook.jd.com
+522,11937362,《JSON必知必会》([美] 巴塞特（Lindsay Bassett）)【摘要 书评 试读】- 京东图书,//item.jd.com/11937362.html,29.8,98,500,人民邮电出版社,//ptpressjd.jd.com
+523,11937366,《绝密原型档案 看看专业产品经理的原型是什么样》(Gara)【摘要 书评 试读】- 京东图书,//item.jd.com/11937366.html,58,98,14000,人民邮电出版社,//ptpressjd.jd.com
+524,11939734,《R语言实战 第2版 》([美]卡巴科弗（Robert I. Kabacoff）)【摘要 书评 试读】- 京东图书,//item.jd.com/11939734.html,84.2,99,9600,人民邮电出版社,//ptpressjd.jd.com
+525,11940558,《SpringBoot揭秘：快速构建微服务体系》(王福强)【摘要 书评 试读】- 京东图书,//item.jd.com/11940558.html,55.5,97,10000,机械工业出版社,//cmpbook.jd.com
+526,11941060,《UG NX 10.0中文版从入门到精通（配光盘）》(CAD/CAM/CAE技术联盟)【摘要 书评 试读】- 京东图书,//item.jd.com/11941060.html,62,97,12000,清华大学出版社,//mall.jd.com/index-1000004111.html
+527,11942017,"《React Native开发指南》([美]艾森曼（Bonnie,Eisenman）)【摘要 书评 试读】- 京东图书",//item.jd.com/11942017.html,50.2,98,600,人民邮电出版社,//ptpressjd.jd.com
+528,11943853,《Python编程快速上手 让繁琐工作自动化》([美]Al Sweigart（斯维加特）)【摘要 书评 试读】- 京东图书,//item.jd.com/11943853.html,54.5,99,110000,人民邮电出版社,//ptpressjd.jd.com
+529,11944267,"《Go语言学习笔记》(电子工业出版社	雨痕　)【摘要 书评 试读】- 京东图书",//item.jd.com/11944267.html,70.3,99,1300,电子工业出版社,//phei1982.jd.com
+530,11944458,《企业级Java EE架构设计精深实践》(罗果)【摘要 书评 试读】- 京东图书,//item.jd.com/11944458.html,79.8,94,6900,清华大学出版社,//mall.jd.com/index-1000004111.html
+531,11944662,《Cocos2d JS游戏开发》(凌建风)【摘要 书评 试读】- 京东图书,//item.jd.com/11944662.html,58.7,100,100,人民邮电出版社,//ptpressjd.jd.com
+532,11948360,《自然语言处理原理与技术实现》(罗刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11948360.html,62.3,98,8400,电子工业出版社,//phei1982.jd.com
+533,11948364,"《Java核心技术 卷I 基础知识 第10版 英文版 上下册》([美]凯·S.霍斯特曼（Cay,S.,Horstmann）)【摘要 书评 试读】- 京东图书",//item.jd.com/11948364.html,86.1,98,600,人民邮电出版社,//ptpressjd.jd.com
+534,11948789,《Web前端开发HTML5+CSS3+jQuery+AJAX从学到用完美实践》(阮晓龙，耿方方，许成刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11948789.html,70.4,98,400,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+535,11948817,《像计算机科学家一样思考Python 第2版》([美]艾伦·B.唐尼（Allen B.Downey）)【摘要 书评 试读】- 京东图书,//item.jd.com/11948817.html,41.2,99,1100,人民邮电出版社,//ptpressjd.jd.com
+536,11948847,"《C#敏捷开发实践》([英]加里·麦克莱恩·霍尔（Gary,McLean,Hall）)【摘要 书评 试读】- 京东图书",//item.jd.com/11948847.html,58.7,99,100,人民邮电出版社,//ptpressjd.jd.com
+537,11950932,《R语言实战――机器学习与数据分析》(左飞)【摘要 书评 试读】- 京东图书,//item.jd.com/11950932.html,62.3,98,8400,电子工业出版社,//phei1982.jd.com
+538,11953925,《C++11/14高级编程：Boost程序库探秘（第3版）》(罗剑锋)【摘要 书评 试读】- 京东图书,//item.jd.com/11953925.html,63.2,98,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+539,11954623,《认知设计：提升学习体验的艺术（原书第2版）》([美]朱莉·德克森（Julie Dirksen）)【摘要 书评 试读】- 京东图书,//item.jd.com/11954623.html,74.4,99,400,机械工业出版社,//cmpbook.jd.com
+540,11957269,《多元时间序列分析及金融应用：R语言》([美]蔡瑞胸（RueyS.Tsay）)【摘要 书评 试读】- 京东图书,//item.jd.com/11957269.html,62.3,98,200,机械工业出版社,//cmpbook.jd.com
+541,11961241,《深入浅出MyBatis技术原理与实战》(杨开振)【摘要 书评 试读】- 京东图书,//item.jd.com/11961241.html,54.2,98,3000,电子工业出版社,//phei1982.jd.com
+542,11962690,"《Unity 5实战 使用C#和Unity开发多平台游戏》([美]Joseph,Hocking)【摘要 书评 试读】- 京东图书",//item.jd.com/11962690.html,47.8,97,800,清华大学出版社,//mall.jd.com/index-1000004111.html
+543,11964115,《Java经典实例（第三版）》([美]Ian F.Darwin（达尔文）)【摘要 书评 试读】- 京东图书,//item.jd.com/11964115.html,111,98,400,中国电力出版社,//mall.jd.com/index-1000005549.html
+544,11964912,《机器人学、机器视觉与控制――MATLAB算法基础》(（澳） Peter Corke （彼得 科克）)【摘要 书评 试读】- 京东图书,//item.jd.com/11964912.html,87.9,98,700,电子工业出版社,//phei1982.jd.com
+545,11965000,《Java常用算法手册（第3版）（附光盘）》(宋娟)【摘要 书评 试读】- 京东图书,//item.jd.com/11965000.html,45.7,98,9900,中国铁道出版社,//mall.jd.com/index-1000005517.html
+546,11965338,《分布式实时处理系统：原理、架构与实现》(卢誉声)【摘要 书评 试读】- 京东图书,//item.jd.com/11965338.html,93.2,98,500,机械工业出版社,//cmpbook.jd.com
+547,11967520,《OpenCV 3计算机视觉：Python语言实现（原书第2版）》([爱尔兰]乔·米尼奇诺(JoeMinichino))【摘要 书评 试读】- 京东图书,//item.jd.com/11967520.html,46.1,98,1900,机械工业出版社,//cmpbook.jd.com
+548,11967546,《Visual C#从入门到精通 第8版》【摘要 书评 试读】- 京东图书,//item.jd.com/11967546.html,103.2,98,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+549,11967626,《Swift语言实战晋级（第2版）》(老镇)【摘要 书评 试读】- 京东图书,//item.jd.com/11967626.html,66.2,95,400,人民邮电出版社,//ptpressjd.jd.com
+550,11968769,《数据结构与算法分析：C++语言描述（第四版）》([美]Mark Allen Weiss（M.A.韦斯）)【摘要 书评 试读】- 京东图书,//item.jd.com/11968769.html,84.5,98,100,电子工业出版社,//phei1982.jd.com
+551,11969190,"《R语言入门与实践》([美],格罗勒芒德（Garrett,Grolemund）)【摘要 书评 试读】- 京东图书",//item.jd.com/11969190.html,50.2,99,300,人民邮电出版社,//ptpressjd.jd.com
+552,11969202,《爱上Raspberry Pi 第2版 树莓派编程快速入门手册》([美]Matt Richardson，Shawn Wallace)【摘要 书评 试读】- 京东图书,//item.jd.com/11969202.html,41.2,97,400,人民邮电出版社,//ptpressjd.jd.com
+553,11969881,"《Spring Boot实战》([美]克雷格·沃斯（Craig,Walls）)【摘要 书评 试读】- 京东图书",//item.jd.com/11969881.html,50.2,98,25000,人民邮电出版社,//ptpressjd.jd.com
+554,11970404,《高级R语言编程指南》([美]哈德利·威克汉姆（Hadley Wickham）)【摘要 书评 试读】- 京东图书,//item.jd.com/11970404.html,62.4,99,100,机械工业出版社,//cmpbook.jd.com
+555,11972824,《数据结构与算法经典问题解析：Java语言描述(原书第2版）》([印度]纳拉西姆哈·卡鲁曼希（Narasimha Karumanchi）)【摘要 书评 试读】- 京东图书,//item.jd.com/11972824.html,62.4,98,900,机械工业出版社,//cmpbook.jd.com
+556,11972978,《响应式架构：消息模式Actor实现与Scala、Akka应用集成》(（美）Vaughn Vernon（沃恩 弗农）)【摘要 书评 试读】- 京东图书,//item.jd.com/11972978.html,78.2,98,400,电子工业出版社,//phei1982.jd.com
+557,11973535,《C#6.0学习笔记——从第一行C#代码到第一个项目设计（全程视频课堂）（附光盘）/微软技术开发者丛书》(周家安)【摘要 书评 试读】- 京东图书,//item.jd.com/11973535.html,79.2,98,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+558,11973579,《SRE：Google运维解密》([美]Betsy Beyer（贝特西·拜尔），Chris Jones，Jennifer Petoff，Niall Murphy，等)【摘要 书评 试读】- 京东图书,//item.jd.com/11973579.html,85.3,97,7900,电子工业出版社,//phei1982.jd.com
+559,11974037,《Erlang趣学指南》([加]弗莱德·赫伯特（Fred Hébert）)【摘要 书评 试读】- 京东图书,//item.jd.com/11974037.html,62.3,98,500,人民邮电出版社,//ptpressjd.jd.com
+560,11974446,《完全学会Git GitHub Git Server的24堂课》(孙宏明)【摘要 书评 试读】- 京东图书,//item.jd.com/11974446.html,43.6,99,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+561,11976533,《精通Swift设计模式》([美]亚当·弗里曼（Adam Freeman）)【摘要 书评 试读】- 京东图书,//item.jd.com/11976533.html,75.7,100,100,人民邮电出版社,//ptpressjd.jd.com
+562,11976563,《Python网络编程（第3版）》([美]布兰登·罗德（Brandon Rhodes）)【摘要 书评 试读】- 京东图书,//item.jd.com/11976563.html,67.2,99,700,人民邮电出版社,//ptpressjd.jd.com
+563,11976632,《R语言与数据挖掘》(张良均，谢佳标，杨坦，肖刚)【摘要 书评 试读】- 京东图书,//item.jd.com/11976632.html,46.6,99,12000,机械工业出版社,//cmpbook.jd.com
+564,11977659,《代码整洁之道 程序员的职业素养》([美]罗伯特·C.马丁（Robert C.Martin）)【摘要 书评 试读】- 京东图书,//item.jd.com/11977659.html,38.7,98,39000,人民邮电出版社,//ptpressjd.jd.com
+565,11978100,《无线通信中的射频收发系统设计/清华开发者书库》(Qizheng Gu)【摘要 书评 试读】- 京东图书,//item.jd.com/11978100.html,53.1,98,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+566,11979181,《MATLAB程序设计基础与应用》(刘帅奇，李会雅，赵杰)【摘要 书评 试读】- 京东图书,//item.jd.com/11979181.html,39.8,97,6300,清华大学出版社,//mall.jd.com/index-1000004111.html
+567,11979990,《Android APP开发入门：使用Android Studio环境》(施威铭)【摘要 书评 试读】- 京东图书,//item.jd.com/11979990.html,70.3,98,1000,机械工业出版社,//cmpbook.jd.com
+568,11980650,《算法笔记》(刁瑞，谢妍)【摘要 书评 试读】- 京东图书,//item.jd.com/11980650.html,45.2,99,13000,电子工业出版社,//phei1982.jd.com
+569,11982572,《Python数据挖掘入门与实践》([澳]Robert Layton)【摘要 书评 试读】- 京东图书,//item.jd.com/11982572.html,50.2,98,600,人民邮电出版社,//ptpressjd.jd.com
+570,11983163,《Hibernate实战（第2版）》([德]Christian Bauer，[澳]Gavin King)【摘要 书评 试读】- 京东图书,//item.jd.com/11983163.html,70.4,98,800,清华大学出版社,//mall.jd.com/index-1000004111.html
+571,11983939,《挑战程序设计竞赛2 算法和数据结构》([日]渡部有隆)【摘要 书评 试读】- 京东图书,//item.jd.com/11983939.html,67.2,98,2600,人民邮电出版社,//ptpressjd.jd.com
+572,11985075,《Java从入门到精通（第4版 附光盘）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/11985075.html,54.9,97,41000,清华大学出版社,//mall.jd.com/index-1000004111.html
+573,11986384,《C++程序设计语言（第1-3部分）（原书第4版）》([美]本贾尼·斯特劳斯特鲁普)【摘要 书评 试读】- 京东图书,//item.jd.com/11986384.html,107.6,98,1800,机械工业出版社,//cmpbook.jd.com
+574,11986497,《CCF中学生计算机程序设计 入门篇》(中国计算机学会)【摘要 书评 试读】- 京东图书,//item.jd.com/11986497.html,38,99,2300,科学出版社,//mall.jd.com/index-1000005740.html
+575,11986531,《CCF中学生计算机程序设计 基础篇》(中国计算机学会)【摘要 书评 试读】- 京东图书,//item.jd.com/11986531.html,36,99,2300,科学出版社,//mall.jd.com/index-1000005740.html
+576,11987276,《我的第一本编程书》([日]平山尚)【摘要 书评 试读】- 京东图书,//item.jd.com/11987276.html,67.2,99,200,人民邮电出版社,//ptpressjd.jd.com
+577,11987905,《C语言程序设计（第3版）/应用型教材系列》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/11987905.html,38.1,100,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+578,11988309,《MATLAB　N个实用技巧：MATLAB中文论坛精华总结（第2版）》(刘焕进，李鹏，王辉，王海洋)【摘要 书评 试读】- 京东图书,//item.jd.com/11988309.html,43.5,98,8900,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+579,11990731,《支付宝体验设计精髓》(支付宝AUX团队)【摘要 书评 试读】- 京东图书,//item.jd.com/11990731.html,74.4,99,300,机械工业出版社,//cmpbook.jd.com
+580,11992175,《Meteor全栈开发》(杜亦舒)【摘要 书评 试读】- 京东图书,//item.jd.com/11992175.html,61.3,97,4600,电子工业出版社,//phei1982.jd.com
+581,11992639,《R语言预测实战》(游皓麟)【摘要 书评 试读】- 京东图书,//item.jd.com/11992639.html,62.4,98,1000,电子工业出版社,//phei1982.jd.com
+582,11992920,《软件保护及分析技术 原理与实践》(章立春)【摘要 书评 试读】- 京东图书,//item.jd.com/11992920.html,62.3,97,11000,电子工业出版社,//phei1982.jd.com
+583,11993078,"《精通Python设计模式》([荷]萨基斯·卡萨姆帕里斯（Sakis,Kasampalis）)【摘要 书评 试读】- 京东图书",//item.jd.com/11993078.html,38.3,98,400,人民邮电出版社,//ptpressjd.jd.com
+584,11993134,"《Python编程 从入门到实践 》([美]埃里克·马瑟斯（Eric,Matthes）)【摘要 书评 试读】- 京东图书",//item.jd.com/11993134.html,75.7,99,110000,人民邮电出版社,//ptpressjd.jd.com
+585,11995765,《实战ES2015：深入现代JavaScript 应用开发》(小问)【摘要 书评 试读】- 京东图书,//item.jd.com/11995765.html,64.5,97,4600,电子工业出版社,//phei1982.jd.com
+586,11996027,《决胜UX 互联网产品用户体验策略》([美]杰米·利维（Jaime Levy）)【摘要 书评 试读】- 京东图书,//item.jd.com/11996027.html,50.2,99,100,人民邮电出版社,//ptpressjd.jd.com
+587,11996409,《Python高效开发实战：Django、Tornado、Flask、Twisted》(刘长龙)【摘要 书评 试读】- 京东图书,//item.jd.com/11996409.html,69,98,2500,电子工业出版社,//phei1982.jd.com
+588,11996503,《精通VMware vSphere 6》([美]Nick Marshall（马歇尔），Grant Orchard（欧查德），Josh Atwell（特威尔）)【摘要 书评 试读】- 京东图书,//item.jd.com/11996503.html,93,99,400,人民邮电出版社,//ptpressjd.jd.com
+589,11999308,《计算机程序设计艺术 卷2 半数值算法（第3版）》([美]高德纳（Donald E.Knuth）)【摘要 书评 试读】- 京东图书,//item.jd.com/11999308.html,168.3,98,3100,人民邮电出版社,//ptpressjd.jd.com
+590,12000164,《Java RESTful Web Service实战（第2版）》(韩陆)【摘要 书评 试读】- 京东图书,//item.jd.com/12000164.html,55.5,97,2300,机械工业出版社,//cmpbook.jd.com
+591,12000166,《后台开发：核心技术与应用实践》(徐晓鑫)【摘要 书评 试读】- 京东图书,//item.jd.com/12000166.html,74.4,95,500,机械工业出版社,//cmpbook.jd.com
+592,12001593,《Learning TypeScript（中文版）》([西班牙]Remo H.Jansen（雷莫 H.詹森）)【摘要 书评 试读】- 京东图书,//item.jd.com/12001593.html,70.2,99,600,电子工业出版社,//phei1982.jd.com
+593,12004298,"《树莓派Python编程入门与实战（第2版）》([美]Richard,Blum,勃鲁姆,Christine,Bresnahan,布莱斯纳罕)【摘要 书评 试读】- 京东图书",//item.jd.com/12004298.html,54.5,99,200,人民邮电出版社,//ptpressjd.jd.com
+594,12004711,《Python零基础入门学习-水木书荟》(李佳宇)【摘要 书评 试读】- 京东图书,//item.jd.com/12004711.html,39.1,99,74000,清华大学出版社,//mall.jd.com/index-1000004111.html
+595,12004876,《自己动手构造编译系统：编译、汇编与链接》(范志东，张琼声)【摘要 书评 试读】- 京东图书,//item.jd.com/12004876.html,64.9,99,400,机械工业出版社,//cmpbook.jd.com
+596,12005782,《C#入门经典（第7版）》( [美]Karli Watson，Jacob Vibe Hammer，Jon D Reid，等)【摘要 书评 试读】- 京东图书,//item.jd.com/12005782.html,87.1,97,7200,清华大学出版社,//mall.jd.com/index-1000004111.html
+597,12006683,《Java程序员面试笔试真题库》(猿媛之家)【摘要 书评 试读】- 京东图书,//item.jd.com/12006683.html,43.1,97,5600,机械工业出版社,//cmpbook.jd.com
+598,12007317,《区块链技术指南》(邹均，张海宁，唐屹，李磊)【摘要 书评 试读】- 京东图书,//item.jd.com/12007317.html,64.9,99,21000,机械工业出版社,//cmpbook.jd.com
+599,12007411,《ASP.NET 入门经典(第9版) 基于Visual Studio 2015/NET开发经典名著》([美]William Penberthy)【摘要 书评 试读】- 京东图书,//item.jd.com/12007411.html,87.1,97,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+600,12010270,《垃圾回收的算法与实现》([日]中村成洋，相川光)【摘要 书评 试读】- 京东图书,//item.jd.com/12010270.html,84.2,99,800,人民邮电出版社,//ptpressjd.jd.com
+601,12010463,《React与Redux开发实例精解》(刘一奇)【摘要 书评 试读】- 京东图书,//item.jd.com/12010463.html,46.4,97,4600,电子工业出版社,//phei1982.jd.com
+602,12012033,《MATLAB数字信号处理85个实用案例精讲：入门到进阶》(宋知用)【摘要 书评 试读】- 京东图书,//item.jd.com/12012033.html,47.2,98,4000,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+603,12012431,《Python与数据挖掘》(张良均，杨海宏，何子健，杨征，等)【摘要 书评 试读】- 京东图书,//item.jd.com/12012431.html,38.1,99,12000,机械工业出版社,//cmpbook.jd.com
+604,12012505,《第一行代码 Android 第2版 》(郭霖)【摘要 书评 试读】- 京东图书,//item.jd.com/12012505.html,67.2,98,23000,人民邮电出版社,//ptpressjd.jd.com
+605,12015250,《Oracle Database 12c DBA官方手册（第8版）》([美]Bob Bryla（OCP）)【摘要 书评 试读】- 京东图书,//item.jd.com/12015250.html,71.8,99,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+606,12015411,《SPA设计与架构：理解单页面Web应用》([美]Emmit A.Scott（埃米顿.A.斯科特）)【摘要 书评 试读】- 京东图书,//item.jd.com/12015411.html,64.5,98,200,电子工业出版社,//phei1982.jd.com
+607,12015655,《循序渐进学Docker》(李金榜，尹烨，刘天斯，陈纯)【摘要 书评 试读】- 京东图书,//item.jd.com/12015655.html,55.5,98,8400,机械工业出版社,//cmpbook.jd.com
+608,12015701,《Unity 3D网络游戏实战》(罗培羽)【摘要 书评 试读】- 京东图书,//item.jd.com/12015701.html,74.4,98,800,机械工业出版社,//cmpbook.jd.com
+609,12019365,《图解设计模式》([日]结城浩)【摘要 书评 试读】- 京东图书,//item.jd.com/12019365.html,67.2,98,1300,人民邮电出版社,//ptpressjd.jd.com
+610,12019375,《Python项目开发实战（第2版）》([日]BePROUD股份有限公司)【摘要 书评 试读】- 京东图书,//item.jd.com/12019375.html,67.2,99,300,人民邮电出版社,//ptpressjd.jd.com
+611,12020697,《Python机器学习 预测分析核心算法》([美]Michael Bowles（鲍尔斯）)【摘要 书评 试读】- 京东图书,//item.jd.com/12020697.html,58,99,9000,人民邮电出版社,//ptpressjd.jd.com
+612,12021785,《Java面向对象编程（第2版）》(孙卫琴)【摘要 书评 试读】- 京东图书,//item.jd.com/12021785.html,70.1,100,300,电子工业-艺术摄影,//mall.jd.com/index-1000077369.html
+613,12021791,《图解Spark：核心技术与案例实战》(郭景瞻)【摘要 书评 试读】- 京东图书,//item.jd.com/12021791.html,78,98,8400,电子工业出版社,//phei1982.jd.com
+614,12023485,"《Git学习指南》(德,René,Prei·el,普莱贝尔,Bj·rn,Stachmann,斯拉赫曼)【摘要 书评 试读】- 京东图书",//item.jd.com/12023485.html,41.2,99,1000,人民邮电出版社,//ptpressjd.jd.com
+615,12026386,《WebRTC权威指南（原书第3版）》([美]艾伦B.约翰斯顿)【摘要 书评 试读】- 京东图书,//item.jd.com/12026386.html,46.6,97,400,机械工业出版社,//cmpbook.jd.com
+616,12026904,《Scala开发快速入门》(周志湖，牛亚真)【摘要 书评 试读】- 京东图书,//item.jd.com/12026904.html,52.4,97,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+617,12027521,《揭秘Angular 2》(广发证券互联网金融技术团队)【摘要 书评 试读】- 京东图书,//item.jd.com/12027521.html,78,98,900,电子工业出版社,//phei1982.jd.com
+618,12027532,"《Python数据分析实战》([意]内利（Fabio,Nelli）)【摘要 书评 试读】- 京东图书",//item.jd.com/12027532.html,50.2,98,400,人民邮电出版社,//ptpressjd.jd.com
+619,12028224,《Vue.js权威指南》(张耀春，黄轶，王静，苏伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12028224.html,78.2,97,4600,电子工业出版社,//phei1982.jd.com
+620,12028953,《量化投资：以Python为工具》(蔡立耑)【摘要 书评 试读】- 京东图书,//item.jd.com/12028953.html,78.2,98,8600,电子工业出版社,//phei1982.jd.com
+621,12029176,《函数式Swift》([德]Chris Eidhof（克里斯·安道夫），Florian Kugler，Wouter Swierstra)【摘要 书评 试读】- 京东图书,//item.jd.com/12029176.html,53.1,98,900,电子工业出版社,//phei1982.jd.com
+622,12030526,《OpenCV实例精解》([美]普拉蒂克·乔希，[西班牙]大卫·米兰·埃斯克里瓦，[巴西]维尼修斯·戈多伊)【摘要 书评 试读】- 京东图书,//item.jd.com/12030526.html,55.5,96,200,机械工业出版社,//cmpbook.jd.com
+623,12030814,"《你不知道的JavaScript 中卷》([美]辛普森（Kyle,Simpson）)【摘要 书评 试读】- 京东图书",//item.jd.com/12030814.html,67.2,98,58000,人民邮电出版社,//ptpressjd.jd.com
+624,12031484,"《Head First C#（第三版 中文版）》([美]安德鲁·施特尔曼（Andrew,Stellman），[美]詹尼弗·格林)【摘要 书评 试读】- 京东图书",//item.jd.com/12031484.html,111,98,1100,中国电力出版社,//mall.jd.com/index-1000005549.html
+625,12031871,《小程序，巧应用：微信小程序开发实战》(熊普江，谢宇华)【摘要 书评 试读】- 京东图书,//item.jd.com/12031871.html,55.5,98,8700,机械工业出版社,//cmpbook.jd.com
+626,12033222,《Python Qt GUI快速编程：PyQt编程指南》([英]Mark Summerfield（马克·萨默菲尔德）)【摘要 书评 试读】- 京东图书,//item.jd.com/12033222.html,62,97,800,电子工业出版社,//phei1982.jd.com
+627,12034136,《C++程序设计语言（第4部分：标准库）（原书第4版）》([美]本贾尼·斯特劳斯特鲁普 （Bjarne Stroustrup）)【摘要 书评 试读】- 京东图书,//item.jd.com/12034136.html,69.1,98,1800,机械工业出版社,//cmpbook.jd.com
+628,12034581,《VSTO开发入门教程》(刘永富)【摘要 书评 试读】- 京东图书,//item.jd.com/12034581.html,36,98,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+629,12035114,《Unity 3D脚本编程：使用C#语言开发跨平台游戏》(陈嘉栋)【摘要 书评 试读】- 京东图书,//item.jd.com/12035114.html,62.4,99,1200,电子工业出版社,//phei1982.jd.com
+630,12037347,"《Scratch 2.0趣味编程指南》([美]Jerry,Lee,Ford,Jr,李福特)【摘要 书评 试读】- 京东图书",//item.jd.com/12037347.html,46.6,99,12000,人民邮电出版社,//ptpressjd.jd.com
+631,12037418,《Java核心技术 卷I：基础知识（原书第10版） 》([美]凯 S.霍斯特曼（Cay S.Horstmann）)【摘要 书评 试读】- 京东图书,//item.jd.com/12037418.html,95.2,98,40000,机械工业出版社,//cmpbook.jd.com
+632,12037643,《Java程序员面试笔试真题与解析》(猿媛之家)【摘要 书评 试读】- 京东图书,//item.jd.com/12037643.html,45.8,97,5600,机械工业出版社,//cmpbook.jd.com
+633,12037941,《海盗派测试分析 MFQ&PPDCS》(邰晓梅)【摘要 书评 试读】- 京东图书,//item.jd.com/12037941.html,74.8,99,200,人民邮电出版社,//ptpressjd.jd.com
+634,12039484,《GPU编程与优化 大众高性能计算》(方民权，张卫民，方建滨，周海芳，高畅)【摘要 书评 试读】- 京东图书,//item.jd.com/12039484.html,47.2,98,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+635,12040121,《C++ STL标准程序库开发指南（第2版）》(闫常友，王敏)【摘要 书评 试读】- 京东图书,//item.jd.com/12040121.html,69.1,99,300,中国铁道出版社,//mall.jd.com/index-1000005517.html
+636,12040511,《Python可以这样学》(董付国)【摘要 书评 试读】- 京东图书,//item.jd.com/12040511.html,55.2,98,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+637,12041621,《图解性能优化》(小田圭二，榑松谷仁，平山毅，冈田宪昌)【摘要 书评 试读】- 京东图书,//item.jd.com/12041621.html,50.2,99,300,人民邮电出版社,//ptpressjd.jd.com
+638,12041625,《微信公众平台开发实例教程》(孟祥磊)【摘要 书评 试读】- 京东图书,//item.jd.com/12041625.html,31.4,99,2600,人民邮电出版社,//ptpressjd.jd.com
+639,12042381,《从零开始学微信小程序开发》(高洪涛)【摘要 书评 试读】- 京东图书,//item.jd.com/12042381.html,46.6,97,2300,电子工业出版社,//phei1982.jd.com
+640,12043317,《小程序时代》(刘向南)【摘要 书评 试读】- 京东图书,//item.jd.com/12043317.html,34.6,98,1600,清华大学出版社,//mall.jd.com/index-1000004111.html
+641,12044568,《零起点快速入门：C语言从入门到精通 基础进阶学习（随书网址赠素材学习资料）》(未来教育教学与研究中心)【摘要 书评 试读】- 京东图书,//item.jd.com/12044568.html,33,98,2400,未来教育,//mall.jd.com/index-1000092639.html
+642,12045191,《Java基础入门》(传智播客高教产品研发部)【摘要 书评 试读】- 京东图书,//item.jd.com/12045191.html,32.7,97,41000,清华大学出版社,//mall.jd.com/index-1000004111.html
+643,12045396,《实战需求分析》(杨长春)【摘要 书评 试读】- 京东图书,//item.jd.com/12045396.html,33.2,99,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+644,12047193,"《Java线程与并发编程实践》([美]Jeff,Friesen)【摘要 书评 试读】- 京东图书",//item.jd.com/12047193.html,43.5,97,400,人民邮电出版社,//ptpressjd.jd.com
+645,12047276,《Java语言程序设计（进阶篇）（原书第10版）》([美]梁勇（Y.DanielLiang）)【摘要 书评 试读】- 京东图书,//item.jd.com/12047276.html,70.1,98,3700,机械工业出版社,//cmpbook.jd.com
+646,12047765,《ASP.NET MVC企业级实战》(邹琼俊)【摘要 书评 试读】- 京东图书,//item.jd.com/12047765.html,66.4,98,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+647,12049023,《Python大战机器学习：数据科学家的第一个小目标》(华校专，王正林)【摘要 书评 试读】- 京东图书,//item.jd.com/12049023.html,54.4,99,5100,电子工业出版社,//phei1982.jd.com
+648,12049035,"《前端体验设计 HTML5+CSS3终极修炼》([英]Andy,Clarke)【摘要 书评 试读】- 京东图书",//item.jd.com/12049035.html,62.4,99,100,人民邮电出版社,//ptpressjd.jd.com
+649,12049895,《Processing编程学习指南（原书第2版）》([美]丹尼尔·希夫曼)【摘要 书评 试读】- 京东图书,//item.jd.com/12049895.html,78.2,100,100,机械工业出版社,//cmpbook.jd.com
+650,12050363,《小岛经济学：鱼、美元和经济的故事》(彼得·D.希夫，安德鲁·J.希夫)【摘要 书评 试读】- 京东图书,//item.jd.com/12050363.html,36,99,21000,中信出版社,//citicpub.jd.com
+651,12050955,"《React快速上手开发》([保],斯托扬·斯特凡诺夫（Stoyan,Stefanov）)【摘要 书评 试读】- 京东图书",//item.jd.com/12050955.html,41.7,99,400,人民邮电出版社,//ptpressjd.jd.com
+652,12052200,《Python参考手册 第4版 修订版》([美]大卫·M.比兹利（David M.Beazley）)【摘要 书评 试读】- 京东图书,//item.jd.com/12052200.html,70.3,99,1600,人民邮电出版社,//ptpressjd.jd.com
+653,12052746,《OpenCV编程案例详解》(李立宗)【摘要 书评 试读】- 京东图书,//item.jd.com/12052746.html,70.2,99,300,电子工业出版社,//phei1982.jd.com
+654,12052766,《React全栈：Redux+Flux+webpack+Babel整合开发》(张轩)【摘要 书评 试读】- 京东图书,//item.jd.com/12052766.html,54.3,97,4600,电子工业出版社,//phei1982.jd.com
+655,12053773,《CCF中学生计算机程序设计套装（套装共2册）/CCF中学生计算机程序设计教材》【摘要 书评 试读】- 京东图书,//item.jd.com/12053773.html,74,99,2300,科学出版社,//mall.jd.com/index-1000005740.html
+656,12054217,《MATLAB 向量化编程基础精讲》(马良，祁彬彬)【摘要 书评 试读】- 京东图书,//item.jd.com/12054217.html,45.7,98,8900,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+657,12055718,《21天学通Java 第7版》([美]罗格斯·卡登海德（Rogers Cadenhead）)【摘要 书评 试读】- 京东图书,//item.jd.com/12055718.html,46.6,98,300,人民邮电出版社,//ptpressjd.jd.com
+658,12056404,《Unity 5权威讲解》([韩]李在贤)【摘要 书评 试读】- 京东图书,//item.jd.com/12056404.html,92.7,98,200,人民邮电出版社,//ptpressjd.jd.com
+659,12056463,《精通Python网络爬虫：核心技术、框架与项目实战》(韦玮)【摘要 书评 试读】- 京东图书,//item.jd.com/12056463.html,64.9,97,5500,机械工业出版社,//cmpbook.jd.com
+660,12056490,《Vim实用技巧 第2版》([英]Drew Neil（尼尔）)【摘要 书评 试读】- 京东图书,//item.jd.com/12056490.html,46.5,99,1100,人民邮电出版社,//ptpressjd.jd.com
+661,12056877,《基于模型的设计及其嵌入式实现（第2版）》(刘杰)【摘要 书评 试读】- 京东图书,//item.jd.com/12056877.html,62.3,98,100,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+662,12058695,《现代C++探秘：编码、工程与科研必修（基于C++ 14）（英文版）》([德]Peter Gottschling（彼得·哥特史林）)【摘要 书评 试读】- 京东图书,//item.jd.com/12058695.html,85.3,98,100,电子工业出版社,//phei1982.jd.com
+663,12059086,"《游戏编程算法与技巧》(Sanjay,Madhav)【摘要 书评 试读】- 京东图书",//item.jd.com/12059086.html,70.2,99,300,电子工业出版社,//phei1982.jd.com
+664,12059091,《Angular从零到一》(王芃)【摘要 书评 试读】- 京东图书,//item.jd.com/12059091.html,64.9,99,300,机械工业出版社,//cmpbook.jd.com
+665,12059360,《轻量级Django》([美]Julia Elman（茱莉亚?埃尔曼），[美]Mark Lavin（马克?拉温）)【摘要 书评 试读】- 京东图书,//item.jd.com/12059360.html,29.3,98,1200,中国电力出版社,//mall.jd.com/index-1000005549.html
+666,12059455,"《Python地理空间分析指南（第2版）》([美]Joel,Lawhead,莱哈德)【摘要 书评 试读】- 京东图书",//item.jd.com/12059455.html,62.4,99,600,人民邮电出版社,//ptpressjd.jd.com
+667,12060826,《深入解析Android虚拟机》(钟世礼)【摘要 书评 试读】- 京东图书,//item.jd.com/12060826.html,78.2,97,200,人民邮电出版社,//ptpressjd.jd.com
+668,12062042,《Python树莓派编程》(沃尔弗拉姆多纳特（WolframDonat），等)【摘要 书评 试读】- 京东图书,//item.jd.com/12062042.html,46.1,99,1200,机械工业出版社,//cmpbook.jd.com
+669,12062567,《Python数据可视化》([印度]科斯·拉曼（Kirthi Raman）)【摘要 书评 试读】- 京东图书,//item.jd.com/12062567.html,64.9,98,700,机械工业出版社,//cmpbook.jd.com
+670,12062875,《质量全面管控：从项目管理到容灾测试》(葛长芝，鲁盈盈，欧仕强)【摘要 书评 试读】- 京东图书,//item.jd.com/12062875.html,62.4,98,100,电子工业出版社,//phei1982.jd.com
+671,12062994,《Servlet JSP和Spring MVC初学指南》([加]Budi Kurniawan，[美]Paul Deck)【摘要 书评 试读】- 京东图书,//item.jd.com/12062994.html,54.5,98,25000,人民邮电出版社,//ptpressjd.jd.com
+672,12063002,《Python科学计算基础教程》([印]Hemant Kumar Mehta)【摘要 书评 试读】- 京东图书,//item.jd.com/12063002.html,41.7,98,300,人民邮电出版社,//ptpressjd.jd.com
+673,12063141,《Go并发编程实战（第2版）》(郝林)【摘要 书评 试读】- 京东图书,//item.jd.com/12063141.html,67.2,97,10000,人民邮电出版社,//ptpressjd.jd.com
+674,12063817,《ASP.NET Core跨平台开发从入门到实战》(张剑桥)【摘要 书评 试读】- 京东图书,//item.jd.com/12063817.html,49.9,97,700,电子工业出版社,//phei1982.jd.com
+675,12064514,《深入实践Spring Boot》(陈韶健)【摘要 书评 试读】- 京东图书,//item.jd.com/12064514.html,55.5,97,10000,机械工业出版社,//cmpbook.jd.com
+676,12064518,《Arduino从入门到精通：创客必学的13个技巧》([美]约翰·白赫泰（John Baichtal）)【摘要 书评 试读】- 京东图书,//item.jd.com/12064518.html,46.6,97,200,机械工业出版社,//cmpbook.jd.com
+677,12064525,《Scratch少儿趣味编程2》([日]阿部和广，仓本大资)【摘要 书评 试读】- 京东图书,//item.jd.com/12064525.html,50.2,99,12000,人民邮电出版社,//ptpressjd.jd.com
+678,12064746,《React（第2版）：引领未来的用户界面开发框架》(League of Extraordinary Developers（卓越开发者联盟）)【摘要 书评 试读】- 京东图书,//item.jd.com/12064746.html,54.5,96,5700,电子工业出版社,//phei1982.jd.com
+679,12064801,《零起点Python足彩大数据与机器学习实盘分析》(何海群)【摘要 书评 试读】- 京东图书,//item.jd.com/12064801.html,78,97,400,电子工业出版社,//phei1982.jd.com
+680,12065255,《嵌入式Linux编程》(克里斯·西蒙兹（Chris Simmonds）)【摘要 书评 试读】- 京东图书,//item.jd.com/12065255.html,62.4,98,70,机械工业出版社,//cmpbook.jd.com
+681,12066953,《从零开始学Swift（第2版）》(关东升)【摘要 书评 试读】- 京东图书,//item.jd.com/12066953.html,84.2,95,6100,人民邮电出版社,//ptpressjd.jd.com
+682,12067579,《微信小程序开发入门与实践/移动开发丛书》(雷磊)【摘要 书评 试读】- 京东图书,//item.jd.com/12067579.html,62.1,98,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+683,12067698,《Python高级编程》([美]Luke Sneeringer)【摘要 书评 试读】- 京东图书,//item.jd.com/12067698.html,39.8,98,800,清华大学出版社,//mall.jd.com/index-1000004111.html
+684,12068684,《基于MVC的JavaScript Web富应用开发》([美]Alex MacCaw（亚历克斯 麦卡劳）)【摘要 书评 试读】- 京东图书,//item.jd.com/12068684.html,46.6,99,300,电子工业出版社,//phei1982.jd.com
+685,12070020,《Ansible权威指南》(李松涛，魏巍，甘捷)【摘要 书评 试读】- 京东图书,//item.jd.com/12070020.html,74.4,98,700,机械工业出版社,//cmpbook.jd.com
+686,12070792,《面向对象的思考过程（原书第4版）》([美]马特·魏斯费尔德)【摘要 书评 试读】- 京东图书,//item.jd.com/12070792.html,64.9,98,200,机械工业出版社,//cmpbook.jd.com
+687,12070975,《Netty实战》([美]诺曼·毛瑞尔（Norman Maurer），马文·艾伦·沃尔夫泰尔（Marvin Allen Wolfthal）)【摘要 书评 试读】- 京东图书,//item.jd.com/12070975.html,54.5,99,3000,人民邮电出版社,//ptpressjd.jd.com
+688,12071148,《从Python开始学编程》(Vamei)【摘要 书评 试读】- 京东图书,//item.jd.com/12071148.html,38.6,98,2500,电子工业出版社,//phei1982.jd.com
+689,12072602,《Ceph源码分析》(常涛)【摘要 书评 试读】- 京东图书,//item.jd.com/12072602.html,55.5,99,200,机械工业出版社,//cmpbook.jd.com
+690,12073396,"《Ruby原理剖析》(Patrick,Shaughnessy)【摘要 书评 试读】- 京东图书",//item.jd.com/12073396.html,64,98,5600,华中科技大学出版社,//hustp.jd.com
+691,12073933,《深入浅出React和Redux》(程墨)【摘要 书评 试读】- 京东图书,//item.jd.com/12073933.html,64.9,99,2400,机械工业出版社,//cmpbook.jd.com
+692,12073937,《ELK Stack权威指南（第2版）》(饶琛琳)【摘要 书评 试读】- 京东图书,//item.jd.com/12073937.html,74.4,98,3300,机械工业出版社,//cmpbook.jd.com
+693,12075322,"《Python高手之路 第3版》([法]朱利安·丹乔（Julien,Danjou）)【摘要 书评 试读】- 京东图书",//item.jd.com/12075322.html,43.5,99,300,人民邮电出版社,//ptpressjd.jd.com
+694,12076051,《Tomcat架构解析》(刘光瑞)【摘要 书评 试读】- 京东图书,//item.jd.com/12076051.html,67.2,99,800,人民邮电出版社,//ptpressjd.jd.com
+695,12078197,"《NLTK基础教程 用NLTK和Python库构建机器学习应用》([印度],Nitin,Hardeniya,哈登尼亚)【摘要 书评 试读】- 京东图书",//item.jd.com/12078197.html,38.6,98,300,人民邮电出版社,//ptpressjd.jd.com
+696,12080308,"《HTML5 2D游戏编程核心技术》([美]戴维·吉尔里（David,Geary）)【摘要 书评 试读】- 京东图书",//item.jd.com/12080308.html,81.7,100,200,机械工业出版社,//cmpbook.jd.com
+697,12080802,"《Wolfram 语言基础入门》([美]沃尔夫勒姆（Stephen,wolfram）)【摘要 书评 试读】- 京东图书",//item.jd.com/12080802.html,98,98,300,科学出版社,//mall.jd.com/index-1000005740.html
+698,12082107,《Nginx完全开发指南：使用C、C  和OpenResty》(罗剑锋)【摘要 书评 试读】- 京东图书,//item.jd.com/12082107.html,77.8,99,1000,电子工业出版社,//phei1982.jd.com
+699,12083430,"《Node.js硬实战：115个核心技巧》([美]Alex,R.,Young（亚历克斯?荣）,Marc,Harter（马克?哈特）)【摘要 书评 试读】- 京东图书",//item.jd.com/12083430.html,86.6,98,700,电子工业出版社,//phei1982.jd.com
+700,12084219,《微信小程序开发零基础入门》(张帆)【摘要 书评 试读】- 京东图书,//item.jd.com/12084219.html,62.3,98,400,电子工业出版社,//phei1982.jd.com
+701,12084666,《Qt Creator快速入门（第3版）》(霍亚飞)【摘要 书评 试读】- 京东图书,//item.jd.com/12084666.html,62.4,98,1400,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+702,12085401,"《Git团队协作》([加],艾玛·简·霍格宾·韦斯特比（Emma,Jane,Hogbin,Westby）)【摘要 书评 试读】- 京东图书",//item.jd.com/12085401.html,58.7,99,200,人民邮电出版社,//ptpressjd.jd.com
+703,12085614,"《HTML5移动开发》(美,埃斯特尔,韦尔Estelle,Weyl)【摘要 书评 试读】- 京东图书",//item.jd.com/12085614.html,74.8,98,400,人民邮电出版社,//ptpressjd.jd.com
+704,12085729,《PHP从入门到精通（第4版）（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12085729.html,71.8,96,9900,清华大学出版社,//mall.jd.com/index-1000004111.html
+705,12086858,《贝叶斯方法 概率编程与贝叶斯推断》([加]Cameron Davidson-Pilon（卡梅隆·戴维森-皮隆）)【摘要 书评 试读】- 京东图书,//item.jd.com/12086858.html,49.6,99,1900,人民邮电出版社,//ptpressjd.jd.com
+706,12086872,《深度解析Java游戏服务器开发》(何金成)【摘要 书评 试读】- 京东图书,//item.jd.com/12086872.html,62.3,94,200,电子工业出版社,//phei1982.jd.com
+707,12087807,《深入理解JVM ＆ G1 GC》(周明耀)【摘要 书评 试读】- 京东图书,//item.jd.com/12087807.html,54.1,97,300,电子工业出版社,//phei1982.jd.com
+708,12088317,《CUDA C编程权威指南》([美]程润伟（John Cheng）)【摘要 书评 试读】- 京东图书,//item.jd.com/12088317.html,93.2,99,400,机械工业出版社,//cmpbook.jd.com
+709,12089180,"《Java微服务》([美]Sourabh,Sharma（沙鲁巴·夏尔马）)【摘要 书评 试读】- 京东图书",//item.jd.com/12089180.html,53.5,99,27000,电子工业出版社,//phei1982.jd.com
+710,12093229,《Swift 3开发指南》(博为峰51Code教研组)【摘要 书评 试读】- 京东图书,//item.jd.com/12093229.html,38.6,95,6100,人民邮电出版社,//ptpressjd.jd.com
+711,12094563,《机器人与数字人：基于MATLAB的建模与控制》([美]顾友谅（Edward Y. L. Gu）)【摘要 书评 试读】- 京东图书,//item.jd.com/12094563.html,93.8,99,1100,机械工业出版社,//cmpbook.jd.com
+712,12095193,《揭秘Java虚拟机：JVM设计原理与实现》(封亚飞)【摘要 书评 试读】- 京东图书,//item.jd.com/12095193.html,101.9,96,42000,电子工业出版社,//phei1982.jd.com
+713,12096923,《JavaScript从入门到精通（第2版）（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12096923.html,71.8,96,2500,清华大学出版社,//mall.jd.com/index-1000004111.html
+714,12097355,"《Python地理数据处理》([美]Chris,Garrard,加勒德)【摘要 书评 试读】- 京东图书",//item.jd.com/12097355.html,62.4,100,200,人民邮电出版社,//ptpressjd.jd.com
+715,12097361,《Web API的设计与开发》(水野贵明)【摘要 书评 试读】- 京东图书,//item.jd.com/12097361.html,44.2,98,600,人民邮电出版社,//ptpressjd.jd.com
+716,12097872,《C语言解惑 指针、数组、函数和多文件编程》(刘振安，刘燕君)【摘要 书评 试读】- 京东图书,//item.jd.com/12097872.html,74.4,98,100,机械工业出版社,//cmpbook.jd.com
+717,12099592,《Python 网络爬虫实战》(胡松涛)【摘要 书评 试读】- 京东图书,//item.jd.com/12099592.html,53.1,97,1200,清华大学出版社,//mall.jd.com/index-1000004111.html
+718,12099594,《PHP 7从入门到精通（视频教学版）》(刘增杰，张工厂)【摘要 书评 试读】- 京东图书,//item.jd.com/12099594.html,63.2,95,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+719,12100408,《精通Spring 4.x ――企业应用开发实战》(陈雄华)【摘要 书评 试读】- 京东图书,//item.jd.com/12100408.html,101.1,97,3400,电子工业出版社,//phei1982.jd.com
+720,12100422,《零起点Python大数据与量化交易》(何海群)【摘要 书评 试读】- 京东图书,//item.jd.com/12100422.html,77.4,98,8600,电子工业出版社,//phei1982.jd.com
+721,12101947,《实战微信小程序：JavaScript、WXML与Flexbox综合开发》(荣蓉，穆心驰，何金刚，于连林)【摘要 书评 试读】- 京东图书,//item.jd.com/12101947.html,54.4,98,200,电子工业出版社,//phei1982.jd.com
+722,12101987,《ASP.NET从入门到精通（第4版）（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12101987.html,58.8,95,4100,清华大学出版社,//mall.jd.com/index-1000004111.html
+723,12102001,《Java Web从入门到精通（第2版）（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12102001.html,63,96,8100,清华大学出版社,//mall.jd.com/index-1000004111.html
+724,12102005,《Visual Basic从入门到精通（第4版）（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12102005.html,62.9,97,4400,清华大学出版社,//mall.jd.com/index-1000004111.html
+725,12106072,《啊哈C语言！逻辑的挑战（修订版）》(啊哈磊)【摘要 书评 试读】- 京东图书,//item.jd.com/12106072.html,38.7,98,26000,电子工业出版社,//phei1982.jd.com
+726,12106435,《深度学习轻松学：核心算法与视觉实践》(冯超)【摘要 书评 试读】- 京东图书,//item.jd.com/12106435.html,61,98,36000,电子工业出版社,//phei1982.jd.com
+727,12107605,"《Python高性能编程》([美],Micha,Gorelick,戈雷利克,Ian,Ozsvald,欧日沃尔德)【摘要 书评 试读】- 京东图书",//item.jd.com/12107605.html,66.4,99,2100,人民邮电出版社,//ptpressjd.jd.com
+728,12108963,《Qt5开发及实例（第3版）》【摘要 书评 试读】- 京东图书,//item.jd.com/12108963.html,76,99,1600,电子工业出版社,//phei1982.jd.com
+729,12109305,《Python机器学习算法》(赵志勇)【摘要 书评 试读】- 京东图书,//item.jd.com/12109305.html,53.2,99,1300,电子工业出版社,//phei1982.jd.com
+730,12109478,《LabVIEW入门与实战开发100例（第3版）》(严雨，夏宁)【摘要 书评 试读】- 京东图书,//item.jd.com/12109478.html,69.4,99,300,电子工业出版社,//phei1982.jd.com
+731,12110306,《基于ArcGIS的Python编程秘笈（第2版）》([美]Eric Pimpler（派普勒）)【摘要 书评 试读】- 京东图书,//item.jd.com/12110306.html,54.4,99,400,人民邮电出版社,//ptpressjd.jd.com
+732,12111652,《Elasticsearch技术解析与实战》(朱林)【摘要 书评 试读】- 京东图书,//item.jd.com/12111652.html,74.4,98,3300,机械工业出版社,//cmpbook.jd.com
+733,12111732,《Spring+MyBatis企业应用实战》【摘要 书评 试读】- 京东图书,//item.jd.com/12111732.html,44.9,97,18000,电子工业出版社,//phei1982.jd.com
+734,12111868,《中文版CATIA V5R21完全实战技术手册》(秦琳晶，姜东梅，王晓坤)【摘要 书评 试读】- 京东图书,//item.jd.com/12111868.html,77,97,12000,清华大学出版社,//mall.jd.com/index-1000004111.html
+735,12113317,《Three.js开发指南：WebGL的JavaScript 3D库（原书第2版）》([美]乔斯·德克森（Jos Dirksen）)【摘要 书评 试读】- 京东图书,//item.jd.com/12113317.html,64.9,99,600,机械工业出版社,//cmpbook.jd.com
+736,12114022,《程序员2016精华本》【摘要 书评 试读】- 京东图书,//item.jd.com/12114022.html,72.7,97,200,电子工业出版社,//phei1982.jd.com
+737,12114572,《Apache Kylin权威指南》(Apache Kylin核心团队)【摘要 书评 试读】- 京东图书,//item.jd.com/12114572.html,46.1,97,300,机械工业出版社,//cmpbook.jd.com
+738,12114753,《区块链开发指南》(申屠青春)【摘要 书评 试读】- 京东图书,//item.jd.com/12114753.html,55.5,99,21000,机械工业出版社,//cmpbook.jd.com
+739,12114953,《The Little Schemer：递归与函数式的奥妙》([美]Daniel·P.Friedman，Matthias·Felleisen)【摘要 书评 试读】- 京东图书,//item.jd.com/12114953.html,51.3,99,600,电子工业出版社,//phei1982.jd.com
+740,12117118,"《C# 6.0本质论》([美],马克·米凯利斯（Mark,Michaelis）,埃里克·利珀特（Eric,Lippert）)【摘要 书评 试读】- 京东图书",//item.jd.com/12117118.html,90.7,99,800,人民邮电出版社,//ptpressjd.jd.com
+741,12117872,《SAP质量管理及其在采购、生产、销售中的应用与开发》(郝冠华)【摘要 书评 试读】- 京东图书,//item.jd.com/12117872.html,78.2,96,2200,机械工业出版社,//cmpbook.jd.com
+742,12117874,《跟老男孩学Linux运维：Shell编程实战》(老男孩)【摘要 书评 试读】- 京东图书,//item.jd.com/12117874.html,83.8,99,5100,机械工业出版社,//cmpbook.jd.com
+743,12118243,《DB2从入门到精通（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12118243.html,71.8,98,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+744,12121728,《Docker技术入门与实战 第2版》(杨保华，戴王剑，曹亚仑)【摘要 书评 试读】- 京东图书,//item.jd.com/12121728.html,64.9,98,8400,机械工业出版社,//cmpbook.jd.com
+745,12122485,《PHP 7&MySQL跨设备网站开发》(陈惠贞，陈俊荣)【摘要 书评 试读】- 京东图书,//item.jd.com/12122485.html,71.1,100,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+746,12122571,《Java EE互联网轻量级框架整合开发 SSM框架（Spring MVC+Spring+MyBatis）和Redis实现 》(杨开振，周吉文，梁华辉，谭茂华)【摘要 书评 试读】- 京东图书,//item.jd.com/12122571.html,94,99,4400,电子工业出版社,//phei1982.jd.com
+747,12123537,《JavaScript从入门到精通（标准版）》(未来科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12123537.html,67.4,99,16000,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+748,12123997,"《JavaScript学习指南 第3版》([美]Ethan,Brown,布朗)【摘要 书评 试读】- 京东图书",//item.jd.com/12123997.html,46.6,98,58000,人民邮电出版社,//ptpressjd.jd.com
+749,12125477,《R语言数据分析项目精解：理论、方法、实战》(罗荣锦)【摘要 书评 试读】- 京东图书,//item.jd.com/12125477.html,54.4,99,8600,电子工业出版社,//phei1982.jd.com
+750,12125497,《C++语法详解》(黄勇)【摘要 书评 试读】- 京东图书,//item.jd.com/12125497.html,69.8,97,25000,电子工业出版社,//phei1982.jd.com
+751,12125529,《Python与机器学习实战：决策树、集成学习、支持向量机与神经网络算法详解及编程实现》(何宇健)【摘要 书评 试读】- 京东图书,//item.jd.com/12125529.html,54.5,99,5100,电子工业出版社,//phei1982.jd.com
+752,12125531,《MyBatis技术内幕》(徐郡明)【摘要 书评 试读】- 京东图书,//item.jd.com/12125531.html,61.9,99,500,电子工业出版社,//phei1982.jd.com
+753,12127716,《跟我学App Inventor 2/青少年科技创新丛书》(谢作如，郑祥，张洁)【摘要 书评 试读】- 京东图书,//item.jd.com/12127716.html,49.8,100,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+754,12127885,《架构探险：从零开始写分布式服务框架》(李业兵)【摘要 书评 试读】- 京东图书,//item.jd.com/12127885.html,61.6,97,7300,电子工业出版社,//phei1982.jd.com
+755,12128326,《Python语言程序设计基础（第2版）/教育部大学计算机课程改革项目规划教材》(嵩天，礼欣，黄天羽)【摘要 书评 试读】- 京东图书,//item.jd.com/12128326.html,31.9,99,1900,高等教育出版社,//mall.jd.com/index-1000007002.html
+756,12129877,"《Python设计模式 第2版》([印度]Chetan,Giridhar,吉里德尔)【摘要 书评 试读】- 京东图书",//item.jd.com/12129877.html,30.7,97,400,人民邮电出版社,//ptpressjd.jd.com
+757,12131083,《HTML5 APP 开发从入门到精通（基于HTML5+CSS3+jQueryMobile+Bootstrap）》(未来科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12131083.html,44.1,99,16000,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+758,12132398,《AngularJS入门与进阶》(江荣波)【摘要 书评 试读】- 京东图书,//item.jd.com/12132398.html,55.2,98,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+759,12132428,《C语言从入门到精通（第3版）（附光盘）/软件开发视频大讲堂》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12132428.html,53.2,97,14000,清华大学出版社,//mall.jd.com/index-1000004111.html
+760,12133017,《C语言课程设计与游戏开发实践教程（面向“工程教育认证”计算机系列课程规划教材）》(童晶，丁海军，金永霞，周小芹)【摘要 书评 试读】- 京东图书,//item.jd.com/12133017.html,32.1,98,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+761,12134218,《高性能PHP 7》([巴基斯坦]Altaf Hussain（阿尔塔夫·侯赛因）)【摘要 书评 试读】- 京东图书,//item.jd.com/12134218.html,54.4,96,400,电子工业出版社,//phei1982.jd.com
+762,12134872,《面向机器学习的自然语言标注》([美]普斯特若夫斯基（James Pustejovsky），[美]斯塔布斯（Amber Stubbs）)【摘要 书评 试读】- 京东图书,//item.jd.com/12134872.html,74.4,100,200,机械工业出版社,//cmpbook.jd.com
+763,12136095,《Java Web轻量级开发面试教程》(孟宪福 胡书敏 金华)【摘要 书评 试读】- 京东图书,//item.jd.com/12136095.html,54.4,97,200,电子工业出版社,//phei1982.jd.com
+764,12136956,《CUDA高性能并行计算》([美]杜安·斯托尔蒂（Duane Storti），梅特·尤尔托卢)【摘要 书评 试读】- 京东图书,//item.jd.com/12136956.html,74.4,99,300,机械工业出版社,//cmpbook.jd.com
+765,12137627,《Web前端全能开发秘籍：HTML5 CSS3 JavaScript jQuery网站建设案例实战（微课视频版）（京东套装共3册）》(未来科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12137627.html,193.6,99,16000,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+766,12137799,《可视化Java SWT/JFace GUI程序设计教程——基于Eclipse WindowBui》(赵满来)【摘要 书评 试读】- 京东图书,//item.jd.com/12137799.html,60.4,99,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+767,12139096,"《计算机程序设计艺术 卷3 排序与查找（第2版）》([美],高德纳（Donald,E.,Knuth）)【摘要 书评 试读】- 京东图书",//item.jd.com/12139096.html,168.3,98,3100,人民邮电出版社,//ptpressjd.jd.com
+768,12142420,《ARM Cortex-M0 全可编程SoC原理及实现：面向处理器、协议、外设、编程和操作系统》(何宾)【摘要 书评 试读】- 京东图书,//item.jd.com/12142420.html,63.2,100,60,清华大学出版社,//mall.jd.com/index-1000004111.html
+769,12142560,《VR与AR开发高级教程 基于Unity》(吴亚峰，刘亚志，于复兴)【摘要 书评 试读】- 京东图书,//item.jd.com/12142560.html,54.5,98,100,人民邮电出版社,//ptpressjd.jd.com
+770,12143453,《轻松玩转Scratch编程》(刘凤飞)【摘要 书评 试读】- 京东图书,//item.jd.com/12143453.html,55.2,100,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+771,12143483,《Python程序设计开发宝典》(董付国)【摘要 书评 试读】- 京东图书,//item.jd.com/12143483.html,55.2,99,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+772,12145233,《VMware Virtual SAN权威指南（原书第2版）》([美]科马克·霍根（Cormac Hogan） 邓肯·埃平（Duncan Epping）)【摘要 书评 试读】- 京东图书,//item.jd.com/12145233.html,74.4,100,100,机械工业出版社,//cmpbook.jd.com
+773,12145803,《MATLAB/Simulink系统仿真（科学与工程计算技术丛书）》(李献，骆志伟，于晋臣)【摘要 书评 试读】- 京东图书,//item.jd.com/12145803.html,71.2,99,600,清华大学出版社,//mall.jd.com/index-1000004111.html
+774,12147285,《小程序，巧应用:微信小程序开发实战 第2版》(熊普江 谢宇华)【摘要 书评 试读】- 京东图书,//item.jd.com/12147285.html,64.9,98,8700,机械工业出版社,//cmpbook.jd.com
+775,12147384,《C#多线程编程实战（原书第2版）》([美]易格恩·阿格佛温（Eugene Agafonov）)【摘要 书评 试读】- 京东图书,//item.jd.com/12147384.html,46.4,99,300,机械工业出版社,//cmpbook.jd.com
+776,12148832,《算法图解 》([美]巴尔加瓦（Aditya Bhargava）)【摘要 书评 试读】- 京东图书,//item.jd.com/12148832.html,41.7,98,28000,人民邮电出版社,//ptpressjd.jd.com
+777,12150164,《微信小程序：开发入门及案例详解》(李骏，边思)【摘要 书评 试读】- 京东图书,//item.jd.com/12150164.html,55.5,98,8700,机械工业出版社,//cmpbook.jd.com
+778,12151854,《跟老齐学Python：轻松入门》(齐伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12151854.html,46.6,99,2700,电子工业出版社,//phei1982.jd.com
+779,12151946,《Python机器学习》([美]塞巴斯蒂安·拉施卡（Sebastian Raschka）)【摘要 书评 试读】- 京东图书,//item.jd.com/12151946.html,61.9,99,3400,机械工业出版社,//cmpbook.jd.com
+780,12152559,《深度学习与计算机视觉：算法原理、框架应用与代码实现》(叶韵)【摘要 书评 试读】- 京东图书,//item.jd.com/12152559.html,74.4,99,15000,机械工业出版社,//cmpbook.jd.com
+781,12153873,"《编程风格：好代码的逻辑》([美]克里斯蒂娜·维代拉·洛佩斯（Cristina,Videira,Lopes）)【摘要 书评 试读】- 京东图书",//item.jd.com/12153873.html,46.8,99,1000,人民邮电出版社,//ptpressjd.jd.com
+782,12153875,《趣学算法》(陈小玉)【摘要 书评 试读】- 京东图书,//item.jd.com/12153875.html,74.8,99,1000,人民邮电出版社,//ptpressjd.jd.com
+783,12153903,"《精通Python自然语言处理》([印度],Deepti,Chopra,Nisheeth,Joshi,Iti,Mathur)【摘要 书评 试读】- 京东图书",//item.jd.com/12153903.html,49.6,98,600,人民邮电出版社,//ptpressjd.jd.com
+784,12154276,"《Java性能调优指南》([美]Charlie,Hunt（查理.亨特），等)【摘要 书评 试读】- 京东图书",//item.jd.com/12154276.html,54.5,95,1900,电子工业出版社,//phei1982.jd.com
+785,12155135,"《卡尔曼滤波理论与实践（MATLAB版）（第四版）》(（美）Mohinder S. Grewal （莫欣德 S. 格雷沃）, Angus P. Andre)【摘要 书评 试读】- 京东图书",//item.jd.com/12155135.html,70.2,99,300,电子工业出版社,//phei1982.jd.com
+786,12157956,《机器人系统设计与制作：Python语言实现》([印度]郎坦·约瑟夫)【摘要 书评 试读】- 京东图书,//item.jd.com/12157956.html,55.5,98,1400,机械工业出版社,//cmpbook.jd.com
+787,12159521,《Unity3D平台AR与VR开发快速上手》(吴雁涛)【摘要 书评 试读】- 京东图书,//item.jd.com/12159521.html,47.2,99,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+788,12161926,"《JavaScript数据可视化编程》([美],Stephen,A.Thomas)【摘要 书评 试读】- 京东图书",//item.jd.com/12161926.html,78,98,400,人民邮电出版社,//ptpressjd.jd.com
+789,12162983,《Android Gradle权威指南》(飞雪无情)【摘要 书评 试读】- 京东图书,//item.jd.com/12162983.html,46.6,99,900,人民邮电出版社,//ptpressjd.jd.com
+790,12163054,《剑指Offer：名企面试官精讲典型编程题（第2版） 》(何海涛)【摘要 书评 试读】- 京东图书,//item.jd.com/12163054.html,51.3,98,26000,电子工业出版社,//phei1982.jd.com
+791,12163824,《网络爬虫全解析――技术、原理与实践》(罗刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12163824.html,62.4,99,500,电子工业出版社,//phei1982.jd.com
+792,12163851,"《Python机器学习经典实例》([美]普拉提克·乔西（Prateek,Joshi）)【摘要 书评 试读】- 京东图书",//item.jd.com/12163851.html,50.2,99,60000,人民邮电出版社,//ptpressjd.jd.com
+793,12164789,《架构探险：轻量级微服务架构（下册）》(黄勇)【摘要 书评 试读】- 京东图书,//item.jd.com/12164789.html,62.2,99,700,电子工业出版社,//phei1982.jd.com
+794,12165317,《图解Java多线程设计模式》(结城浩)【摘要 书评 试读】- 京东图书,//item.jd.com/12165317.html,75.7,99,900,人民邮电出版社,//ptpressjd.jd.com
+795,12165339,"《神经网络算法与实现 基于Java语言》([巴西]Fábio,M.,Soares,法比奥,Alan,M.F.,Souza,艾伦)【摘要 书评 试读】- 京东图书",//item.jd.com/12165339.html,46.3,99,60000,人民邮电出版社,//ptpressjd.jd.com
+796,12165804,《触人心弦：设计更优秀的iPhone应用》(包季真，李婧Amy，陈莹Elya，南迪尔，金璐，唐娴)【摘要 书评 试读】- 京东图书,//item.jd.com/12165804.html,64.5,95,700,电子工业出版社,//phei1982.jd.com
+797,12165849,《jQuery从入门到精通（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12165849.html,63.8,98,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+798,12166175,"《生产微服务》([美]Susan,J.,Fowler（苏珊,J.,福勒）)【摘要 书评 试读】- 京东图书",//item.jd.com/12166175.html,43.4,98,300,电子工业出版社,//phei1982.jd.com
+799,12166962,"《逆向工程权威指南》([乌克兰],Dennis,Yurichev,丹尼斯)【摘要 书评 试读】- 京东图书",//item.jd.com/12166962.html,132.4,99,1500,人民邮电出版社,//ptpressjd.jd.com
+800,12167397,《Python数据分析实战》([印尼]伊凡·伊德里斯（Ivan Idris）)【摘要 书评 试读】- 京东图书,//item.jd.com/12167397.html,74.4,98,60,机械工业出版社,//cmpbook.jd.com
+801,12168358,《Spring Cloud与Docker微服务架构实战》(周立)【摘要 书评 试读】- 京东图书,//item.jd.com/12168358.html,54.4,99,27000,电子工业出版社,//phei1982.jd.com
+802,12169018,《微信公众平台与小程序开发 从零搭建整套系统》(张剑明)【摘要 书评 试读】- 京东图书,//item.jd.com/12169018.html,38.6,99,500,人民邮电出版社,//ptpressjd.jd.com
+803,12170351,《移动Web前端高效开发实战》(iKcamp)【摘要 书评 试读】- 京东图书,//item.jd.com/12170351.html,65.9,99,1100,电子工业出版社,//phei1982.jd.com
+804,12170738,《C程序设计语言（套装共2册）》(Brian W.Kernighan，Dennis Ritchie，Clovis L.Tondo)【摘要 书评 试读】- 京东图书,//item.jd.com/12170738.html,37.1,97,21000,机械工业出版社,//cmpbook.jd.com
+805,12170782,《程序员必读经典（套装共2册）》(Randal E. Bryant，David R. O’Hallaron，Thomas H. Cormen，等)【摘要 书评 试读】- 京东图书,//item.jd.com/12170782.html,251.3,98,87000,机械工业出版社,//cmpbook.jd.com
+806,12171757,《C程序设计（第五版）/中国高等院校计算机基础教育课程体系规划教材 》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/12171757.html,32.8,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+807,12172344,《Spring Cloud微服务实战》(翟永超)【摘要 书评 试读】- 京东图书,//item.jd.com/12172344.html,70.3,99,27000,电子工业出版社,//phei1982.jd.com
+808,12172449,《ES6标准入门（第3版） 》(阮一峰)【摘要 书评 试读】- 京东图书,//item.jd.com/12172449.html,78.2,99,3500,电子工业出版社,//phei1982.jd.com
+809,12173046,《Visual C++2013从入门到精通（视频教学版）（附光盘）》(朱文伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12173046.html,126.4,98,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+810,12173048,《Python新手使用Django架站的16堂课》(何敏煌)【摘要 书评 试读】- 京东图书,//item.jd.com/12173048.html,69.3,98,900,清华大学出版社,//mall.jd.com/index-1000004111.html
+811,12173050,《ThinkPHP实战》(夏磊)【摘要 书评 试读】- 京东图书,//item.jd.com/12173050.html,38.5,97,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+812,12173150,《C++程序设计：原理与实践（进阶篇）（原书第2版）》([美]本贾尼·斯特劳斯特鲁普（Bjarne Stroustrup）)【摘要 书评 试读】- 京东图书,//item.jd.com/12173150.html,78.2,99,700,机械工业出版社,//cmpbook.jd.com
+813,12173174,《C++程序设计：原理与实践（基础篇）（原书第2版）》(本贾尼·斯特劳斯特鲁普)【摘要 书评 试读】- 京东图书,//item.jd.com/12173174.html,77.7,99,700,机械工业出版社,//cmpbook.jd.com
+814,12173816,《高性能iOS应用开发》([美]高拉夫·瓦依希（Gaurav Vaish）)【摘要 书评 试读】- 京东图书,//item.jd.com/12173816.html,75.7,98,500,人民邮电出版社,//ptpressjd.jd.com
+815,12174050,"《Docker开发指南》([英]阿德里安·莫阿特（Adrian,Mouat）)【摘要 书评 试读】- 京东图书",//item.jd.com/12174050.html,67.2,99,4900,人民邮电出版社,//ptpressjd.jd.com
+816,12174676,"《精通Spring MVC 4》([美]Geoffroy,Warin)【摘要 书评 试读】- 京东图书",//item.jd.com/12174676.html,46.6,98,25000,人民邮电出版社,//ptpressjd.jd.com
+817,12174707,《Boost程序库完全开发指南――深入C++"准”标准库（第4版）》(罗剑锋)【摘要 书评 试读】- 京东图书,//item.jd.com/12174707.html,75.2,99,1000,电子工业出版社,//phei1982.jd.com
+818,12174708,《零起点Python机器学习快速入门》(何海群)【摘要 书评 试读】- 京东图书,//item.jd.com/12174708.html,46.5,97,600,电子工业出版社,//phei1982.jd.com
+819,12174925,《Kotlin程序开发入门精要》(李宁)【摘要 书评 试读】- 京东图书,//item.jd.com/12174925.html,54.4,98,23000,人民邮电出版社,//ptpressjd.jd.com
+820,12176536,《Vue2实践揭秘》(梁睿坤)【摘要 书评 试读】- 京东图书,//item.jd.com/12176536.html,62.3,98,3600,电子工业出版社,//phei1982.jd.com
+821,12176798,《第一行代码 Java 视频讲解版》(李兴华，马云涛)【摘要 书评 试读】- 京东图书,//item.jd.com/12176798.html,74.8,98,23000,人民邮电出版社,//ptpressjd.jd.com
+822,12177476,《微信小程序快速开发（视频指导版）》(易伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12177476.html,31.4,99,2600,人民邮电出版社,//ptpressjd.jd.com
+823,12179115,"《数据挖掘与分析 概念与算法》([美]穆罕默德·扎基（Mohammed J.Zaki）,[巴西]小瓦格纳·梅拉（Wagner Meira Jr.）)【摘要 书评 试读】- 京东图书",//item.jd.com/12179115.html,109.7,100,300,人民邮电出版社,//ptpressjd.jd.com
+824,12179822,《C#高级编程(第10版) C# 6 & .NET Core 1.0/.NET开发经典名著》([美]Christian Nagel)【摘要 书评 试读】- 京东图书,//item.jd.com/12179822.html,134.4,98,2300,清华大学出版社,//mall.jd.com/index-1000004111.html
+825,12180152,"《Python机器学习实践指南》([美]Alexander,T.,Combs)【摘要 书评 试读】- 京东图书",//item.jd.com/12180152.html,58,99,9000,人民邮电出版社,//ptpressjd.jd.com
+826,12180156,"《前端架构设计》([美]迈卡·高保特（Micah,Godbolt）)【摘要 书评 试读】- 京东图书",//item.jd.com/12180156.html,41.7,99,600,人民邮电出版社,//ptpressjd.jd.com
+827,12180379,《Python网络爬虫从入门到实践》(唐松，陈智铨)【摘要 书评 试读】- 京东图书,//item.jd.com/12180379.html,37,98,900,机械工业出版社,//cmpbook.jd.com
+828,12181725,《Kotlin极简教程》(陈光剑)【摘要 书评 试读】- 京东图书,//item.jd.com/12181725.html,74.4,98,87000,机械工业出版社,//cmpbook.jd.com
+829,12181740,《WCF 服务编程（第四版）》(【美】居瓦·洛瑞，【美】麦克·芒宫美瑞)【摘要 书评 试读】- 京东图书,//item.jd.com/12181740.html,101.1,99,200,华中科技大学出版社,//hustp.jd.com
+830,12184434,《Java多线程编程实战指南（核心篇）》(黄文海)【摘要 书评 试读】- 京东图书,//item.jd.com/12184434.html,70.2,98,4800,电子工业出版社,//phei1982.jd.com
+831,12185360,《Tomcat内核设计剖析》(汪建)【摘要 书评 试读】- 京东图书,//item.jd.com/12185360.html,66.4,98,400,人民邮电出版社,//ptpressjd.jd.com
+832,12185531,《LabVIEW宝典（第2版）》(陈树学)【摘要 书评 试读】- 京东图书,//item.jd.com/12185531.html,78.2,99,1000,电子工业出版社,//phei1982.jd.com
+833,12186034,《深度学习原理与TensorFlow实践》(王琛，胡振邦，高杰)【摘要 书评 试读】- 京东图书,//item.jd.com/12186034.html,62.4,98,36000,电子工业出版社,//phei1982.jd.com
+834,12186192,《流畅的Python 》([巴西]Luciano Ramalho)【摘要 书评 试读】- 京东图书,//item.jd.com/12186192.html,118.2,99,110000,人民邮电出版社,//ptpressjd.jd.com
+835,12186368,"《Spring MVC学习指南 第2版》([美]Paul,Deck)【摘要 书评 试读】- 京东图书",//item.jd.com/12186368.html,46.6,98,25000,人民邮电出版社,//ptpressjd.jd.com
+836,12186435,《Python Linux系统管理与自动化运维》(赖明星)【摘要 书评 试读】- 京东图书,//item.jd.com/12186435.html,83.8,99,5100,机械工业出版社,//cmpbook.jd.com
+837,12186461,"《ARM嵌入式系统编程与优化》([美]詹森,D.巴克斯（Jason,D.,Bakos）)【摘要 书评 试读】- 京东图书",//item.jd.com/12186461.html,46.6,99,100,机械工业出版社,//cmpbook.jd.com
+838,12187988,《Go程序设计语言》(艾伦A. A. 多诺万)【摘要 书评 试读】- 京东图书,//item.jd.com/12187988.html,62.4,99,5600,机械工业出版社,//cmpbook.jd.com
+839,12188005,"《学习JavaScript数据结构与算法 第2版》([巴西],洛伊安妮·格罗纳（Loiane,Groner）)【摘要 书评 试读】- 京东图书",//item.jd.com/12188005.html,41.7,99,700,人民邮电出版社,//ptpressjd.jd.com
+840,12188009,《OpenCV和Visual Studio图像识别应用开发》(望熙荣，望熙贵)【摘要 书评 试读】- 京东图书,//item.jd.com/12188009.html,49.6,98,700,人民邮电出版社,//ptpressjd.jd.com
+841,12190152,《Apache Kafka源码剖析》(徐郡明)【摘要 书评 试读】- 京东图书,//item.jd.com/12190152.html,69.9,98,1200,电子工业出版社,//phei1982.jd.com
+842,12190688,《大象无形：虚幻引擎程序设计浅析》(罗丁力，张三)【摘要 书评 试读】- 京东图书,//item.jd.com/12190688.html,51.2,97,300,电子工业出版社,//phei1982.jd.com
+843,12191481,"《精通Git 第2版》([美],斯科特·查康（Scott,Chacon）,本·斯特劳布（Ben,Straub）)【摘要 书评 试读】- 京东图书",//item.jd.com/12191481.html,75.7,99,800,人民邮电出版社,//ptpressjd.jd.com
+844,12191928,《LabVIEW编程详解》(宋铭)【摘要 书评 试读】- 京东图书,//item.jd.com/12191928.html,77.3,97,200,电子工业出版社,//phei1982.jd.com
+845,12191954,"《Swift进阶》(Chris,Eidhof（克里斯?安道夫）)【摘要 书评 试读】- 京东图书",//item.jd.com/12191954.html,58.9,98,300,电子工业出版社,//phei1982.jd.com
+846,12193005,《趣学少儿编程：Scratch少儿趣味编程+Scratch少儿趣味编程2（京东套装共2册）》([日]阿部和广)【摘要 书评 试读】- 京东图书,//item.jd.com/12193005.html,100.4,100,0,人民邮电出版社,//ptpressjd.jd.com
+847,12193983,《跟老齐学Python：Django实战》(齐伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12193983.html,53.2,99,2700,电子工业出版社,//phei1982.jd.com
+848,12193991,《零起点TensorFlow快速入门》(何海群)【摘要 书评 试读】- 京东图书,//item.jd.com/12193991.html,56.4,99,200,电子工业出版社,//phei1982.jd.com
+849,12194007,《京东系统质量保障技术实战》(商城研发POP平台)【摘要 书评 试读】- 京东图书,//item.jd.com/12194007.html,53.4,98,27000,电子工业出版社,//phei1982.jd.com
+850,12194083,《PyQt5快速开发与实战》(王硕，孙洋洋)【摘要 书评 试读】- 京东图书,//item.jd.com/12194083.html,77.5,99,1300,电子工业出版社,//phei1982.jd.com
+851,12194885,《C程序设计（第五版）+ 学习辅导(套装共2册)》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/12194885.html,58.5,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+852,12195740,《深入浅出深度学习：原理剖析与Python实践》(黄安埠)【摘要 书评 试读】- 京东图书,//item.jd.com/12195740.html,60.9,98,36000,电子工业出版社,//phei1982.jd.com
+853,12199398,《嵌入式C编程：PIC单片机和C编程技术与应用》([美]马克·西格斯蒙德)【摘要 书评 试读】- 京东图书,//item.jd.com/12199398.html,62.4,100,60,机械工业出版社,//cmpbook.jd.com
+854,12200123,《Java自学宝典》(黑马程序员)【摘要 书评 试读】- 京东图书,//item.jd.com/12200123.html,102.4,98,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+855,12201284,《疯狂HTML5+CSS3+JavaScript讲义（第2版）》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12201284.html,69.9,97,18000,电子工业出版社,//phei1982.jd.com
+856,12201304,"《Solr 实战》([美]Trey,Grainger（崔.格兰杰）,Timothy,Potter（提摩斯.波特）)【摘要 书评 试读】- 京东图书",//item.jd.com/12201304.html,101.7,99,500,电子工业出版社,//phei1982.jd.com
+857,12201306,《微信公众平台网页开发实战――HTML5+JSSDK混合开发解密》(席新亮，等)【摘要 书评 试读】- 京东图书,//item.jd.com/12201306.html,54.4,100,300,电子工业出版社,//phei1982.jd.com
+858,12202703,"《Python游戏编程快速上手 第4版》([美]Al,Sweigart（斯维加特）)【摘要 书评 试读】- 京东图书",//item.jd.com/12202703.html,58,100,200,人民邮电出版社,//ptpressjd.jd.com
+859,12203786,《深入理解Elasticsearch（原书第2版）》((美)拉斐尔·酷奇)【摘要 书评 试读】- 京东图书,//item.jd.com/12203786.html,74.4,98,3300,机械工业出版社,//cmpbook.jd.com
+860,12206762,《Python爬虫开发与项目实战》(范传辉)【摘要 书评 试读】- 京东图书,//item.jd.com/12206762.html,74.4,99,4300,机械工业出版社,//cmpbook.jd.com
+861,12207223,《精通Scrapy网络爬虫》(刘硕)【摘要 书评 试读】- 京东图书,//item.jd.com/12207223.html,46.6,99,1100,清华大学出版社,//mall.jd.com/index-1000004111.html
+862,12207539,"《PHP 7 编程实战》([美]Doug,Bierer（道格?比尔）)【摘要 书评 试读】- 京东图书",//item.jd.com/12207539.html,94,98,100,电子工业出版社,//phei1982.jd.com
+863,12208777,《Verilog数字系统设计教程（第4版）/普通高等教育“十一五”国家级规划教材》(夏宇闻)【摘要 书评 试读】- 京东图书,//item.jd.com/12208777.html,48.6,99,500,北京航空航天大学出版社,//mall.jd.com/index-1000005516.html
+864,12209000,《Visual C++从入门到精通（第4版 附光盘）/软件开发视频大讲堂》【摘要 书评 试读】- 京东图书,//item.jd.com/12209000.html,62.8,96,4800,清华大学出版社,//mall.jd.com/index-1000004111.html
+865,12209472,《算法基础》([美]罗德·斯蒂芬斯（Rod Stephens）)【摘要 书评 试读】- 京东图书,//item.jd.com/12209472.html,62.3,100,100,机械工业出版社,//cmpbook.jd.com
+866,12210591,"《Ruby on Rails 教程 第4版》([美]迈克尔·哈特尔（Michael,Hartl）)【摘要 书评 试读】- 京东图书",//item.jd.com/12210591.html,109.7,100,200,人民邮电出版社,//ptpressjd.jd.com
+867,12211458,《C++从入门到精通（第3版）（配光盘）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12211458.html,63,97,3900,清华大学出版社,//mall.jd.com/index-1000004111.html
+868,12213616,"《深入理解ES6》([美]Nicholas,C.,Zakas)【摘要 书评 试读】- 京东图书",//item.jd.com/12213616.html,77.2,99,1700,电子工业出版社,//phei1982.jd.com
+869,12215156,"《Swift编程权威指南 第2版》([美]马修·马赛厄斯（Matthew,Mathias）,约翰·加拉格尔（John,Gallagher）)【摘要 书评 试读】- 京东图书",//item.jd.com/12215156.html,75.7,99,200,人民邮电出版社,//ptpressjd.jd.com
+870,12215331,《毫无障碍学Python》(邓文渊)【摘要 书评 试读】- 京东图书,//item.jd.com/12215331.html,45.7,99,700,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+871,12215717,《从零开始学Python网络爬虫》(罗攀 蒋仟)【摘要 书评 试读】- 京东图书,//item.jd.com/12215717.html,55.5,99,4300,机械工业出版社,//cmpbook.jd.com
+872,12216169,《京东基础架构建设之路（全彩）》(京东商城基础架构部)【摘要 书评 试读】- 京东图书,//item.jd.com/12216169.html,61.7,98,27000,电子工业出版社,//phei1982.jd.com
+873,12218342,"《计算机视觉：模型、学习和推理/计算机科学丛书》([英]西蒙,J.D.,普林斯)【摘要 书评 试读】- 京东图书",//item.jd.com/12218342.html,119,99,900,机械工业出版社,//cmpbook.jd.com
+874,12218392,《Python金融实战》([美]Yuxing Yan)【摘要 书评 试读】- 京东图书,//item.jd.com/12218392.html,62.3,99,400,人民邮电出版社,//ptpressjd.jd.com
+875,12220149,《Kafka入门与实践》(牟大恩)【摘要 书评 试读】- 京东图书,//item.jd.com/12220149.html,58,99,4300,人民邮电出版社,//ptpressjd.jd.com
+876,12221044,"《区块链核心算法解析》([美]Roger,Wattenhofer（罗格.瓦唐霍费尔）)【摘要 书评 试读】- 京东图书",//item.jd.com/12221044.html,46.6,98,8600,电子工业出版社,//phei1982.jd.com
+877,12221858,《软件开发视频大讲堂：HTML5从入门到精通（第2版 附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/12221858.html,71.8,97,1900,清华大学出版社,//mall.jd.com/index-1000004111.html
+878,12221860,《软件开发视频大讲堂：C#从入门到精通（第4版 附光盘）》【摘要 书评 试读】- 京东图书,//item.jd.com/12221860.html,63,96,10000,清华大学出版社,//mall.jd.com/index-1000004111.html
+879,12222954,《jQuery实战从入门到精通》(未来科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12222954.html,59.6,99,16000,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+880,12222970,《jQuery Mobile从入门到精通》(未来科技)【摘要 书评 试读】- 京东图书,//item.jd.com/12222970.html,52,99,16000,中国水利水电出版社,//mall.jd.com/index-1000015165.html
+881,12222980,《Activiti权威指南》(冀正，张志祥)【摘要 书评 试读】- 京东图书,//item.jd.com/12222980.html,63.2,98,200,清华大学出版社,//mall.jd.com/index-1000004111.html
+882,12224062,《深度学习算法实践》(吴岸城)【摘要 书评 试读】- 京东图书,//item.jd.com/12224062.html,62.1,98,36000,电子工业出版社,//phei1982.jd.com
+883,12224512,"《快学Scala（第2版）》([美]Cay,S.,Horstmann,[凯.S.霍斯特曼])【摘要 书评 试读】- 京东图书",//item.jd.com/12224512.html,85.1,98,4800,电子工业出版社,//phei1982.jd.com
+884,12224904,《Kotlin实战》([美]Dmitry Jemerov（德米特里·詹莫瑞福），[美]Svetlana Isakova（斯维特拉娜·伊凡诺沃）)【摘要 书评 试读】- 京东图书,//item.jd.com/12224904.html,69.2,98,12000,电子工业出版社,//phei1982.jd.com
+885,12227814,《程序员的算法趣题》([日]增井敏克)【摘要 书评 试读】- 京东图书,//item.jd.com/12227814.html,46.8,99,200,人民邮电出版社,//ptpressjd.jd.com
+886,12227940,《Python 3.5从零开始学 》(刘宇宙)【摘要 书评 试读】- 京东图书,//item.jd.com/12227940.html,46.6,99,74000,清华大学出版社,//mall.jd.com/index-1000004111.html
+887,12228628,《iOS编程（第5版）》(Christian Keur，Aaron Hillegass)【摘要 书评 试读】- 京东图书,//item.jd.com/12228628.html,85.1,98,2700,华中科技大学出版社,//hustp.jd.com
+888,12228958,"《精通Nginx(第2版)》([瑞士],Dimitri,Aivaliotis,艾维利)【摘要 书评 试读】- 京东图书",//item.jd.com/12228958.html,49.6,98,700,人民邮电出版社,//ptpressjd.jd.com
+889,12230702,"《Python数据分析基础》([美]克林顿·布朗利（Clinton,W.,Brownley）)【摘要 书评 试读】- 京东图书",//item.jd.com/12230702.html,58.7,99,1500,人民邮电出版社,//ptpressjd.jd.com
+890,12233903,《程序员面试笔记 C/C++、算法、数据结构篇》(杨峰)【摘要 书评 试读】- 京东图书,//item.jd.com/12233903.html,69.5,97,5600,机械工业出版社,//cmpbook.jd.com
+891,12234130,《C程序设计+学习辅导（第四版）（京东套装共2册）》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/12234130.html,50.3,100,0,清华大学出版社,//mall.jd.com/index-1000004111.html
+892,12234196,《OpenGL编程指南（原书第9版）》([美]约翰·M·克赛尼希，格雷厄姆·塞勒斯，戴夫·施莱尔)【摘要 书评 试读】- 京东图书,//item.jd.com/12234196.html,130.8,97,2900,机械工业出版社,//cmpbook.jd.com
+893,12234198,《数学与泛型编程：高效编程的奥秘》([美]亚历山大 A.斯捷潘诺夫（Alexander A.Stepanov）)【摘要 书评 试读】- 京东图书,//item.jd.com/12234198.html,74.4,99,200,机械工业出版社,//cmpbook.jd.com
+894,12234810,《Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）》(黑马程序员)【摘要 书评 试读】- 京东图书,//item.jd.com/12234810.html,41,98,600,人民邮电出版社,//ptpressjd.jd.com
+895,12235775,《Java微服务实战》(赵计刚 著)【摘要 书评 试读】- 京东图书,//item.jd.com/12235775.html,54.4,100,400,电子工业出版社,//phei1982.jd.com
+896,12236097,《白话区块链》(蒋勇，文延，嘉文)【摘要 书评 试读】- 京东图书,//item.jd.com/12236097.html,55.5,99,21000,机械工业出版社,//cmpbook.jd.com
+897,12236675,《R的极客理想：量化投资篇》(张丹)【摘要 书评 试读】- 京东图书,//item.jd.com/12236675.html,74.4,99,100,机械工业出版社,//cmpbook.jd.com
+898,12236704,《C程序设计（第五版）学习辅导/中国高等院校计算机基础教育课程体系规划教材》(谭浩强)【摘要 书评 试读】- 京东图书,//item.jd.com/12236704.html,28.8,98,22000,清华大学出版社,//mall.jd.com/index-1000004111.html
+899,12239070,《Ruby基础教程 第5版》([日]高桥征义，后藤裕藏)【摘要 书评 试读】- 京东图书,//item.jd.com/12239070.html,67.2,99,300,人民邮电出版社,//ptpressjd.jd.com
+900,12239072,《JavaScript框架设计（第2版）》(司徒正美（钟钦成）)【摘要 书评 试读】- 京东图书,//item.jd.com/12239072.html,75.1,98,58000,人民邮电出版社,//ptpressjd.jd.com
+901,12240762,《系统架构设计师教程（第4版）》(希赛教育软考学院)【摘要 书评 试读】- 京东图书,//item.jd.com/12240762.html,80.9,99,1400,电子工业出版社,//phei1982.jd.com
+902,12241204,"《Python高级编程 第2版》([波兰]Micha,Jaworski,贾沃斯基,[法]Tarek,Ziadé,莱德)【摘要 书评 试读】- 京东图书",//item.jd.com/12241204.html,74.8,99,900,人民邮电出版社,//ptpressjd.jd.com
+903,12242004,《明解C语言 中级篇》([日]柴田望洋)【摘要 书评 试读】- 京东图书,//item.jd.com/12242004.html,75.7,99,400,人民邮电出版社,//ptpressjd.jd.com
+904,12242431,"《Python机器学习实践：测试驱动的开发方法》([美],马修·柯克（Matthew,Kirk）)【摘要 书评 试读】- 京东图书",//item.jd.com/12242431.html,55.5,99,18000,机械工业出版社,//cmpbook.jd.com
+905,12242972,《区块链实战》(吴为)【摘要 书评 试读】- 京东图书,//item.jd.com/12242972.html,43.6,99,3500,清华大学出版社,//mall.jd.com/index-1000004111.html
+906,12243051,"《Scala编程（第3版）》([德]Martin Odersky（马丁奥德斯基）,[美]Lex Spoon（莱斯彭）等)【摘要 书评 试读】- 京东图书",//item.jd.com/12243051.html,113.7,99,900,电子工业出版社,//phei1982.jd.com
+907,12243573,《程序员的成长课》(安晓辉，周鹏)【摘要 书评 试读】- 京东图书,//item.jd.com/12243573.html,37.9,99,1800,电子工业出版社,//phei1982.jd.com
+908,12243652,《计算机科学经典著作：编程珠玑 第2版修订版 +编程珠玑（续 修订版）（京东套装共2册）》([美]乔恩·本特利（Jon Bentley）)【摘要 书评 试读】- 京东图书,//item.jd.com/12243652.html,60.2,100,0,人民邮电出版社,//ptpressjd.jd.com
+909,12243672,《C语言圣经：明解C语言（第3版 入门篇）+明解C语言 中级篇（京东套装共2册）》([日]柴田望洋)【摘要 书评 试读】- 京东图书,//item.jd.com/12243672.html,142.9,100,0,人民邮电出版社,//ptpressjd.jd.com
+910,12245200,《套路！机器学习：北美数据科学家的私房课》(林荟)【摘要 书评 试读】- 京东图书,//item.jd.com/12245200.html,53.7,99,5100,电子工业出版社,//phei1982.jd.com
+911,12246414,《ASP.NET Core应用开发（.NET开发经典名著）》([美]James Chambers，David Paquette，Simon Timms)【摘要 书评 试读】- 京东图书,//item.jd.com/12246414.html,50.7,98,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+912,12246565,《疯狂工作流讲义 基于Activiti 6.x的应用开发》(杨恩雄)【摘要 书评 试读】- 京东图书,//item.jd.com/12246565.html,61.1,97,18000,电子工业出版社,//phei1982.jd.com
+913,12248029,《游戏数据分析实战》(黎湘艳，叶洋)【摘要 书评 试读】- 京东图书,//item.jd.com/12248029.html,62.2,99,8600,电子工业出版社,//phei1982.jd.com
+914,12249634,《疯狂前端开发讲义：jQuery+AngularJS+Bootstrap前端开发实战》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12249634.html,62,97,18000,电子工业出版社,//phei1982.jd.com
+915,12252845,"《Go Web编程》([新加坡]郑兆雄（Sau,Sheong,Chang）)【摘要 书评 试读】- 京东图书",//item.jd.com/12252845.html,62.4,97,10000,人民邮电出版社,//ptpressjd.jd.com
+916,12254891,《Solr权威指南：下卷》(兰小伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12254891.html,83.8,100,200,机械工业出版社,//cmpbook.jd.com
+917,12254905,《Python数据分析与数据化运营》(宋天龙)【摘要 书评 试读】- 京东图书,//item.jd.com/12254905.html,93.2,99,700,机械工业出版社,//cmpbook.jd.com
+918,12256011,《疯狂Spring Cloud微服务架构实战》(杨恩雄)【摘要 书评 试读】- 京东图书,//item.jd.com/12256011.html,44.4,97,18000,电子工业出版社,//phei1982.jd.com
+919,12256043,"《Java函数式编程》([法]Pierre-Yves,Saumont（皮埃尔-伊夫斯,索蒙特）)【摘要 书评 试读】- 京东图书",//item.jd.com/12256043.html,97.2,99,200,电子工业出版社,//phei1982.jd.com
+920,12256045,"《概率图模型 基于R语言》([法]David,Bellot（大卫·贝洛特）)【摘要 书评 试读】- 京东图书",//item.jd.com/12256045.html,46.5,99,200,人民邮电出版社,//ptpressjd.jd.com
+921,12257013,《小程序从0到1：微信全栈工程师一本通》(石桥码农)【摘要 书评 试读】- 京东图书,//item.jd.com/12257013.html,55.5,98,8700,机械工业出版社,//cmpbook.jd.com
+922,12257170,《R语言编程指南》(任坤)【摘要 书评 试读】- 京东图书,//item.jd.com/12257170.html,78,99,200,人民邮电出版社,//ptpressjd.jd.com
+923,12257465,《Python全栈数据工程师养成攻略（视频讲解版）》(张宏伦)【摘要 书评 试读】- 京东图书,//item.jd.com/12257465.html,47.1,100,100,人民邮电出版社,//ptpressjd.jd.com
+924,12261129,《深度学习框架PyTorch：入门与实践》(陈云)【摘要 书评 试读】- 京东图书,//item.jd.com/12261129.html,51.4,99,3600,电子工业出版社,//phei1982.jd.com
+925,12261161,《Python 3学习笔记（上卷）》(雨痕)【摘要 书评 试读】- 京东图书,//item.jd.com/12261161.html,70.3,99,400,电子工业出版社,//phei1982.jd.com
+926,12261657,"《雾计算：技术、架构及应用》([美]蒋濛（Mung,Chiang）,巴拉特·巴拉索布莱曼（Bharath,Balasubramanian）,弗拉维)【摘要 书评 试读】- 京东图书",//item.jd.com/12261657.html,74.4,100,100,机械工业出版社,//cmpbook.jd.com
+927,12261787,《疯狂Java讲义（第4版）》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12261787.html,86.1,97,23000,电子工业出版社,//phei1982.jd.com
+928,12266985,《Scratch从入门到精通》(郑之婷，等)【摘要 书评 试读】- 京东图书,//item.jd.com/12266985.html,54.4,99,3400,电子工业出版社,//phei1982.jd.com
+929,12267210,《PHP7内核剖析》(秦朋)【摘要 书评 试读】- 京东图书,//item.jd.com/12267210.html,69,99,1100,电子工业出版社,//phei1982.jd.com
+930,12268583,《利用Python开源工具分析恶意代码》([韩]赵涏元，等)【摘要 书评 试读】- 京东图书,//item.jd.com/12268583.html,84.2,100,100,人民邮电出版社,//ptpressjd.jd.com
+931,12268591,《Microsoft Power BI 数据可视化与数据分析》(王国平)【摘要 书评 试读】- 京东图书,//item.jd.com/12268591.html,46.5,99,3100,电子工业出版社,//phei1982.jd.com
+932,12269007,《C++性能优化指南》(Kurt Guntheroth)【摘要 书评 试读】- 京东图书,//item.jd.com/12269007.html,75.7,99,200,人民邮电出版社,//ptpressjd.jd.com
+933,12269697,《Unity AR/VR开发：从新手到专家》(王寒，曾坤，张义红)【摘要 书评 试读】- 京东图书,//item.jd.com/12269697.html,93.2,98,800,机械工业出版社,//cmpbook.jd.com
+934,12271635,《Web前端技术丛书：新时期的Node.js入门》(李锴)【摘要 书评 试读】- 京东图书,//item.jd.com/12271635.html,37.5,100,500,清华大学出版社,//mall.jd.com/index-1000004111.html
+935,12271651,《MATLAB GUI程序设计/科学与工程计算技术丛书》(王广，邢林芳)【摘要 书评 试读】- 京东图书,//item.jd.com/12271651.html,89.1,100,70,清华大学出版社,//mall.jd.com/index-1000004111.html
+936,12272069,《Entity Framework 实用精要》(吕高旭)【摘要 书评 试读】- 京东图书,//item.jd.com/12272069.html,71.1,99,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+937,12273412,"《数据结构 Python语言描述》([美]Kenneth,A.,Lambert,兰伯特)【摘要 书评 试读】- 京东图书",//item.jd.com/12273412.html,54.5,99,110000,人民邮电出版社,//ptpressjd.jd.com
+938,12273591,《Head First Python（第二版）》(Paul Barry)【摘要 书评 试读】- 京东图书,//item.jd.com/12273591.html,79,98,17000,中国电力出版社,//mall.jd.com/index-1000005549.html
+939,12274073,《轻松学编程 中学生可以这样学Python+小学生C++趣味编程+轻松玩转Scratch 套装共4册》(董付国，刘凤飞，应根球)【摘要 书评 试读】- 京东图书,//item.jd.com/12274073.html,-1,100,0,清华大学出版社,//mall.jd.com/index-1000004111.html
+940,12275026,《Yii框架深度剖析》(刘琨)【摘要 书评 试读】- 京东图书,//item.jd.com/12275026.html,54.5,98,70,人民邮电出版社,//ptpressjd.jd.com
+941,12276070,《深入分布式缓存：从原理到实践》(于君泽，曹洪伟，邱硕，等)【摘要 书评 试读】- 京东图书,//item.jd.com/12276070.html,93.2,97,10000,机械工业出版社,//cmpbook.jd.com
+942,12276775,《Python+Spark 2.0+Hadoop机器学习与大数据实战》(林大贵)【摘要 书评 试读】- 京东图书,//item.jd.com/12276775.html,78.2,99,2700,清华大学出版社,//mall.jd.com/index-1000004111.html
+943,12277483,《新概念51单片机C语言教程――入门、提高、开发、拓展全攻略（第2版）》(郭天祥)【摘要 书评 试读】- 京东图书,//item.jd.com/12277483.html,69.5,97,7200,电子工业出版社,//phei1982.jd.com
+944,12277834,《RabbitMQ实战指南》(朱忠华)【摘要 书评 试读】- 京东图书,//item.jd.com/12277834.html,60.9,99,1000,电子工业出版社,//phei1982.jd.com
+945,12278156,《从Lucene到Elasticsearch：全文检索实战》(姚攀)【摘要 书评 试读】- 京东图书,//item.jd.com/12278156.html,62.4,99,2700,清华大学出版社,//mall.jd.com/index-1000004111.html
+946,12279229,"《Storm应用实践：实时事务处理之策略》([美]肖恩T.艾伦（Sean,T.,Allen）,马修·扬科夫斯基（Matthew,Jankowsk)【摘要 书评 试读】- 京东图书",//item.jd.com/12279229.html,64.9,99,100,机械工业出版社,//cmpbook.jd.com
+947,12279369,《深度探索区块链：Hyperledger技术与应用》( 张增骏，董宁，朱轩彤，陈剑雄)【摘要 书评 试读】- 京东图书,//item.jd.com/12279369.html,74.4,99,21000,机械工业出版社,//cmpbook.jd.com
+948,12279949,《Python基础教程（第3版）》(Magnus Lie Hetland)【摘要 书评 试读】- 京东图书,//item.jd.com/12279949.html,84.2,99,110000,人民邮电出版社,//ptpressjd.jd.com
+949,12280151,《HBase不睡觉书》(杨曦)【摘要 书评 试读】- 京东图书,//item.jd.com/12280151.html,71.2,100,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+950,12280691,《Python程序设计 第3版》([美]约翰·策勒(John Zelle))【摘要 书评 试读】- 京东图书,//item.jd.com/12280691.html,58,99,1200,人民邮电出版社,//ptpressjd.jd.com
+951,12280695,《软件性能测试学习笔记之LoadRunner实战》(杨婷)【摘要 书评 试读】- 京东图书,//item.jd.com/12280695.html,54.4,100,70,人民邮电出版社,//ptpressjd.jd.com
+952,12280701,"《Docker实践》([美]伊恩·米尔（Ian Miell）,艾丹·霍布森·塞耶斯（Aidan Hobson Sayers）)【摘要 书评 试读】- 京东图书",//item.jd.com/12280701.html,62.4,99,4900,人民邮电出版社,//ptpressjd.jd.com
+953,12282700,《Solr权威指南：上卷》(兰小伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12282700.html,93.2,100,200,机械工业出版社,//cmpbook.jd.com
+954,12283479,《Python贝叶斯分析》([阿根廷]奥斯瓦尔多·马丁（Osvaldo Martin）)【摘要 书评 试读】- 京东图书,//item.jd.com/12283479.html,58,99,300,人民邮电出版社,//ptpressjd.jd.com
+955,12284210,"《区块链项目开发指南》([印]纳拉扬·普鲁斯蒂（Narayan,Prusty）)【摘要 书评 试读】- 京东图书",//item.jd.com/12284210.html,55.5,99,21000,机械工业出版社,//cmpbook.jd.com
+956,12284595,《疯狂Kotlin讲义》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12284595.html,54,97,23000,电子工业出版社,//phei1982.jd.com
+957,12284606,《阿里巴巴Java开发手册》(杨冠宝)【摘要 书评 试读】- 京东图书,//item.jd.com/12284606.html,27.6,99,3000,电子工业出版社,//phei1982.jd.com
+958,12284607,"《预测分析与数据挖掘 RapidMiner实现》([美]瓦杰·考图（Vijay,Kotu）,巴拉·达什潘德（Bala,Deshpande）)【摘要 书评 试读】- 京东图书",//item.jd.com/12284607.html,84.2,100,50,人民邮电出版社,//ptpressjd.jd.com
+959,12284840,《UML基础、案例与应用（第3版 修订版）》([美]Joseph Schmuller（施穆勒）)【摘要 书评 试读】- 京东图书,//item.jd.com/12284840.html,46.6,99,100,人民邮电出版社,//ptpressjd.jd.com
+960,12285432,《Scratch 2.0少儿编程奇幻之旅》(中国少儿编程网)【摘要 书评 试读】- 京东图书,//item.jd.com/12285432.html,46.8,99,600,中国铁道出版社,//mall.jd.com/index-1000005517.html
+961,12288008,"《React学习手册》(Alex,Banks,Eve,Porcello)【摘要 书评 试读】- 京东图书",//item.jd.com/12288008.html,58.5,99,400,中国电力出版社,//mall.jd.com/index-1000005549.html
+962,12288215,《神经网络设计（原书第2版）》(［美]马丁 T. 哈根)【摘要 书评 试读】- 京东图书,//item.jd.com/12288215.html,78,99,200,机械工业出版社,//cmpbook.jd.com
+963,12288376,《小程序实战视频课：微信小程序开发全案精讲》(刘刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12288376.html,58.6,99,2600,人民邮电出版社,//ptpressjd.jd.com
+964,12288754,《Node.js开发实战》(忽如寄)【摘要 书评 试读】- 京东图书,//item.jd.com/12288754.html,38.6,97,300,清华大学出版社,//mall.jd.com/index-1000004111.html
+965,12290593,《人脸识别原理与实战：以MATLAB为工具》(王文峰，李大湘，王栋)【摘要 书评 试读】- 京东图书,//item.jd.com/12290593.html,62.3,98,800,电子工业出版社,//phei1982.jd.com
+966,12290926,《Scratch编程趣味卡：让孩子们爱上编程游戏》([美]NatalieRusk（娜塔莉腊斯克）)【摘要 书评 试读】- 京东图书,//item.jd.com/12290926.html,54.5,99,3400,电子工业出版社,//phei1982.jd.com
+967,12291874,《你不知道的JavaScript 下卷》([美]凯尔·辛普森（Kyle Simpson）)【摘要 书评 试读】- 京东图书,//item.jd.com/12291874.html,67.2,99,1500,人民邮电出版社,//ptpressjd.jd.com
+968,12292223,《精通Python爬虫框架Scrapy》([美]迪米特里奥斯 考奇斯-劳卡斯（Dimitrios Kouzis-Loukas）)【摘要 书评 试读】- 京东图书,//item.jd.com/12292223.html,46.6,99,800,人民邮电出版社,//ptpressjd.jd.com
+969,12292982,《Java程序设计从入门到精通》(毛雪涛，丁毓峰)【摘要 书评 试读】- 京东图书,//item.jd.com/12292982.html,69.2,94,70,华研外语,//huayanwaiyu.jd.com
+970,12293611,《PHP和MySQL Web开发（原书第5版）》([美]卢克·韦林（Luke Welling），劳拉·汤姆森（Laura Thomson）)【摘要 书评 试读】- 京东图书,//item.jd.com/12293611.html,98.9,95,10000,机械工业出版社,//cmpbook.jd.com
+971,12293703,《Python数据科学手册》([美]杰克·万托布拉斯（Jake VanderPlas）)【摘要 书评 试读】- 京东图书,//item.jd.com/12293703.html,92.7,99,900,人民邮电出版社,//ptpressjd.jd.com
+972,12293892,《MATLAB编程指南/科学与工程计算技术丛书》(付文利，刘刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12293892.html,88,100,100,清华大学出版社,//mall.jd.com/index-1000004111.html
+973,12295206,"《Selenium自动化测试 基于 Python 语言》([印度]冈迪察.U（Unmesh,Gundecha,）)【摘要 书评 试读】- 京东图书",//item.jd.com/12295206.html,38.7,98,300,人民邮电出版社,//ptpressjd.jd.com
+974,12296632,《Qt高级编程》([英]Mark Summerfield（马克·萨默菲尔德）)【摘要 书评 试读】- 京东图书,//item.jd.com/12296632.html,54.4,100,100,电子工业出版社,//phei1982.jd.com
+975,12296915,《Unity3D/2D游戏开发从0到1（第二版）》(刘国柱)【摘要 书评 试读】- 京东图书,//item.jd.com/12296915.html,78,98,60,电子工业出版社,//phei1982.jd.com
+976,12297785,《和孩子一起玩编程》(胡宏彪)【摘要 书评 试读】- 京东图书,//item.jd.com/12297785.html,58.7,99,12000,人民邮电出版社,//ptpressjd.jd.com
+977,12299018,《Java编程的逻辑》(马俊昌)【摘要 书评 试读】- 京东图书,//item.jd.com/12299018.html,93.2,98,40000,机械工业出版社,//cmpbook.jd.com
+978,12299496,《明解Java》(柴田望洋)【摘要 书评 试读】- 京东图书,//item.jd.com/12299496.html,84.2,100,100,人民邮电出版社,//ptpressjd.jd.com
+979,12299819,《疯狂前端开发讲义：jQuery+AngularJS+Bootstrap前端开发实战+疯狂HTML5+CSS3+JavaScript讲义（第2版）》(李刚 著)【摘要 书评 试读】- 京东图书,//item.jd.com/12299819.html,131.9,99,6900,电子工业出版社,//phei1982.jd.com
+980,12299845,《疯狂Spring Cloud微服务架构实战+Spring+MyBatis企业应用实战》(疯狂软件，杨恩雄 著)【摘要 书评 试读】- 京东图书,//item.jd.com/12299845.html,89.3,98,4600,电子工业出版社,//phei1982.jd.com
+981,12300797,《iOS 11 开发指南》(管蕾)【摘要 书评 试读】- 京东图书,//item.jd.com/12300797.html,99.1,97,100,人民邮电出版社,//ptpressjd.jd.com
+982,12301096,"《The Little SAS Book 中文版》([美]Lora,D.,Delwiche（洛拉·D·德尔维奇)【摘要 书评 试读】- 京东图书",//item.jd.com/12301096.html,79.2,99,800,清华大学出版社,//mall.jd.com/index-1000004111.html
+983,12301417,《Web开发经典丛书：Angular 5高级编程（第2版）》([美]Adam Freeman)【摘要 书评 试读】- 京东图书,//item.jd.com/12301417.html,101,99,400,清华大学出版社,//mall.jd.com/index-1000004111.html
+984,12302500,《Spark内核设计的艺术：架构设计与实现》(耿嘉安)【摘要 书评 试读】- 京东图书,//item.jd.com/12302500.html,130.8,99,12000,机械工业出版社,//cmpbook.jd.com
+985,12303057,《Python数字信号处理应用》([美]艾伦·唐尼（Allen B.Downey）)【摘要 书评 试读】- 京东图书,//item.jd.com/12303057.html,35.5,100,80,人民邮电出版社,//ptpressjd.jd.com
+986,12306772,"《JavaScript忍者秘籍  第2版》([美]John Resig（莱西格）,Bear Bibeault（贝比奥特）,Josip Maras（马瑞斯）)【摘要 书评 试读】- 京东图书",//item.jd.com/12306772.html,78.2,98,1400,人民邮电出版社,//ptpressjd.jd.com
+987,12307618,《Android高性能编程》【摘要 书评 试读】- 京东图书,//item.jd.com/12307618.html,78,98,100,电子工业出版社,//phei1982.jd.com
+988,12307840,《自然语言处理与深度学习：通过C语言模拟》([日]小高知宏)【摘要 书评 试读】- 京东图书,//item.jd.com/12307840.html,46.1,98,500,机械工业出版社,//cmpbook.jd.com
+989,12308496,《Spring MVC+MyBatis开发从入门到项目实战》(朱要光)【摘要 书评 试读】- 京东图书,//item.jd.com/12308496.html,62.4,99,500,电子工业出版社,//phei1982.jd.com
+990,12309246,《MATLAB R2016a神经网络设计与应用28个案例分析（精通MATLAB）》(方清城)【摘要 书评 试读】- 京东图书,//item.jd.com/12309246.html,79.2,100,50,清华大学出版社,//mall.jd.com/index-1000004111.html
+991,12310037,《MATLAB与机器学习》(［美］迈克尔·帕拉斯泽克（Michael Paluszek）)【摘要 书评 试读】- 京东图书,//item.jd.com/12310037.html,74.4,99,100,机械工业出版社,//cmpbook.jd.com
+992,12310732,《文本上的算法:深入浅出自然语言处理》(路彦雄)【摘要 书评 试读】- 京东图书,//item.jd.com/12310732.html,54.5,98,28000,人民邮电出版社,//ptpressjd.jd.com
+993,12312724,《深入理解Spring Cloud与微服务构建》(方志朋)【摘要 书评 试读】- 京东图书,//item.jd.com/12312724.html,54.5,98,25000,人民邮电出版社,//ptpressjd.jd.com
+994,12313020,《程序员2017精华本》【摘要 书评 试读】- 京东图书,//item.jd.com/12313020.html,70.2,100,300,电子工业出版社,//phei1982.jd.com
+995,12313532,《深度学习之TensorFlow：入门、原理与进阶实战》(李金洪)【摘要 书评 试读】- 京东图书,//item.jd.com/12313532.html,93.2,99,600,机械工业出版社,//cmpbook.jd.com
+996,12315939,《深度实践Spark机器学习》(吴茂贵　郁明敏　朱凤云　张粤磊　杨本法等)【摘要 书评 试读】- 京东图书,//item.jd.com/12315939.html,64.9,100,70,机械工业出版社,//cmpbook.jd.com
+997,12315967,《高效前端：Web高效编程与优化实践》(李银城)【摘要 书评 试读】- 京东图书,//item.jd.com/12315967.html,83.8,95,10000,机械工业出版社,//cmpbook.jd.com
+998,12316241,《Effective DevOps（中文版）》(Jennifer Davis，Ryn Daniels)【摘要 书评 试读】- 京东图书,//item.jd.com/12316241.html,66,99,100,中国电力出版社,//mall.jd.com/index-1000005549.html
+999,12316506,《scikit learn机器学习：常用算法原理及编程实战》(黄永昌)【摘要 书评 试读】- 京东图书,//item.jd.com/12316506.html,55.5,99,400,机械工业出版社,//cmpbook.jd.com
+1000,12316910,"《Node.js设计模式（第2版）》([爱尔兰]Mario Casciaro（马里奥·卡西罗）,[意大利]Luciano Mammino（卢西安诺·马米诺）)【摘要 书评 试读】- 京东图书",//item.jd.com/12316910.html,85.1,99,100,电子工业出版社,//phei1982.jd.com
+1001,12317007,《Java设计模式（高等学校设计模式课程系列教材）》(刘伟)【摘要 书评 试读】- 京东图书,//item.jd.com/12317007.html,55.6,100,40,清华大学出版社,//mall.jd.com/index-1000004111.html
+1002,12319257,《程序员的英语》([韩]朴栽浒，李海永)【摘要 书评 试读】- 京东图书,//item.jd.com/12319257.html,41.7,99,1000,人民邮电出版社,//ptpressjd.jd.com
+1003,12319546,《Nginx Lua开发实战》(李明江)【摘要 书评 试读】- 京东图书,//item.jd.com/12319546.html,93.2,98,100,机械工业出版社,//cmpbook.jd.com
+1004,12320030,《数据结构（C语言版 第2版 附微课视频）》(严蔚敏，李冬梅，吴伟民)【摘要 书评 试读】- 京东图书,//item.jd.com/12320030.html,27.6,99,900,人民邮电出版社,//ptpressjd.jd.com
+1005,12322298,"《Python数据分析从入门到精通》(张啸宇,李静)【摘要 书评 试读】- 京东图书",//item.jd.com/12322298.html,54.5,99,5100,电子工业出版社,//phei1982.jd.com
+1006,12323267,《Python编程导论 第2版》([美]约翰·谷泰格)【摘要 书评 试读】- 京东图书,//item.jd.com/12323267.html,58.7,99,400,人民邮电出版社,//ptpressjd.jd.com
+1007,12324068,《这样编码才规范 128个编码好习惯》([韩]朴晋锈)【摘要 书评 试读】- 京东图书,//item.jd.com/12324068.html,38.3,100,50,人民邮电出版社,//ptpressjd.jd.com
+1008,12324744,《枕边算法书》([韩]林栢濬)【摘要 书评 试读】- 京东图书,//item.jd.com/12324744.html,38.3,98,28000,人民邮电出版社,//ptpressjd.jd.com
+1009,12325207,《Java工程师修炼之道》(杭建)【摘要 书评 试读】- 京东图书,//item.jd.com/12325207.html,69,99,27000,电子工业出版社,//phei1982.jd.com
+1010,12325825,《Android组件化架构》(苍王)【摘要 书评 试读】- 京东图书,//item.jd.com/12325825.html,61.7,98,100,电子工业出版社,//phei1982.jd.com
+1011,12326620,《PostgreSQL 9.6从零开始学(视频教学版)》(李小威)【摘要 书评 试读】- 京东图书,//item.jd.com/12326620.html,53.1,100,30,清华大学出版社,//mall.jd.com/index-1000004111.html
+1012,12327466,《轻量级Java EE企业应用实战（第5版）――Struts 2+Spring 5+Hiberna》(李刚)【摘要 书评 试读】- 京东图书,//item.jd.com/12327466.html,101.1,100,80,电子工业出版社,//phei1982.jd.com
+1013,12328297,《JavaScript核心技术开发解密》(阳波)【摘要 书评 试读】- 京东图书,//item.jd.com/12328297.html,56.4,100,30,电子工业出版社,//phei1982.jd.com
+1014,12328920,《自学Python 编程基础、科学计算及数据分析》(李金)【摘要 书评 试读】- 京东图书,//item.jd.com/12328920.html,62.4,100,200,机械工业出版社,//cmpbook.jd.com
+1015,12330816,《Python数据分析入门――从数据获取到可视化》(沈祥壮)【摘要 书评 试读】- 京东图书,//item.jd.com/12330816.html,45.8,98,3700,电子工业出版社,//phei1982.jd.com
+1016,12331715,《R语言统计分析与应用》(汪海波)【摘要 书评 试读】- 京东图书,//item.jd.com/12331715.html,66.4,100,20,人民邮电出版社,//ptpressjd.jd.com
+1017,12331747,《微服务架构基础（Spring Boot+Spring Cloud+Docker）》(黑马程序员)【摘要 书评 试读】- 京东图书,//item.jd.com/12331747.html,27.7,99,100,人民邮电出版社,//ptpressjd.jd.com
+1018,12331990,《软件架构：Python语言实现》【摘要 书评 试读】- 京东图书,//item.jd.com/12331990.html,74.4,100,70,机械工业出版社,//cmpbook.jd.com
+1019,12333252,《Python与量化投资：从基础到实战》(王小川)【摘要 书评 试读】- 京东图书,//item.jd.com/12333252.html,78.2,99,700,电子工业出版社,//phei1982.jd.com
+1020,12333540,《Python 3网络爬虫开发实战》(崔庆才)【摘要 书评 试读】- 京东图书,//item.jd.com/12333540.html,83.2,100,1200,人民邮电出版社,//ptpressjd.jd.com
+1021,12334716,"《DevOps三十六计》(DevOps时代社区,高效运维社区)【摘要 书评 试读】- 京东图书",//item.jd.com/12334716.html,61,99,200,电子工业出版社,//phei1982.jd.com
+1022,12334802,《Laravel入门与实战：构建主流PHP应用开发框架》([美]Matt Stauffer（马特·斯托弗）)【摘要 书评 试读】- 京东图书,//item.jd.com/12334802.html,84.8,98,90,电子工业出版社,//phei1982.jd.com
+1023,12334806,《跨平台桌面应用开发：基于Electron与NW.js》([丹麦]Paul B.Jensen（保罗·B.詹森）)【摘要 书评 试读】- 京东图书,//item.jd.com/12334806.html,78,100,90,电子工业出版社,//phei1982.jd.com
+1024,12335366,《Python神经网络编程》([英]塔里克·拉希德（Tariq Rashid）)【摘要 书评 试读】- 京东图书,//item.jd.com/12335366.html,54.5,99,800,人民邮电出版社,//ptpressjd.jd.com
+1025,12335700,《零起点TensorFlow与量化交易》(何海群)【摘要 书评 试读】- 京东图书,//item.jd.com/12335700.html,80.9,98,8600,电子工业出版社,//phei1982.jd.com
+1026,12336101,《深入浅出RxJS》(程墨)【摘要 书评 试读】- 京东图书,//item.jd.com/12336101.html,83.8,96,20,机械工业出版社,//cmpbook.jd.com
+1027,12339870,"《Python金融数据分析》([新家坡],杰姆斯·马伟明（James,Ma,Weiming）)【摘要 书评 试读】- 京东图书",//item.jd.com/12339870.html,64.9,100,10,机械工业出版社,//cmpbook.jd.com
+1028,12340017,《Qt 5.9 C++开发指南》(王维波，栗宝鹃，侯春望)【摘要 书评 试读】- 京东图书,//item.jd.com/12340017.html,70.3,100,100,人民邮电出版社,//ptpressjd.jd.com
+1029,12340050,"《笨办法学C语言》([美]泽德,A.,肖（Zed,A.,Shaw）)【摘要 书评 试读】- 京东图书",//item.jd.com/12340050.html,58,100,50,人民邮电出版社,//ptpressjd.jd.com
+1030,12340068,《区块链技术进阶与实战》(蔡亮，李启雷，梁秀波)【摘要 书评 试读】- 京东图书,//item.jd.com/12340068.html,54.5,99,400,人民邮电出版社,//ptpressjd.jd.com
+1031,12340070,"《代码之外的功夫 程序员精进之路》([美]格雷戈里·布朗（Gregory,T.,Brown）)【摘要 书评 试读】- 京东图书",//item.jd.com/12340070.html,38.4,100,100,人民邮电出版社,//ptpressjd.jd.com
+1032,12340304,《Spring Boot 2.0企业级应用开发实战》(柳伟卫)【摘要 书评 试读】- 京东图书,//item.jd.com/12340304.html,98,99,3200,北京大学出版社,//pupbook.jd.com
+1033,12341528,"《AR游戏：基于Unity 5的增强现实开发》([加]Micheal,Lanham（米歇尔?拉纳姆）)【摘要 书评 试读】- 京东图书",//item.jd.com/12341528.html,65.2,100,7,电子工业出版社,//phei1982.jd.com
+1034,12342622,"《ROS机器人开发：实用案例分析》([美]卡罗尔·费尔柴尔德（Carol,Fairchild）,托马斯,L.哈曼（Thomas,L.Harman）)【摘要 书评 试读】- 京东图书",//item.jd.com/12342622.html,74.4,100,9,机械工业出版社,//cmpbook.jd.com
+1035,12343410,《RxJava响应式编程》(李衍顺)【摘要 书评 试读】- 京东图书,//item.jd.com/12343410.html,38.7,92,10,电子工业出版社,//phei1982.jd.com
+1036,12343414,"《现代编译原理 C语言描述 修订版》([美]安德鲁·W.安佩尔（Andrew,W.Appel）,马亚·金斯伯格（Maia,Ginsburg）)【摘要 书评 试读】- 京东图书",//item.jd.com/12343414.html,74.8,100,100,人民邮电出版社,//ptpressjd.jd.com
+1037,12345168,《Akka实战：快速构建高可用分布式应用》(杜云飞)【摘要 书评 试读】- 京东图书,//item.jd.com/12345168.html,64.9,100,30,机械工业出版社,//cmpbook.jd.com
+1038,12345435,《Python文本分析》(［印度］迪潘简·撒卡尔)【摘要 书评 试读】- 京东图书,//item.jd.com/12345435.html,74.4,100,6,机械工业出版社,//cmpbook.jd.com
+1039,12346808,"《Python 并行编程手册》([意大利]Giancarlo,Zaccone（詹卡洛,扎克尼）)【摘要 书评 试读】- 京东图书",//item.jd.com/12346808.html,48.7,100,10,电子工业出版社,//phei1982.jd.com
+1040,12346957,"《Python应用开发实战》([美],尼纳德·萨斯叶（Ninad,Sathaye）)【摘要 书评 试读】- 京东图书",//item.jd.com/12346957.html,66.4,100,6,人民邮电出版社,//ptpressjd.jd.com
+1041,12348089,《深度卷积网络：原理与实践》(彭博)【摘要 书评 试读】- 京东图书,//item.jd.com/12348089.html,121.4,100,10,机械工业出版社,//cmpbook.jd.com
+1042,12353314,《Apache Kafka实战》(胡夕)【摘要 书评 试读】- 京东图书,//item.jd.com/12353314.html,79.2,100,4,电子工业出版社,//phei1982.jd.com
+1043,12357088,"《Spring微服务实战》([美]约翰·卡内尔（John,Carnell）)【摘要 书评 试读】- 京东图书",//item.jd.com/12357088.html,62.4,100,50,人民邮电出版社,//ptpressjd.jd.com
